@@ -1,0 +1,911 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "PSM-ON-00001",
+            "game_name": "CAISHEN DAO",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSM-ON-00001.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PSM-ON-00002",
+            "game_name": "GOLD LEOPARD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSM-ON-00002.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PSM-ON-00003",
+            "game_name": "RUNNING BUFFALO",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSM-ON-00003.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PSM-ON-00004",
+            "game_name": "GIANT SHARK",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSM-ON-00004.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PSM-ON-00008",
+            "game_name": "BILLIONAIRE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSM-ON-00008.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00001",
+            "game_name": "CHINA EMPRESS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00001.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00005",
+            "game_name": "INDIA TREASURE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00005.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00009",
+            "game_name": "MADAME CAROLINE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00009.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00014",
+            "game_name": "LUCKY PANDA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00014.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00015",
+            "game_name": "WHO'S THE BOSS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00015.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00016",
+            "game_name": "KUNG HEI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00016.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00019",
+            "game_name": "THE EMPIRE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00019.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00024",
+            "game_name": "FA FA MONKEY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00024.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00025",
+            "game_name": "777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00025.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00026",
+            "game_name": "DOUBLE HAPPINESS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00026.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00028",
+            "game_name": "ATHENA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00028.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00029",
+            "game_name": "GLORIOUS KINGDOM",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00029.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00033",
+            "game_name": "FORTUNE GOD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00033.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00035",
+            "game_name": "WEREWOLF",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00035.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00038",
+            "game_name": "FACE OFF",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00038.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00044",
+            "game_name": "FORTUNE TELLER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00044.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00047",
+            "game_name": "ELEPHANT",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00047.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00051",
+            "game_name": "HALLOWEEN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00051.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00054",
+            "game_name": "RICH & HAPPY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00054.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00059",
+            "game_name": "VAMPIRE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00059.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00065",
+            "game_name": "SUPER RICH",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00065.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00067",
+            "game_name": "DRAGON BOAT FESTIVAL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00067.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00070",
+            "game_name": "ALCHEMY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00070.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00073",
+            "game_name": "MOON FESTIVAL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00073.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00079",
+            "game_name": "MONEY MEOW",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00079.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00083",
+            "game_name": "MY LORD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00083.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00085",
+            "game_name": "AURORA WOLF",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00085.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00086",
+            "game_name": "SANTA CLAUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00086.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00091",
+            "game_name": "SUPER POWERFUL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00091.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00092",
+            "game_name": "TOMB TREASURE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00092.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00093",
+            "game_name": "LOVE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00093.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00094",
+            "game_name": "PS CLUB",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00094.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00095",
+            "game_name": "HAND OF GOD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00095.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00096",
+            "game_name": "FORTUNE BULL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00096.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00099",
+            "game_name": "CHALLENGE・MAYAN CALENDAR",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00099.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00100",
+            "game_name": "ZUMA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00100.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00101",
+            "game_name": "CHALLENGE・FU LU SHOU XI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00101.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00102",
+            "game_name": "GOLDEN WEEK",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00102.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00104",
+            "game_name": "KUNGFU",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00104.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00105",
+            "game_name": "CHALLENGE・GOLDEN PIG",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00105.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00106",
+            "game_name": "WU XIA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00106.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00107",
+            "game_name": "SUPER BOOM",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00107.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00108",
+            "game_name": "RAT OF WEALTH",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00108.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00110",
+            "game_name": "MASTER HAHA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00110.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00111",
+            "game_name": "DA FU GUI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00111.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00112",
+            "game_name": "SUPER WIN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00112.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00114",
+            "game_name": "FISH PRAWN CRAB",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00114.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00115",
+            "game_name": "WHAT THE FA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00115.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00116",
+            "game_name": "BURLESQUE 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00116.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00119",
+            "game_name": "LUCKY POKER 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00119.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00123",
+            "game_name": "GOLDEN ZONGZI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00123.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00124",
+            "game_name": "DIAO CHAN FA DA CAI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00124.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00127",
+            "game_name": "SUPER AWESOME",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00127.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00129",
+            "game_name": "GOLDEN JADE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00129.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00131",
+            "game_name": "FANTASY SOUTHEAST ASIA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00131.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00132",
+            "game_name": "CRAZY 777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00132.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00133",
+            "game_name": "COIN MANIAC",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00133.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00135",
+            "game_name": "FEATURE BUY・GOLDEN PIG",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00135.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00136",
+            "game_name": "FEATURE BUY・CHRISTMAS EXPRESS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00136.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00137",
+            "game_name": "FEATURE BUY・SUPER POWERFUL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00137.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00139",
+            "game_name": "CHEF HUSKY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00139.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00141",
+            "game_name": "MAHJONG WAYS 3",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00141.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00146",
+            "game_name": "MAHJONG WAYS 3+",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00146.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00147",
+            "game_name": "TREASURES OF AZTEC Z",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00147.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00148",
+            "game_name": "SUGAR BOOM",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00148.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00149",
+            "game_name": "Lucky Ace",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00149.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00150",
+            "game_name": "CAISHEN-LUCKY SPREAD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00150.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00151",
+            "game_name": "ATHENA-LUCKY SPREAD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00151.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00152",
+            "game_name": "CAISHEN DADDY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00152.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00153",
+            "game_name": "MYSTIC LEGEND 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00153.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00154",
+            "game_name": "SUPER LUCKY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00154.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00155",
+            "game_name": "PYRAMID OF FLAMES",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00155.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00156",
+            "game_name": "FOR THE HORDE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00156.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00157",
+            "game_name": "PIGGY MASTER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00157.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00158",
+            "game_name": "CYBER CUBE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00158.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00159",
+            "game_name": "HORDE 2 WINTER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00159.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00160",
+            "game_name": "GO CLASH",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00160.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-00161",
+            "game_name": "CUBE?",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-00161.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-20009",
+            "game_name": "MADAME CAROLINE(JACKPOT)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-20009.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-20019",
+            "game_name": "THE EMPIRE(JACKPOT)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-20019.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-20065",
+            "game_name": "SUPER RICH(JACKPOT)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-20065.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-20091",
+            "game_name": "SUPER POWERFUL(JACKPOT)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-20091.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSS-ON-20105",
+            "game_name": "CHALLENGE・GOLDEN PIG(JACKPOT)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSS-ON-20105.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSTM-ON-00001",
+            "game_name": "LUCKY KOIN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSTM-ON-00001.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PSTM-ON-00003",
+            "game_name": "LUCKY CRUSH",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1050/SLOT/PSTM-ON-00003.png",
+            "product_id": 37,
+            "product_code": 1050,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "90"
+    }
+}

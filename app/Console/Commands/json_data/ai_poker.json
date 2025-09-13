@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "HASH_BLACK_JACK",
+            "game_name": "Black Jack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1149/POKER/HASH_BLACK_JACK.png",
+            "product_id": 42,
+            "product_code": 1149,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "1"
+    }
+}

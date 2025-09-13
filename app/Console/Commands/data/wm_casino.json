@@ -1,0 +1,361 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "2515",
+            "game_name": "BACCARAT#SM112",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/2515.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2516",
+            "game_name": "BACCARAT#SM113",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/2516.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2517",
+            "game_name": "BACCARAT#SM115",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/2517.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2518",
+            "game_name": "BACCARAT#SM116",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/2518.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2529",
+            "game_name": "SIC-BO#SM1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/2529.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3000",
+            "game_name": "BACCARAT#LV01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3000.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3001",
+            "game_name": "BACCARAT#LV02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3001.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3002",
+            "game_name": "BACCARAT#LV03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3002.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3003",
+            "game_name": "BACCARAT#LV04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3003.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3004",
+            "game_name": "BACCARAT#LV05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3004.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3005",
+            "game_name": "BACCARAT#LV06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3005.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3006",
+            "game_name": "BACCARAT#LV07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3006.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3007",
+            "game_name": "BACCARAT#LV08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3007.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3008",
+            "game_name": "BACCARAT#LSV01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3008.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3009",
+            "game_name": "BACCARAT#LV09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3009.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3010",
+            "game_name": "BACCARAT#LV10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3010.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3011",
+            "game_name": "BACCARAT#LV11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3011.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3101",
+            "game_name": "BACCARAT#G01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3101.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3102",
+            "game_name": "BACCARAT#G02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3102.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3103",
+            "game_name": "BACCARAT#G03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3103.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3105",
+            "game_name": "BACCARAT#G05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3105.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3106",
+            "game_name": "BACCARAT#G06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3106.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3107",
+            "game_name": "BACCARAT#G07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3107.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3108",
+            "game_name": "BACCARAT#G08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3108.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3109",
+            "game_name": "BACCARAT#G09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3109.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3110",
+            "game_name": "BACCARAT#G010",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3110.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3111",
+            "game_name": "BACCARAT#G11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3111.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3112",
+            "game_name": "BACCARAT#G12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3112.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3113",
+            "game_name": "BACCARAT#G13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3113.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3115",
+            "game_name": "BACCARAT#LVM01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3115.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3116",
+            "game_name": "BACCARAT#LVM02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/3116.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4001",
+            "game_name": "DRAGON-TIGER#DT01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/4001.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6101",
+            "game_name": "DOU-NIU#N01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/6101.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8103",
+            "game_name": "WIN3CARDS#W001",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/8103.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8201",
+            "game_name": "WIN3CARDS#T001",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1220/LIVE_CASINO/8201.png",
+            "product_id": 1336,
+            "product_code": 1220,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "35"
+    }
+}

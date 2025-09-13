@@ -1,0 +1,281 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "ALICE_IN_WONDERLAND",
+            "game_name": "Alice in Wonderland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/ALICE_IN_WONDERLAND.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BAAHUBALI",
+            "game_name": "Baahubali",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BAAHUBALI.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BILLIONAIRE_PARTY",
+            "game_name": "Billionaire Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BILLIONAIRE_PARTY.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BINGO_CARIBBEAN",
+            "game_name": "Caribbean Adventure Bingo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BINGO_CARIBBEAN.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BINGO_KITTY",
+            "game_name": "Kitty Bingo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BINGO_KITTY.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "BINGO_ROCKET",
+            "game_name": "GO for Launch! Bingo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BINGO_ROCKET.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BINGO_SAMBA",
+            "game_name": "Samba Bingo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/BINGO_SAMBA.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "CALL_UFO",
+            "game_name": "Call UFO",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/CALL_UFO.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FATE_AND_LUCK",
+            "game_name": "Fate and Luck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/FATE_AND_LUCK.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FIREWORKS",
+            "game_name": "Fireworks",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/FIREWORKS.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FLOWERISH_FAIRY",
+            "game_name": "Flowerish Fairy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/FLOWERISH_FAIRY.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FOUR_GENTLEMANLY_FLOWERS",
+            "game_name": "Four Gentlemanly Flowers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/FOUR_GENTLEMANLY_FLOWERS.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "GOD_OF_FORTUNE_LOTTERY",
+            "game_name": "The God of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/GOD_OF_FORTUNE_LOTTERY.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "HANG_TUAH",
+            "game_name": "Hang Tuah",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/HANG_TUAH.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "JACK_AND_THE_BEANSTALK",
+            "game_name": "Jack and the Beanstalk",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/JACK_AND_THE_BEANSTALK.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "JUNGLE_TREASURE",
+            "game_name": "Jungle Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/JUNGLE_TREASURE.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "LEGEND_OF_EASTER_ISLAND",
+            "game_name": "Legend of Easter Island",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/LEGEND_OF_EASTER_ISLAND.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MAGICIAN",
+            "game_name": "Magician",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/MAGICIAN.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "NIGHT_BAR",
+            "game_name": "Night Bar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/NIGHT_BAR.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PUTERI_GUNUNG_LEDANG",
+            "game_name": "Puteri Gunung Ledang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/PUTERI_GUNUNG_LEDANG.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ROTI_LAGI_SATU",
+            "game_name": "Roti Lagi Satu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/ROTI_LAGI_SATU.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SECRET_SCROLL_OF_NINJA",
+            "game_name": "Secret Scroll of Ninja",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/SECRET_SCROLL_OF_NINJA.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SUBMARINE_ABYSS",
+            "game_name": "Submarine Abyss",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/SUBMARINE_ABYSS.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "THORS_HAMMER",
+            "game_name": "Thor's Hammer",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/THORS_HAMMER.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "TITAN_MONSTER",
+            "game_name": "Titans",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/TITAN_MONSTER.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "TRIAL_OF_THE_FIRE_DRAGON",
+            "game_name": "TRIAL OF THE FIRE DRAGON",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/TRIAL_OF_THE_FIRE_DRAGON.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WIZARD_OF_OZ",
+            "game_name": "Wizard of Oz",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/SLOT/WIZARD_OF_OZ.png",
+            "product_id": 1177,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "27"
+    }
+}

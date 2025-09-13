@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Launch Demo - Client Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            display: none;
+        }
+        .success {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+        .game-url {
+            word-break: break-all;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            border: 1px solid #dee2e6;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Game Launch Demo - Client Site</h1>
+        <p>This demo shows how to use the game launch API from a client site.</p>
+        
+        <form id="launchForm">
+            <div class="form-group">
+                <label for="agent_code">Agent Code:</label>
+                <input type="text" id="agent_code" name="agent_code" value="your_agent_code" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="product_code">Product Code:</label>
+                <select id="product_code" name="product_code" required>
+                    <option value="">Select Product Code</option>
+                    <option value="1007">1007 (PG Soft)</option>
+                    <option value="1221">1221</option>
+                    <option value="1040">1040</option>
+                    <option value="1046">1046</option>
+                    <option value="1004">1004</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="game_type">Game Type:</label>
+                <input type="text" id="game_type" name="game_type" value="slot" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="member_account">Member Account:</label>
+                <input type="text" id="member_account" name="member_account" value="test_user" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="nickname">Nickname (Optional):</label>
+                <input type="text" id="nickname" name="nickname" value="Test Player">
+            </div>
+            
+            <button type="submit">Launch Game</button>
+        </form>
+        
+        <div class="loading" id="loading">
+            <p>Launching game...</p>
+        </div>
+        
+        <div class="result" id="result"></div>
+    </div>
+
+    <script>
+        document.getElementById('launchForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const data = Object.fromEntries(formData.entries());
+            
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('result').style.display = 'none';
+            
+            try {
+                const response = await fetch('/api/client/launch-game', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                    },
+                    body: JSON.stringify(data)
+                });
+                
+                const result = await response.json();
+                
+                const resultDiv = document.getElementById('result');
+                resultDiv.style.display = 'block';
+                
+                if (response.ok && result.code === 200) {
+                    resultDiv.className = 'result success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Game Launched Successfully!</h3>
+                        <p><strong>Message:</strong> ${result.message}</p>
+                        <p><strong>Game URL:</strong></p>
+                        <div class="game-url">${result.url}</div>
+                        ${result.content ? `<p><strong>Content:</strong> ${result.content}</p>` : ''}
+                        <p><a href="${result.url}" target="_blank" style="color: #007bff;">Open Game in New Tab</a></p>
+                    `;
+                } else {
+                    resultDiv.className = 'result error';
+                    resultDiv.innerHTML = `
+                        <h3>❌ Launch Failed</h3>
+                        <p><strong>Error Code:</strong> ${result.code}</p>
+                        <p><strong>Message:</strong> ${result.message}</p>
+                        ${result.errors ? `<p><strong>Validation Errors:</strong> ${JSON.stringify(result.errors)}</p>` : ''}
+                    `;
+                }
+            } catch (error) {
+                const resultDiv = document.getElementById('result');
+                resultDiv.style.display = 'block';
+                resultDiv.className = 'result error';
+                resultDiv.innerHTML = `
+                    <h3>❌ Network Error</h3>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                `;
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html> 

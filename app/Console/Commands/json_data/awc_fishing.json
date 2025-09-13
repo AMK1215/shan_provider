@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "FastSpin-FISH-001",
+            "game_name": "Fishing Treasure",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1139/FISHING/FastSpin-FISH-001.png",
+            "product_id": 35,
+            "product_code": 1139,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "1"
+    }
+}

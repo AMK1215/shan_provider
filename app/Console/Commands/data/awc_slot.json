@@ -1,0 +1,531 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "FastSpin-SLOT-001",
+            "game_name": "Royale House",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-001.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-002",
+            "game_name": "Sexy Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-002.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-003",
+            "game_name": "Roma",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-003.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-004",
+            "game_name": "Gold Rush Cowboy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-004.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-005",
+            "game_name": "Wild Wet Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-005.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-006",
+            "game_name": "Royal Katt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-006.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-007",
+            "game_name": "Rich Caishen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-007.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-008",
+            "game_name": "Muay Thai Fighter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-008.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-009",
+            "game_name": "Poker Ways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-009.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-010",
+            "game_name": "Triple Happiness",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-010.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-011",
+            "game_name": "Lucky Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-011.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-012",
+            "game_name": "Fruits Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-012.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-013",
+            "game_name": "Fiery Lava",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-013.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-014",
+            "game_name": "God of Wealth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-014.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-015",
+            "game_name": "Legend of Eagle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-015.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-016",
+            "game_name": "Neon Fantasy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-016.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-017",
+            "game_name": "Space Conquest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-017.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-018",
+            "game_name": "Loki",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-018.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-019",
+            "game_name": "Fortune Lions",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-019.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-020",
+            "game_name": "Honey Trap",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-020.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-021",
+            "game_name": "Oceanic Melodies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-021.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-022",
+            "game_name": "The Maya Myth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-022.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-023",
+            "game_name": "Spin and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-023.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-024",
+            "game_name": "Safari Blitz",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-024.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-025",
+            "game_name": "Goddess Of Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-025.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-026",
+            "game_name": "Heavenly Fortunes 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-026.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-027",
+            "game_name": "Ganesha Luck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-027.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-028",
+            "game_name": "Heavenly Fortunes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-028.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-029",
+            "game_name": "Mining Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-029.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-030",
+            "game_name": "The Nutcrackers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-030.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-031",
+            "game_name": "Legend of Nian",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-031.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-032",
+            "game_name": "The Great Safari",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-032.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-033",
+            "game_name": "Tiki Rush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-033.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-034",
+            "game_name": "Neko Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-034.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-035",
+            "game_name": "Mighty Sevens",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-035.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-036",
+            "game_name": "Mushroom Bandit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-036.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-037",
+            "game_name": "City of Jewels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-037.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-038",
+            "game_name": "Sweet Frenzy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-038.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-039",
+            "game_name": "Leprechaun Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-039.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-040",
+            "game_name": "Money Empire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-040.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-041",
+            "game_name": "Yeti Boom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-041.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-042",
+            "game_name": "Ranger Showdown",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-042.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-043",
+            "game_name": "Money Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-043.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-044",
+            "game_name": "Adventure To The West",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-044.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-045",
+            "game_name": "Farm Of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-045.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-046",
+            "game_name": "Caribbean Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-046.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-047",
+            "game_name": "Mahjong Princess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-047.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-048",
+            "game_name": "Pai Gow Ways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-048.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-049",
+            "game_name": "Nezha",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-049.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-050",
+            "game_name": "Apollo Ray of Luck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-050.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-051",
+            "game_name": "Pumpkins Go Lucky",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-051.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-SLOT-056",
+            "game_name": "Wild Mafia",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/SLOT/FastSpin-SLOT-056.png",
+            "product_id": 1171,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "52"
+    }
+}

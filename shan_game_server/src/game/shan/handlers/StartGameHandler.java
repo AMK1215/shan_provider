@@ -1,0 +1,23 @@
+package game.shan.handlers;
+
+import com.smartfoxserver.v2.entities.User;
+import com.smartfoxserver.v2.entities.data.ISFSObject;
+import com.smartfoxserver.v2.extensions.BaseClientRequestHandler;
+
+import game.shan.game.SKMGame;
+import game.shan.utils.RoomHelper;
+
+public class StartGameHandler extends BaseClientRequestHandler {
+
+	@Override
+	public void handleClientRequest(User user, ISFSObject object) {
+		// TODO Auto-generated method stub
+		
+		SKMGame game = RoomHelper.getGame(this);
+		game.startGame();
+		//game.processCreateBots(RoomHelper.getCurrentRoom(this));
+
+		//RoomHelper.getGame(this).sendOwner(RoomHelper.getCurrentRoom(this).getOwner(), false);
+	}
+
+}

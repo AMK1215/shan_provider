@@ -1,0 +1,191 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1jimb59c7ztqg",
+            "game_name": "Zodiac Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/1jimb59c7ztqg.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3uim5ppkiqwk1",
+            "game_name": "Belangkai",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/3uim5ppkiqwk1.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4ib98eidwno4c",
+            "game_name": "Sheng Xiao Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/4ib98eidwno4c.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "856dgq3a8r9d6",
+            "game_name": "Tangkas",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/856dgq3a8r9d6.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cqqwn8y7nejty",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/cqqwn8y7nejty.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cz3wgrounyetc",
+            "game_name": "Neptune Treasure Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/cz3wgrounyetc.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dc7sh3dfmjpio",
+            "game_name": "Dragon Tiger",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/dc7sh3dfmjpio.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ezjsgctugyauc",
+            "game_name": "Caishen Riches Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/ezjsgctugyauc.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fn6yhwksk7kfk",
+            "game_name": "Chilli Hunter Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/fn6yhwksk7kfk.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fxko1inijjfwo",
+            "game_name": "Out Run",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/fxko1inijjfwo.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hxb3p8r71kj3y",
+            "game_name": "Sicbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/hxb3p8r71kj3y.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "j3wngk3efrzn6",
+            "game_name": "Baccarat",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/j3wngk3efrzn6.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "pkjrofawnwfys",
+            "game_name": "Thai Hilo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/pkjrofawnwfys.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tocki7xk7xwq1",
+            "game_name": "Burning Pearl Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/tocki7xk7xwq1.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tt4ki7xk7xwq1",
+            "game_name": "Nyan Cat Run",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/tt4ki7xk7xwq1.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "uft593z8hu17w",
+            "game_name": "Koi Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/uft593z8hu17w.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "yr1zy9u9xt6zr",
+            "game_name": "HuLu",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/yr1zy9u9xt6zr.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "z7k6mqf3z495a",
+            "game_name": "Crypto Mania Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/OTHER/z7k6mqf3z495a.png",
+            "product_id": 1344,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "18"
+    }
+}

@@ -1,0 +1,1451 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1001",
+            "game_name": "Platinum Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1001.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1002",
+            "game_name": "Gold Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1002.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1003",
+            "game_name": "Silver Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1003.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1004",
+            "game_name": "Bronze scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1004.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1006",
+            "game_name": "Express 200",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1006.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1007",
+            "game_name": "Scratchy Mini",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1007.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1008",
+            "game_name": "Scratchy",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1008.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1009",
+            "game_name": "Scratchy Big",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1009.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1010",
+            "game_name": "King Treasure",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1010.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1011",
+            "game_name": "Queen Treasure",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1011.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1013",
+            "game_name": "Prince Treasure",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1013.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1014",
+            "game_name": "Happy Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1014.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1016",
+            "game_name": "Lucky Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1016.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1017",
+            "game_name": "Dream Car Urban",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1017.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1018",
+            "game_name": "Dream Car SUV",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1018.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1019",
+            "game_name": "Dream Car Speed",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1019.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1020",
+            "game_name": "Gold Rush",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1020.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1021",
+            "game_name": "Ruby Rush",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1021.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1022",
+            "game_name": "Diamond Rush",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1022.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1023",
+            "game_name": "Lucky Shot",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1023.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1024",
+            "game_name": "Cash Vault I",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1024.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1025",
+            "game_name": "Cash Vault II",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1025.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1027",
+            "game_name": "Lucky Numbers x8",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1027.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1028",
+            "game_name": "Lucky Numbers x12",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1028.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1029",
+            "game_name": "Lucky Numbers x16",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1029.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1030",
+            "game_name": "Lucky Numbers x20",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1030.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1031",
+            "game_name": "It's Bananas",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1031.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1034",
+            "game_name": "Double Salary 1 Year",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1034.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1045",
+            "game_name": "Shave the BEARD",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1045.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1046",
+            "game_name": "Cut the GRASS",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1046.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1047",
+            "game_name": "Scratch'em",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1047.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1050",
+            "game_name": "Break the ICE",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1050.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1051",
+            "game_name": "Frogs Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1051.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1052",
+            "game_name": "Gold Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1052.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1053",
+            "game_name": "Koi Cash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1053.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1057",
+            "game_name": "Cash Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1057.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1060",
+            "game_name": "Shave the Sheep",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1060.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1061",
+            "game_name": "Balloons",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1061.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1062",
+            "game_name": "Crazy Donuts",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1062.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1063",
+            "game_name": "Rat Riches",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1063.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1064",
+            "game_name": "Go Panda!",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1064.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1065",
+            "game_name": "Cash Pool",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1065.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1072",
+            "game_name": "Love is all you need",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1072.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1073",
+            "game_name": "Scratch a Million",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1073.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1079",
+            "game_name": "Football Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1079.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1080",
+            "game_name": "The Perfect Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1080.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1082",
+            "game_name": "Eggstra Cash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1082.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1089",
+            "game_name": "The BIG ONE",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1089.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1092",
+            "game_name": "Chaos Crew Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1092.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1108",
+            "game_name": "Scary Spooky Scratchy",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1108.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1109",
+            "game_name": "Snow Scratcher",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1109.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1110",
+            "game_name": "Tiger Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1110.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1121",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1121.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1122",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1122.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1123",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1123.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1124",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1124.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1125",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1125.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1126",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1126.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1139",
+            "game_name": "Stack'em Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1139.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1148",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1148.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1149",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1149.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1150",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1150.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1151",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1151.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1152",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1152.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1153",
+            "game_name": "Coins",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1153.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1154",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1154.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1155",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1155.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1156",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1156.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1157",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1157.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1158",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1158.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1159",
+            "game_name": "Boxes",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1159.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1180",
+            "game_name": "Summer Scratch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1180.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1294",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1294.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1295",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1295.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1296",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1296.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1297",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1297.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1298",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1298.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1299",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1299.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1300",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1300.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1321",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1321.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1322",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1322.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1323",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1323.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1324",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1324.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1325",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1325.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1326",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1326.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1327",
+            "game_name": "Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1327.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1328",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1328.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1329",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1329.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1330",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1330.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1331",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1331.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1332",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1332.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1333",
+            "game_name": "HiLo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1333.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1334",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1334.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1335",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1335.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1336",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1336.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1337",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1337.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1338",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1338.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1339",
+            "game_name": "Lines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1339.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1380",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1380.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1381",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1381.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1382",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1382.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1383",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1383.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1384",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1384.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1385",
+            "game_name": "Blocks",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1385.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1386",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1386.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1387",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1387.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1388",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1388.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1389",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1389.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1390",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1390.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1391",
+            "game_name": "Colors",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1391.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1416",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1416.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1417",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1417.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1418",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1418.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1419",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1419.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1420",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1420.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1421",
+            "game_name": "TwentyOne",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1421.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1446",
+            "game_name": "Baccarat",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1446.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1518",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1518.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1519",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1519.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1520",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1520.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1521",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1521.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1522",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1522.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1523",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1523.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1590",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1590.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1591",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1591.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1592",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1592.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1593",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1593.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1594",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1594.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1595",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1595.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1624",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1624.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1625",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1625.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1626",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1626.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1627",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1627.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1628",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1628.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1629",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1629.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1632",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1632.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1633",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1633.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1634",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1634.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1635",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1635.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1636",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1636.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1637",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1637.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1670",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1670.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1671",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1671.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1672",
+            "game_name": "Speed Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1153/OTHER/1672.png",
+            "product_id": 128,
+            "product_code": 1153,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "144"
+    }
+}

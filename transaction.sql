@@ -1,0 +1,4 @@
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(1, 14, 10.00, 10.00, 10.00, '0', '0', 9000.0000, 8990.0000, '2025-08-27 02:42:14', '2025-08-27 02:42:14', 13, 'P0101', 'settled_loss', 'OTqZnpWCOe5O');
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(2, 13, 10.00, NULL, NULL, '1', '1', 100000.0000, 100010.0000, '2025-08-27 02:42:14', '2025-08-27 02:42:14', 13, 'AG72360789', 'settled_win', 'OTqZnpWCOe5O');

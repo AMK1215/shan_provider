@@ -1,0 +1,189 @@
+// public function telegram_webhook(Request $request)
+    // {
+    //     //+++++++++++++++++++++++++++++++++++++++++
+    //     //Webhook
+    //     //+++++++++++++++++++++++++++++++++++++++++
+    //     $data = json_decode($request->getContent());
+    //     if ($data && isset($data->message)) {
+    //         $this->chat_id = $data->message->chat->id;
+    //         $this->message_text = $data->message->text ?? '';
+    //     }
+    // }
+//     public function telegram_webhook(Request $request)
+// {
+//     $data = json_decode($request->getContent());
+
+//     if ($data && isset($data->message)) {
+//         $chat_id = $data->message->chat->id;
+//         $user_message = strtolower(trim($data->message->text ?? ''));
+
+//         // Define simple logic for welcome-style messages
+//         $greetings = ['hi', 'hello', 'hey', 'start', '/start', 'yo'];
+
+//         if (in_array($user_message, $greetings)) {
+//             $this->bot->sendMessage([
+//                 'chat_id' => $chat_id,
+//                 'text' => "🎰 Welcome to our Game Site!\nGet ready for thrilling spins and big wins!",
+//                 'parse_mode' => 'HTML',
+//             ]);
+//         } else {
+//             // Optional fallback message or no reply
+//             $this->bot->sendMessage([
+//                 'chat_id' => $chat_id,
+//                 'text' => "Need help? Type /menu or /help to get started.",
+//                 'parse_mode' => 'HTML',
+//             ]);
+//         }
+//     }
+
+//     return response('ok', 200);
+// }
+
+// public function telegram_webhook(Request $request)
+// {
+//     $data = json_decode($request->getContent());
+
+//     if ($data && isset($data->message)) {
+//         $chat_id = $data->message->chat->id;
+//         $user_message = strtolower(trim($data->message->text ?? ''));
+
+//         // Define greetings you want to match
+//         $greetings = ['hi', 'hello', 'hey', 'start', '/start', 'yo', 'hi there', 'greetings'];
+
+//         // You can match exact or partial
+//         foreach ($greetings as $greet) {
+//             if (str_contains($user_message, $greet)) {
+//                 $this->bot->sendMessage([
+//                     'chat_id' => $chat_id,
+//                     'text' => "🎰 <b>Welcome to Lucky Million!</b>\nGet ready to spin, win, and enjoy the thrill of the reels!",
+//                     'parse_mode' => 'HTML',
+//                     'reply_markup' => [
+//                         'inline_keyboard' => [[
+//                             ['text' => '🎮 Play Now', 'url' => 'https://luckymillion.pro'],
+//                             ['text' => '📺 Watch Demo', 'url' => 'https://www.youtube.com/@code-180/videos']
+//                         ]]
+//                     ],
+//                 ]);
+//                 return response('ok', 200);
+//             }
+//         }
+
+//         // Fallback reply if not a greeting
+//         $this->bot->sendMessage([
+//             'chat_id' => $chat_id,
+//             'text' => "❓ I'm here to help. Type /help to see available commands or /menu to explore.",
+//             'parse_mode' => 'HTML'
+//         ]);
+//     }
+
+//     return response('ok', 200);
+// }
+
+
+// public function telegram_webhook(Request $request)
+// {
+//     $data = json_decode($request->getContent());
+
+//     if ($data && isset($data->message)) {
+//         $chat_id = $data->message->chat->id;
+//         $user_message = strtolower(trim($data->message->text ?? ''));
+
+//         $lang = $this->detectLanguage($user_message);
+//         $messages = config("telegram_welcome.$lang");
+
+//         $text = Arr::random($messages); // randomly select one message
+
+//         $this->bot->sendMessage([
+//             'chat_id' => $chat_id,
+//             'text' => $text,
+//             'parse_mode' => 'HTML',
+//             'reply_markup' => [
+//                 'inline_keyboard' => [[
+//                     ['text' => '🎮 Play Now', 'url' => 'https://luckymillion.pro'],
+//                     ['text' => '📺 Watch Demo', 'url' => 'https://youtube.com/@amk-technology?si=LkiWGWlzPN_Z4ILn']
+//                 ]]
+//             ],
+//         ]);
+//     }
+
+//     return response('ok', 200);
+// }
+
+// public function telegram_webhook(Request $request)
+// {
+//     $data = json_decode($request->getContent());
+
+//     if ($data && isset($data->message)) {
+//         $chat_id = $data->message->chat->id;
+//         $user_message = strtolower(trim($data->message->text ?? ''));
+
+//         // Detect language: Burmese or English
+//         $lang = $this->detectLanguage($user_message);
+//         // $this->notifyNewAccount($user->telegram_chat_id, $user->preferred_lang ?? 'en');
+//         // $this->sendEventNotification($user->telegram_chat_id, 'account_created', $user->preferred_lang ?? 'en');
+//         // $this->sendEventNotification($user->chat_id, 'account_deactivated', 'mm');
+//         // $this->sendEventNotification($user->chat_id, 'balance_updated', 'en');
+
+//         // Load messages based on detected language
+//         $messages = config("telegram_welcome.$lang");
+
+//         // Fallback to English if no messages found
+//         if (empty($messages)) {
+//             $messages = config("telegram_welcome.en", ["🎰 Welcome to Lucky Million!"]);
+//         }
+
+//         // Select a random welcome message
+//         $text = Arr::random($messages);
+
+//         // Send the welcome message with buttons
+//         $this->bot->sendMessage([
+//             'chat_id' => $chat_id,
+//             'text' => $text,
+//             'parse_mode' => 'HTML',
+//             'reply_markup' => [
+//                 'inline_keyboard' => [[
+//                     ['text' => '🎮 Play Now', 'url' => 'https://luckymillion.pro'],
+//                     ['text' => '📺 Watch Demo', 'url' => 'https://www.youtube.com/@code-180/videos']
+//                 ]]
+//             ],
+//         ]);
+//     }
+
+//     return response('ok', 200);
+// }
+
+public function notifyNewAccount($chat_id, $lang = 'en')
+{
+    $messages = config("telegram_welcome.account_created.$lang");
+
+    if (empty($messages)) {
+        $messages = config("telegram_welcome.account_created.en");
+    }
+
+    $text = Arr::random($messages);
+
+    $this->bot->sendMessage([
+        'chat_id' => $chat_id,
+        'text' => $text,
+        'parse_mode' => 'HTML',
+    ]);
+}
+
+public function sendEventNotification($chat_id, $event, $lang = 'en')
+{
+    $messages = config("telegram_welcome.events.$event.$lang");
+
+    if (empty($messages)) {
+        $messages = config("telegram_welcome.events.$event.en", []);
+    }
+
+    if (!empty($messages)) {
+        $text = Arr::random($messages);
+
+        $this->bot->sendMessage([
+            'chat_id' => $chat_id,
+            'text' => $text,
+            'parse_mode' => 'HTML',
+        ]);
+    }
+}

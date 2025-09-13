@@ -1,0 +1,141 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "ANDAR_BAHAR",
+            "game_name": "Andar Bahar",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/ANDAR_BAHAR.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BACCARAT",
+            "game_name": "Baccarat",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/BACCARAT.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BLACK_JACK",
+            "game_name": "Black Jack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/BLACK_JACK.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "COLOR_GAME",
+            "game_name": "Color Game",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/COLOR_GAME.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FISH_PRAWN_CRAB",
+            "game_name": "Fish Prawn Crab",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/FISH_PRAWN_CRAB.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "LONG_HU_DOU",
+            "game_name": "Long Hu Dou",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/LONG_HU_DOU.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "ROULETTE",
+            "game_name": "Roulette",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/ROULETTE.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SEVEN_UP_DOWN",
+            "game_name": "7 Up Down",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/SEVEN_UP_DOWN.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SIAM_BAN_LUCK",
+            "game_name": "Siam Ban Luck",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/SIAM_BAN_LUCK.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "TAI_XIU",
+            "game_name": "Tai Xiu",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/TAI_XIU.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "THREE_CARD_POKER",
+            "game_name": "Three Card Poker",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/THREE_CARD_POKER.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "TOSS_COIN",
+            "game_name": "Toss Coin",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/TOSS_COIN.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XOC_DIA",
+            "game_name": "Xoc Dia",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/POKER/XOC_DIA.png",
+            "product_id": 1176,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "13"
+    }
+}

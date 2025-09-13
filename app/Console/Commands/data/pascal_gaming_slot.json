@@ -1,0 +1,191 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "127",
+            "game_name": "20 Hot Seven",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/127.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "128",
+            "game_name": "40 Hot Seven",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/128.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "132",
+            "game_name": "100 Hot Seven",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/132.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "134",
+            "game_name": "Spicy Seven 1",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/134.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "135",
+            "game_name": "Spicy Seven 20",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/135.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "141433",
+            "game_name": "Big City Bank",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/141433.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "151",
+            "game_name": "Chancy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/151.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "155",
+            "game_name": "Extra King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/155.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "156",
+            "game_name": "Extra King 40",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/156.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "157",
+            "game_name": "Extra King 100",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/157.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "159",
+            "game_name": "Champions Cup",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/159.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "27",
+            "game_name": "Jumbo Diamond",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/27.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "28",
+            "game_name": "Drago Flame",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/28.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "29",
+            "game_name": "Big City Cars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/29.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "55",
+            "game_name": "Crazy Mummy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/55.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "56",
+            "game_name": "Dogo Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/56.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "57",
+            "game_name": "Mexicano",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/57.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "86",
+            "game_name": "Wild Weed",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1158/SLOT/86.png",
+            "product_id": 1242,
+            "product_code": 1158,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "18"
+    }
+}

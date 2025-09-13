@@ -1,0 +1,81 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1001",
+            "game_name": "Crash Royale",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1001.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1002",
+            "game_name": "Crash 3DX",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1002.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1003",
+            "game_name": "Crash Blood Burst",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1003.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1004",
+            "game_name": "Crash Ghostly",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1004.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1005",
+            "game_name": "Crash Witch",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1005.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1006",
+            "game_name": "Crash 1917",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1006.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1007",
+            "game_name": "Crash Dragon Flare",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1157/OTHER/1007.png",
+            "product_id": 74,
+            "product_code": 1157,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "7"
+    }
+}

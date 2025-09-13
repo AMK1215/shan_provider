@@ -1,0 +1,161 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1jeqx59c7ztqg",
+            "game_name": "Fish Hunter Monster Awaken",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/1jeqx59c7ztqg.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4omkmmpnwqokn",
+            "game_name": "Fish Hunter Spongebob",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/4omkmmpnwqokn.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8d7r1okge7nrk",
+            "game_name": "Fish Hunting: Da Sheng Nao Hai",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/8d7r1okge7nrk.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ary5bxi9z165r",
+            "game_name": "Fish Hunter 2 EX - My Club",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/ary5bxi9z165r.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "b8rzo7uzqt4sw",
+            "game_name": "Fish Hunting: Golden Toad",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/b8rzo7uzqt4sw.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ddpg1amgc71gk",
+            "game_name": "Insect Paradise",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/ddpg1amgc71gk.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "g54rso4yefdrq",
+            "game_name": "Fish Hunter 2 EX - Pro",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/g54rso4yefdrq.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "kk8nqm3cfwtng",
+            "game_name": "Fish Haiba",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/kk8nqm3cfwtng.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "nzkseaudcbosc",
+            "game_name": "Fish Hunting: Li Kui Pi Yu",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/nzkseaudcbosc.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "p63ornyjba8oa",
+            "game_name": "Fishermans Wharf",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/p63ornyjba8oa.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qq5ocdypyeboy",
+            "game_name": "Fish Hunter 2 EX - Novice",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/qq5ocdypyeboy.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "st5cmuqnaxycn",
+            "game_name": "Fish Hunting: Happy Fish 5",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/st5cmuqnaxycn.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wi17jwsu4de7c",
+            "game_name": "Fish Hunting: Yao Qian Shu",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/wi17jwsu4de7c.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xkhy6baryz7xs",
+            "game_name": "Fish Hunter 2 EX - Newbie",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/xkhy6baryz7xs.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xq9ohbyf9m79o",
+            "game_name": "Bird Paradise",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1225/FISHING/xq9ohbyf9m79o.png",
+            "product_id": 1345,
+            "product_code": 1225,
+            "support_currency": "PKR,BDT,NPR,PHP,THB,BRL,INR,USD,MYR,IDR,MMK,HKD,AUD,KRW,SGD,CNY,JPY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "15"
+    }
+}

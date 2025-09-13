@@ -1,0 +1,161 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1",
+            "game_name": "Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/1.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10",
+            "game_name": "Poipet VIP Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/10.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "14",
+            "game_name": "sedie",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/14.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2",
+            "game_name": "InBaccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/2.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20",
+            "game_name": "AndarBahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/20.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3",
+            "game_name": "DragonTiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/3.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4",
+            "game_name": "Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/4.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "41",
+            "game_name": "blockchain baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/41.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "42",
+            "game_name": "blockchain DragonTiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/42.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "43",
+            "game_name": "blockchain Three Cards",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/43.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "44",
+            "game_name": "blockchain Bull bull",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/44.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "45",
+            "game_name": "blockchain ThreeFace",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/45.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "46",
+            "game_name": "blockchain AndarBahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/46.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5",
+            "game_name": "Poipet Sicbo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/5.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6",
+            "game_name": "FanTan",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1038/LIVE_CASINO/6.png",
+            "product_id": 1140,
+            "product_code": 1038,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "16"
+    }
+}

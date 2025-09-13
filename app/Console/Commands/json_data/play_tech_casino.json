@@ -1,0 +1,541 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "3brgl",
+            "game_name": "3 Card Brag",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/3brgl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7eml",
+            "game_name": "Sette E Mezzo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/7eml.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "abl",
+            "game_name": "Andar Bahar Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/abl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "abwl",
+            "game_name": "Adventures Beyond Wonderland",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/abwl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "aogjbrol",
+            "game_name": "Age of the Gods Bonus Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/aogjbrol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bal",
+            "game_name": "Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bbwl",
+            "game_name": "Big Bad Wolf Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bbwl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "bfbl",
+            "game_name": "Buffalo Blitz Live Slots",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bfbl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_bal",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_bal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_pokl",
+            "game_name": "Bet on Poker Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_pokl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_ubal",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_ubal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_ubal123",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_ubal123.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_ubal1234",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_ubal1234.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bs_ubal12345",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/bs_ubal12345.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cbjl",
+            "game_name": "Italian Cashback Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/cbjl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ccrol",
+            "game_name": "Cash Collect Roulette Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/ccrol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "chel",
+            "game_name": "Casino Hold´em",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/chel.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cml",
+            "game_name": "Football Card Showdown Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/cml.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cspljpt",
+            "game_name": "Casino Stud Poker",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/cspljpt.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dtl",
+            "game_name": "Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/dtl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ejpl",
+            "game_name": "Everybody's Jackpot Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/ejpl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "fbbjl",
+            "game_name": "Mega Fire Blaze Blackjack Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/fbbjl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fbbl",
+            "game_name": "Mega Fire Blaze Lucky Ball Brasileiro",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/fbbl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fbrol",
+            "game_name": "Mega Fire Blaze Roulette Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/fbrol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "frofl",
+            "game_name": "Football French Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/frofl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "frol",
+            "game_name": "Football Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/frol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "game_shows",
+            "game_name": "Game shows",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/game_shows.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hilol",
+            "game_name": "Hi-Lo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/hilol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "jsrrl",
+            "game_name": "Jet Set Racing Roulette Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/jsrrl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_bal",
+            "game_name": "Baccarat lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_bal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_bjl",
+            "game_name": "Blackjack lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_bjl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_chel",
+            "game_name": "Poker lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_chel.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_dtl",
+            "game_name": "Dragon Tiger lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_dtl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_hilo",
+            "game_name": "Hi-Lo lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_hilo.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_rol",
+            "game_name": "Roulette lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_rol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_sicbo",
+            "game_name": "Sicbo lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_sicbo.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "lobby_launch_swl",
+            "game_name": "Spin a win lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/lobby_launch_swl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "msbjl",
+            "game_name": "Majority Rules Speed Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/msbjl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "nc_bal",
+            "game_name": "Baccarat NC",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/nc_bal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "qrol",
+            "game_name": "Quantum Auto Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/qrol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "rodzl",
+            "game_name": "American Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/rodzl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "sbdl",
+            "game_name": "SicBo Deluxe",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/sbdl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "smplrol",
+            "game_name": "K-Pop Roulette Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/smplrol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "sprol",
+            "game_name": "Spread Bet Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/sprol.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "swl",
+            "game_name": "Spin a Win",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/swl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "swle",
+            "game_name": "Spin A Win Wild Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/swle.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "test001_bs_ubal",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/test001_bs_ubal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "test002_bs_ubal",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/test002_bs_ubal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "test003_bs_ubal",
+            "game_name": "Bet on Baccarat Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/test003_bs_ubal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tgcsl",
+            "game_name": "The Greatest Cards Show",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/tgcsl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tpl",
+            "game_name": "Teen Patti",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/tpl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "ubal",
+            "game_name": "Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/ubal.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ubjl",
+            "game_name": "Unlimited Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1011/LIVE_CASINO/ubjl.png",
+            "product_id": 11,
+            "product_code": 1011,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "53"
+    }
+}

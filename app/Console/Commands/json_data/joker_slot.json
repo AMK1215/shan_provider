@@ -1,0 +1,2161 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "113qm5xnhxoqn",
+            "game_name": "Aladdin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/113qm5xnhxoqn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1abm3a9yh8uqq",
+            "game_name": "Safari Life 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1abm3a9yh8uqq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1bwmp4xq79sq4",
+            "game_name": "Black Knight",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1bwmp4xq79sq4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1iz58azdhdo6c",
+            "game_name": "Legend Of Persia",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1iz58azdhdo6c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1q36p58phmt6y",
+            "game_name": "Genie",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1q36p58phmt6y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1ru5x5zx7us6r",
+            "game_name": "Lightning God",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1ru5x5zx7us6r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1wt58azdhdo6c",
+            "game_name": "Wild Fairies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/1wt58azdhdo6c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3erm9p7wssiks",
+            "game_name": "Flames Of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/3erm9p7wssiks.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3fx69pizs144w",
+            "game_name": "Lucky Streak",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/3fx69pizs144w.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3hj4fkfji4z4a",
+            "game_name": "Lucky God Progressive 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/3hj4fkfji4z4a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3jxqtp7wssiks",
+            "game_name": "The Legend Of White Snake",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/3jxqtp7wssiks.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3yfmucpss64mk",
+            "game_name": "Dragon Power Flame",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/3yfmucpss64mk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "43bx3e7ywgukq",
+            "game_name": "Dolphin's Pearl Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/43bx3e7ywgukq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4akkze7ywgukq",
+            "game_name": "Crypto Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/4akkze7ywgukq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4d5kdkpqi6sk4",
+            "game_name": "Safari Heat",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/4d5kdkpqi6sk4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4eekxm7cistkg",
+            "game_name": "Dragon's Realm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/4eekxm7cistkg.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4py9dmfpwkt4y",
+            "game_name": "Date With Miyo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/4py9dmfpwkt4y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4tyxfmpnwqokn",
+            "game_name": "Octagon Gem",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/4tyxfmpnwqokn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "55hj8ghaugxj6",
+            "game_name": "Happy Buddha",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/55hj8ghaugxj6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5864tji8w113w",
+            "game_name": "Thai Paradise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5864tji8w113w.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5bgx7epgw61kk",
+            "game_name": "Queen 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5bgx7epgw61kk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5cx47jffukp3o",
+            "game_name": "Fabulous Eights",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5cx47jffukp3o.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5ii9zgw5unc3h",
+            "game_name": "Neptune Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5ii9zgw5unc3h.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5m6k9j7rwspjs",
+            "game_name": "Roma",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5m6k9j7rwspjs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5ypkuepgw61kk",
+            "game_name": "Water Reel",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/5ypkuepgw61kk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "67s75yrbo4dae",
+            "game_name": "Majapahit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/67s75yrbo4dae.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "69xaiyrbo4dae",
+            "game_name": "A Night Out",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/69xaiyrbo4dae.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6c5apdrpokbay",
+            "game_name": "Tsai Shen's Gift",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/6c5apdrpokbay.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6o5emdcnoqyen",
+            "game_name": "Aztec Temple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/6o5emdcnoqyen.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6po7ddrpokbay",
+            "game_name": "Alice In Wonderland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/6po7ddrpokbay.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "79mafnrjt48aa",
+            "game_name": "Pan Jin Lian",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/79mafnrjt48aa.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7b6c7rcs16kjk",
+            "game_name": "Ocean Spray",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7b6c7rcs16kjk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7cz37fritkfao",
+            "game_name": "Lucky Rooster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7cz37fritkfao.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7f9h9fwz11kaw",
+            "game_name": "Lucky Lady Charm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7f9h9fwz11kaw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7phhufritkfao",
+            "game_name": "Heist Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7phhufritkfao.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7rw3tfwz11kaw",
+            "game_name": "Arctic Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7rw3tfwz11kaw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7tccifcktqre1",
+            "game_name": "Chinese Boss",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/7tccifcktqre1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84igeq3a8r9d6",
+            "game_name": "Nugget Hunter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/84igeq3a8r9d6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "86burqb38a9ua",
+            "game_name": "Bushido Blade",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/86burqb38a9ua.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "86hskqb38a9ua",
+            "game_name": "Masquerade",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/86hskqb38a9ua.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8kzbot4rew7ds",
+            "game_name": "Journey To The West",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/8kzbot4rew7ds.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8nsbhokge7nrk",
+            "game_name": "Queen Of The Nile",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/8nsbhokge7nrk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8rqwot18etnuw",
+            "game_name": "Thunder God",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/8rqwot18etnuw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8u9r4tj48chd1",
+            "game_name": "Dynamite Reels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/8u9r4tj48chd1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "96k1k6d3x39za",
+            "game_name": "Big Game Safari",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/96k1k6d3x39za.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "99bzr6d3x39za",
+            "game_name": "Ni Shu Shen Me",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/99bzr6d3x39za.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9ii7s6u5xbhzh",
+            "game_name": "Yggdrasil",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9ii7s6u5xbhzh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9mqe9bhroi78s",
+            "game_name": "Golden Monkey King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9mqe9bhroi78s.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9rb79bw8o1nzw",
+            "game_name": "Winds Of Wealth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9rb79bw8o1nzw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9upe5bm4xph81",
+            "game_name": "Monkey King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9upe5bm4xph81.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9w6aa6u5xbhzh",
+            "game_name": "Golden Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9w6aa6u5xbhzh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9xpa7brfxj7zo",
+            "game_name": "Mammamia",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/9xpa7brfxj7zo.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "a7q65cfts455e",
+            "game_name": "Ong Bak 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/a7q65cfts455e.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "abkqpqp6z66m4",
+            "game_name": "Santa Workshop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/abkqpqp6z66m4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ahf5icfts455e",
+            "game_name": "Jin Fu Xing Yun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ahf5icfts455e.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "aij68ciusna5c",
+            "game_name": "Columbus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/aij68ciusna5c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ao6qfxp1sqamn",
+            "game_name": "Gates Of Wealth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ao6qfxp1sqamn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "aodmmxp1sqamn",
+            "game_name": "Zhao Cai Jin Bao",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/aodmmxp1sqamn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ape6dxf7sk35y",
+            "game_name": "Roma Legacy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ape6dxf7sk35y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ateqfxp1sqamn",
+            "game_name": "Dolphin Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ateqfxp1sqamn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "awn5jciusna5c",
+            "game_name": "Captains Treasure Progressive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/awn5jciusna5c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "axt5pxf7sk35y",
+            "game_name": "Highway Kings",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/axt5pxf7sk35y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "b1cnw7mkppwg1",
+            "game_name": "Thug Life",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/b1cnw7mkppwg1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "b4pde45epfzg6",
+            "game_name": "Genie 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/b4pde45epfzg6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "b5ggg45epfzg6",
+            "game_name": "Super Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/b5ggg45epfzg6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "b6nuk4djp3zsa",
+            "game_name": "Dia De Los Muertos Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/b6nuk4djp3zsa.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bcizh7dipjiso",
+            "game_name": "Mulan",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bcizh7dipjiso.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bes8675wqiigs",
+            "game_name": "Captain's Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bes8675wqiigs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bkxno75wqiigs",
+            "game_name": "Ong Bak Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bkxno75wqiigs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bmr8675wqiigs",
+            "game_name": "Witch's Brew",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bmr8675wqiigs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bqc117dipjiso",
+            "game_name": "Sweetie Crush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bqc117dipjiso.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bsp1s4umpbwsh",
+            "game_name": "Buccaneer Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bsp1s4umpbwsh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bwwza4umpbwsh",
+            "game_name": "Bonus Bear",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bwwza4umpbwsh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "byz81hmsq748k",
+            "game_name": "Supreme Caishen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/byz81hmsq748k.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "bzgza4umpbwsh",
+            "game_name": "Third Prince's Journey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/bzgza4umpbwsh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "c41bsraonrmbq",
+            "game_name": "Xuan Pu Lian Huan",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/c41bsraonrmbq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "c53raraonrmbq",
+            "game_name": "Pan Jin Lian 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/c53raraonrmbq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "c96w4rytnamte",
+            "game_name": "Ancient Rome Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/c96w4rytnamte.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "cuarr8e1ncebn",
+            "game_name": "Tropical Crush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/cuarr8e1ncebn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "d4fyes4amfxf6",
+            "game_name": "Feng Huang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/d4fyes4amfxf6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "d5qfgs4amfxf6",
+            "game_name": "Respin Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/d5qfgs4amfxf6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "d8cso3u8ct1iw",
+            "game_name": "Phoenix 888",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/d8cso3u8ct1iw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ddodhamgc71gk",
+            "game_name": "Christmas Eve",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ddodhamgc71gk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dhdirsn3m3xia",
+            "game_name": "Lucky God",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/dhdirsn3m3xia.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dkzdo35rcipfs",
+            "game_name": "China",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/dkzdo35rcipfs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dxxsh3dfmjpio",
+            "game_name": "Tai Shang Lao Jun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/dxxsh3dfmjpio.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "e5jgac3ogr5dq",
+            "game_name": "Ranchers Wealth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/e5jgac3ogr5dq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "e9qs4cbtga5ue",
+            "game_name": "Wealth God",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/e9qs4cbtga5ue.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ebudnqj68h6d4",
+            "game_name": "Happy Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ebudnqj68h6d4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ef1uyxt98o6ur",
+            "game_name": "Lucky God Progressive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ef1uyxt98o6ur.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "exesnxb7ge3uy",
+            "game_name": "Haunted House",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/exesnxb7ge3uy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "f1hywikkjprr1",
+            "game_name": "Panda Chef",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/f1hywikkjprr1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fk9yoi4wkifrs",
+            "game_name": "Fifty Lions",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/fk9yoi4wkifrs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fmjyoi4wkifrs",
+            "game_name": "Golden Sea",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/fmjyoi4wkifrs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "foff4ikkjprr1",
+            "game_name": "Water Margin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/foff4ikkjprr1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fqho1inijjfwo",
+            "game_name": "Dragon Of The Eastern Sea",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/fqho1inijjfwo.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "fwria11mjbrwh",
+            "game_name": "Three Kingdoms Quest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/fwria11mjbrwh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "g58bao4yefdrq",
+            "game_name": "Pubg",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/g58bao4yefdrq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gd3rn1kqj7gr4",
+            "game_name": "Queen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gd3rn1kqj7gr4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gdrbc1kqj7gr4",
+            "game_name": "Wild Watermelon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gdrbc1kqj7gr4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ggutqu1xjtgwr",
+            "game_name": "Oasis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ggutqu1xjtgwr.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gkubyu4cjibrg",
+            "game_name": "Joker Madness",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gkubyu4cjibrg.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gn1bc1kqj7gr4",
+            "game_name": "Bagua",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gn1bc1kqj7gr4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gqotnunpejbwy",
+            "game_name": "Fortune Festival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gqotnunpejbwy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gsttgo1debywc",
+            "game_name": "Octagon Gem 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gsttgo1debywc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "gz8tgo1debywc",
+            "game_name": "Chocolate Shop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/gz8tgo1debywc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "h33c3rho1gmjq",
+            "game_name": "Streets Of Chicago",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/h33c3rho1gmjq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ha1jzrho1gmjq",
+            "game_name": "Mayan Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ha1jzrho1gmjq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hb4cpgc6u6qj4",
+            "game_name": "Mythological",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/hb4cpgc6u6qj4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hcu3p8r71kj3y",
+            "game_name": "Power Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/hcu3p8r71kj3y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hf5hx8w9u1q3r",
+            "game_name": "Book Of Ra Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/hf5hx8w9u1q3r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hj5cb8hhusjjg",
+            "game_name": "Zodiac Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/hj5cb8hhusjjg.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "htacf8c11qejn",
+            "game_name": "Silver Hand",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/htacf8c11qejn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "i4rc816e388c6",
+            "game_name": "Robin Hood",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/i4rc816e388c6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ie9eti6w4zfcs",
+            "game_name": "Ancient Artifact",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ie9eti6w4zfcs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "igg7tisz4ukhw",
+            "game_name": "Egypt Queen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/igg7tisz4ukhw.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ioheiiqk3xrc1",
+            "game_name": "Book Of Ra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ioheiiqk3xrc1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ipz77igi3mfho",
+            "game_name": "Winter Sweets",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ipz77igi3mfho.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "itzp5iqk3xrc1",
+            "game_name": "Wild Spirit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/itzp5iqk3xrc1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "j6j1rkbjfaz1a",
+            "game_name": "Five Tiger Generals",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/j6j1rkbjfaz1a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "j9nzkkbjfaz1a",
+            "game_name": "Horus Eye",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/j9nzkkbjfaz1a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "jbzd1cjsgh4dk",
+            "game_name": "Sparta",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/jbzd1cjsgh4dk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "jpiuhpbifei1o",
+            "game_name": "Golden Rooster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/jpiuhpbifei1o.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "jsguaktmfyw1h",
+            "game_name": "Hercules",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/jsguaktmfyw1h.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "jxcs1pbifei1o",
+            "game_name": "Mermaid Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/jxcs1pbifei1o.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "k3anse3yrrunq",
+            "game_name": "MoneyBangBang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/k3anse3yrrunq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "k9gz4ebbrau1e",
+            "game_name": "Fifty Dragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/k9gz4ebbrau1e.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "kdn8ckjqfhsn4",
+            "game_name": "Pharaoh's Tomb",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/kdn8ckjqfhsn4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "kf41ymtxfos1r",
+            "game_name": "Ocean Paradise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/kf41ymtxfos1r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "kia1eetdryo1c",
+            "game_name": "Alice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/kia1eetdryo1c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "kxyznmbpret1y",
+            "game_name": "Enchanted Forest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/kxyznmbpret1y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "m94wkgy3daxta",
+            "game_name": "Mythical Sand",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/m94wkgy3daxta.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "mur8wje4dccb1",
+            "game_name": "Scheherazade",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/mur8wje4dccb1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "n1ydr5mncpogn",
+            "game_name": "Chilli Hunter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/n1ydr5mncpogn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "naagsa5ycfugq",
+            "game_name": "Ancient Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/naagsa5ycfugq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ne4gq55cpitgg",
+            "game_name": "Beanstalk",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ne4gq55cpitgg.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "nh9swadbc3use",
+            "game_name": "HighwayKings JP",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/nh9swadbc3use.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "nqyun5dpcjtsy",
+            "game_name": "Cyber Race",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/nqyun5dpcjtsy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "nzzugaudcbosc",
+            "game_name": "Love Letter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/nzzugaudcbosc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "o39k3h9o685xq",
+            "game_name": "Mahjong Reactor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/o39k3h9o685xq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "o3nxzh9o685xq",
+            "game_name": "Fei Long Zai Tian",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/o3nxzh9o685xq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "o7f9ih8t6559e",
+            "game_name": "Empress Regnant",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/o7f9ih8t6559e.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "oajk3h9o685xq",
+            "game_name": "Money Vault",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/oajk3h9o685xq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ofy9b9z99u69r",
+            "game_name": "Fire Reign",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ofy9b9z99u69r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ooekf9x16xaxn",
+            "game_name": "Kraken Hunter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ooekf9x16xaxn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "oqt9p9876m39y",
+            "game_name": "Azteca",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/oqt9p9876m39y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "orm4x9z99u69r",
+            "game_name": "League Of Legends",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/orm4x9z99u69r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "pd6rhresnhkbk",
+            "game_name": "Shaolin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/pd6rhresnhkbk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "pirtanombyroh",
+            "game_name": "Huga",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/pirtanombyroh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "pz7wsnombyroh",
+            "game_name": "Wizard Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/pz7wsnombyroh.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "q1gfrdenycyyn",
+            "game_name": "Snake Of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/q1gfrdenycyyn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "q9gi4yybyadoe",
+            "game_name": "Wild Giant Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/q9gi4yybyadoe.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qd1fcneqbhgy4",
+            "game_name": "Immortals",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/qd1fcneqbhgy4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qieoeyodyyyoc",
+            "game_name": "Captain's Treasure Pro",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/qieoeyodyyyoc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qmufydacbwbyg",
+            "game_name": "Warrior",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/qmufydacbwbyg.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qqgindypyeboy",
+            "game_name": "Hot Wheels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/qqgindypyeboy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "quofrdenycyyn",
+            "game_name": "Bagua 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/quofrdenycyyn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "qxoindypyeboy",
+            "game_name": "Geisha",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/qxoindypyeboy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "r8oiyz19mtqir",
+            "game_name": "Lucky Joker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/r8oiyz19mtqir.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "rg5oqz19mtqir",
+            "game_name": "Bali",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/rg5oqz19mtqir.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "rh8iwwntk3mie",
+            "game_name": "Dolphin Reef",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/rh8iwwntk3mie.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "rqaonzn7kjjiy",
+            "game_name": "The Four Invention",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/rqaonzn7kjjiy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "rsjogw1ukbeic",
+            "game_name": "Four Tigers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/rsjogw1ukbeic.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ruufkzk1kpefn",
+            "game_name": "SilverBullet Progressive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ruufkzk1kpefn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "s6xhiogba5dhe",
+            "game_name": "Football Rules",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/s6xhiogba5dhe.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "s77hiogba5dhe",
+            "game_name": "Peach Banquet",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/s77hiogba5dhe.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "satj3o6ya8dcq",
+            "game_name": "Just Jewels Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/satj3o6ya8dcq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "sbrjp1qq39gc4",
+            "game_name": "World Of Emoji",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/sbrjp1qq39gc4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "sco3dugpambhy",
+            "game_name": "Qatar 2022",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/sco3dugpambhy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "soojfuqnaxycn",
+            "game_name": "Hot Fruits",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/soojfuqnaxycn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "srd3xusx3ughr",
+            "game_name": "Enter The KTV",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/srd3xusx3ughr.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "swt38osdadyhc",
+            "game_name": "Black Beard Legacy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/swt38osdadyhc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "t656f48j75z6a",
+            "game_name": "Great Blue",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/t656f48j75z6a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tbfxuhxs694xk",
+            "game_name": "Lucky Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/tbfxuhxs694xk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "texkt79w6ziqs",
+            "game_name": "Wukong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/texkt79w6ziqs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "tqi9778i7mi6o",
+            "game_name": "Miami",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/tqi9778i7mi6o.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "u17q53q45xcp1",
+            "game_name": "White Snake",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/u17q53q45xcp1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "u6d7fsg355x7a",
+            "game_name": "Panther Moon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/u6d7fsg355x7a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "uafejs6a58xp6",
+            "game_name": "Bounty Hunter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/uafejs6a58xp6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ue8mt39rhzpps",
+            "game_name": "Cursed Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ue8mt39rhzpps.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ufc6t3z8hu17w",
+            "game_name": "Santa Surprise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ufc6t3z8hu17w.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "uh4amsg355x7a",
+            "game_name": "Fruit Paradise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/uh4amsg355x7a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ur8593z8hu17w",
+            "game_name": "Burning Pearl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ur8593z8hu17w.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "uygm7axgh91qk",
+            "game_name": "Yeh Hsien Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/uygm7axgh91qk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "w4ypzw6o48mpq",
+            "game_name": "Dragon Phoenix",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/w4ypzw6o48mpq.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wcaadzg74mj7y",
+            "game_name": "Lady Hawk",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wcaadzg74mj7y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wfo7bzs95uq7r",
+            "game_name": "Archer",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wfo7bzs95uq7r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wixa8wsu4de7c",
+            "game_name": "Sour Candy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wixa8wsu4de7c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wpqadzg74mj7y",
+            "game_name": "Trick Or Treat",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wpqadzg74mj7y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wpu7pzg74mj7y",
+            "game_name": "Lucky Drum",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wpu7pzg74mj7y.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wr5axzs95uq7r",
+            "game_name": "Forest Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wr5axzs95uq7r.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wtupmzq14xepn",
+            "game_name": "Lions Dance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wtupmzq14xepn.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ww3a8wsu4de7c",
+            "game_name": "Sizzling Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ww3a8wsu4de7c.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "wykepsq659qp4",
+            "game_name": "Four Dragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/wykepsq659qp4.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "x46x869a989x6",
+            "game_name": "Fat Choy Choy Sun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/x46x869a989x6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "x5ikj69a989x6",
+            "game_name": "Gold Trail",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/x5ikj69a989x6.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xbxy1yegyhnyk",
+            "game_name": "Jungle Island",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/xbxy1yegyhnyk.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xgbi6bo8yon9w",
+            "game_name": "Carnaval Do Rio",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/xgbi6bo8yon9w.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xkbfobaryz7xs",
+            "game_name": "Bull Street",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/xkbfobaryz7xs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xmzfobaryz7xs",
+            "game_name": "Lord Of The Ocean",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/xmzfobaryz7xs.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "xtpy4bx49xhx1",
+            "game_name": "Safari Life",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/xtpy4bx49xhx1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "y4jnah5oqf58q",
+            "game_name": "Yakuza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/y4jnah5oqf58q.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "y5n8sh5oqf58q",
+            "game_name": "Tiger's Lair",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/y5n8sh5oqf58q.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "y6q14hdtq35ze",
+            "game_name": "Beach Life",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/y6q14hdtq35ze.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ynknc6m6x7684",
+            "game_name": "Sweet Tooth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ynknc6m6x7684.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "yqe1n9d7qj3zy",
+            "game_name": "Three Kingdoms 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/yqe1n9d7qj3zy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ysj1ghuuqbazc",
+            "game_name": "Lion Of The East",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ysj1ghuuqbazc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ywozehuuqbazc",
+            "game_name": "Golden Island",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/ywozehuuqbazc.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "yxdzc9d7qj3zy",
+            "game_name": "Fire Reel",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/yxdzc9d7qj3zy.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "z1pc5tp4zqhm1",
+            "game_name": "Silver Bullet",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/z1pc5tp4zqhm1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zcw3utgfzk75o",
+            "game_name": "Huang Fei Hong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/zcw3utgfzk75o.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zezjtt6ras7ms",
+            "game_name": "Leprechaun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/zezjtt6ras7ms.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zhh6mqf3z495a",
+            "game_name": "Hawaii Vacay",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/zhh6mqf3z495a.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zowjitp4zqhm1",
+            "game_name": "Critter Mania Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/zowjitp4zqhm1.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zygj7oqga9nck",
+            "game_name": "Caishen Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1225/SLOT/zygj7oqga9nck.png",
+            "product_id": 183,
+            "product_code": 1225,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "215"
+    }
+}

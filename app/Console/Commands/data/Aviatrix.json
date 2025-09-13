@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "nft-aviatrix",
+            "game_name": "Aviatrix",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1165/OTHER/nft-aviatrix.png",
+            "product_id": 1254,
+            "product_code": 1165,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "1"
+    }
+}

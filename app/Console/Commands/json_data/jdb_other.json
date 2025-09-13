@@ -1,0 +1,351 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "12001",
+            "game_name": "Cai Shen Bingo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/12001.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "12002",
+            "game_name": "Gold Rooster Lottery",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/12002.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "12003",
+            "game_name": "Happy Lottery",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/12003.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18004",
+            "game_name": "Ya Zhuang Acey Deucey",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18004.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18020",
+            "game_name": "Minesweeper",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18020.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18021",
+            "game_name": "Scale",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18021.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18022",
+            "game_name": "Poker Racing",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18022.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18023",
+            "game_name": "San Gong",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18023.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18024",
+            "game_name": "Pusoy",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18024.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18025",
+            "game_name": "Tongits",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18025.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18026",
+            "game_name": "Dragon Tiger - Joker Bonus",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18026.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18027",
+            "game_name": "Pusoy Rush",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18027.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18028",
+            "game_name": "Tongits Fight",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18028.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "18029",
+            "game_name": "Tongits Rush",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/18029.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9001",
+            "game_name": "Classic Mario",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9001.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9002",
+            "game_name": "Happy New Year",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9002.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9003",
+            "game_name": "Birds And Animals",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9003.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9004",
+            "game_name": "Beer Tycoon",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9004.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9006",
+            "game_name": "Huaguoshan Legends",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9006.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9007",
+            "game_name": "Super Super Fruit",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9007.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9008",
+            "game_name": "Crazy King Kong",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9008.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9009",
+            "game_name": "King Of Football",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9009.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9010",
+            "game_name": "Lucky Color Game",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9010.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9011",
+            "game_name": "Caishen Party",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9011.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9012",
+            "game_name": "Jogo Do Bicho",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9012.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9013",
+            "game_name": "Galaxy Burst",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9013.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9014",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9014.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9015",
+            "game_name": "Firework Burst",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9015.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9016",
+            "game_name": "Goal",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9016.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9017",
+            "game_name": "Hilo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9017.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9018",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9018.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9019",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9019.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9020",
+            "game_name": "Mole Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9020.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "9021",
+            "game_name": "Mines2",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/OTHER/9021.png",
+            "product_id": 132,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "34"
+    }
+}

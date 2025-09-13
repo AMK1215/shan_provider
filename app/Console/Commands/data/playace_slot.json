@@ -1,0 +1,1151 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "AP02",
+            "game_name": "Mining Maniac",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/AP02.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "AP15",
+            "game_name": "Fortune Dragon Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/AP15.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BO4Q",
+            "game_name": "Wombaroo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/BO4Q.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "EP03",
+            "game_name": "Double Sicbo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/EP03.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FRU",
+            "game_name": "Fruit Slot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/FRU.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FRU2",
+            "game_name": "Fruit Slot2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/FRU2.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA01",
+            "game_name": "Pool Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA01.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA04",
+            "game_name": "City of Fame",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA04.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA06",
+            "game_name": "Toy City",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA06.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA08",
+            "game_name": "Pirate Loot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA08.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA16",
+            "game_name": "Shogun Honor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA16.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA22",
+            "game_name": "Aromatic Harbor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA22.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA27",
+            "game_name": "Night of Wonder",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA27.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA31",
+            "game_name": "Dragon Isle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA31.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MA33",
+            "game_name": "Elven Forest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/MA33.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PKBB",
+            "game_name": "Bonus Deuces Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/PKBB.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PKBD",
+            "game_name": "Deuces Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/PKBD.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PKBJ",
+            "game_name": "Video poker2(jacks or better)",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/PKBJ.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB01",
+            "game_name": "Space Odyssey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB01.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB02",
+            "game_name": "Garden Vintage",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB02.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB06",
+            "game_name": "Samurai",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB06.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB07",
+            "game_name": "Chinese Chess Slot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB07.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB08",
+            "game_name": "Mahjong Slot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB08.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB09",
+            "game_name": "Chess Slot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB09.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB10",
+            "game_name": "Happy Farm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB10.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB11",
+            "game_name": "Summer Campsite",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB11.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB28",
+            "game_name": "God of Wu Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB28.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB30",
+            "game_name": "Year of the Monkey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB30.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB33",
+            "game_name": "Candy Quest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB33.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB34",
+            "game_name": "Ice Crush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB34.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB37",
+            "game_name": "Shanghai Bund",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB37.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB45",
+            "game_name": "Legend of the Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB45.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB47",
+            "game_name": "Mystic Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB47.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB49",
+            "game_name": "The Dragon Pearl Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB49.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB50",
+            "game_name": "Mr XIN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB50.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB51",
+            "game_name": "King of Glory",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB51.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB55",
+            "game_name": "Lucky Combo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB55.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB56",
+            "game_name": "Vegas Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB56.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB57",
+            "game_name": "Evil Dragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB57.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB58",
+            "game_name": "Sexy Succubus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB58.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB59",
+            "game_name": "Kung Fu All Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB59.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB60",
+            "game_name": "Ace Heist",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB60.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB62",
+            "game_name": "Wild Gods",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB62.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB63",
+            "game_name": "Bingo Slot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB63.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB64",
+            "game_name": "Lucky Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB64.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB65",
+            "game_name": "Knight and Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB65.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB66",
+            "game_name": "Kong Invasion",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB66.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB67",
+            "game_name": "Wild Koi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB67.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB68",
+            "game_name": "Pirates Ahoy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB68.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB70",
+            "game_name": "Animal Fun Park",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB70.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB72",
+            "game_name": "Royal Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB72.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SB73",
+            "game_name": "Treasure Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SB73.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SC03",
+            "game_name": "Gold Class",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SC03.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SC05",
+            "game_name": "Wild 777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SC05.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SC06",
+            "game_name": "Beast Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SC06.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SC07",
+            "game_name": "Gold Class Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SC07.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLM6",
+            "game_name": "Treasure Jackpot Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SLM6.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SX02",
+            "game_name": "Street Battle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/SX02.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WA01",
+            "game_name": "Diamond Queen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WA01.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH01",
+            "game_name": "Alibaba",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH01.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH02",
+            "game_name": "Joan of Arc",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH02.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH03",
+            "game_name": "Real Champions",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH03.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH04",
+            "game_name": "Mucha Goddesses",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH04.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH06",
+            "game_name": "King Arthur",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH06.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH07",
+            "game_name": "Festival Lions",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH07.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH10",
+            "game_name": "Alice's Adventures",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH10.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH11",
+            "game_name": "The Storm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH11.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH12",
+            "game_name": "Panda's Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH12.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH17",
+            "game_name": "The Moon Lady",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH17.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH18",
+            "game_name": "Snow White",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH18.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH19",
+            "game_name": "Treasure Tarot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH19.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH20",
+            "game_name": "Huluwa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH20.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH21",
+            "game_name": "Bloody Kisses",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH21.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH22",
+            "game_name": "Dark Joker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH22.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH23",
+            "game_name": "Fengshen Yanyi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH23.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH24",
+            "game_name": "The Living Dead",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH24.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH25",
+            "game_name": "The Nutcracker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH25.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH26",
+            "game_name": "Sushi Nights",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH26.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH27",
+            "game_name": "Kabuki Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH27.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH28",
+            "game_name": "Egyptian Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH28.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH29",
+            "game_name": "Witch's Quest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH29.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH30",
+            "game_name": "Fortune Alchemy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH30.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH31",
+            "game_name": "Golden Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH31.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH32",
+            "game_name": "TanWanLanYue",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH32.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH34",
+            "game_name": "Touchdown Hottie",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH34.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH35",
+            "game_name": "Koi Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH35.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH36",
+            "game_name": "One Percenter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH36.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH38",
+            "game_name": "Chinese Zodiac",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH38.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH40",
+            "game_name": "Peking Opera",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH40.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH42",
+            "game_name": "Young and Dangerous",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH42.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH44",
+            "game_name": "Steampunk War",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH44.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH48",
+            "game_name": "Pillar of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH48.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH49",
+            "game_name": "Lucha Heroes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH49.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH52",
+            "game_name": "Bao Zu Po",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH52.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH54",
+            "game_name": "Ultra Shift",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH54.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH55",
+            "game_name": "Money Monster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH55.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH56",
+            "game_name": "Mermaid Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH56.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH58",
+            "game_name": "Lucky Express",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH58.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH62",
+            "game_name": "Sex and Zen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH62.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WH65",
+            "game_name": "Temple Raider",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/WH65.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG01",
+            "game_name": "Dragons Pearl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG01.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG02",
+            "game_name": "Lucky 8",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG02.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG03",
+            "game_name": "Bling Bling",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG03.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG04",
+            "game_name": "Goldfish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG04.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG05",
+            "game_name": "Chinese New Year",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG05.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG06",
+            "game_name": "Pirates",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG06.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG07",
+            "game_name": "Fruitmania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG07.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG08",
+            "game_name": "Red Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG08.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG09",
+            "game_name": "High Roller",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG09.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG10",
+            "game_name": "Dragon Boat Festival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG10.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG11",
+            "game_name": "Moon Festival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG11.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG12",
+            "game_name": "K-Pop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG12.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG13",
+            "game_name": "Fantasies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG13.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "XG16",
+            "game_name": "Kick Off",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/SLOT/XG16.png",
+            "product_id": 1311,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "248"
+    }
+}

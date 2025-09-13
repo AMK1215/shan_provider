@@ -1,0 +1,17 @@
+package game.shan.handlers;
+
+import com.smartfoxserver.v2.entities.User;
+import com.smartfoxserver.v2.entities.data.ISFSObject;
+import com.smartfoxserver.v2.extensions.BaseClientRequestHandler;
+
+import game.shan.utils.RoomHelper;
+
+public class PlayerDrawCardHandler extends BaseClientRequestHandler {
+
+	@Override
+	public void handleClientRequest(User sender, ISFSObject data) {
+		// TODO Auto-generated method stub
+		RoomHelper.getGame(this).processClientDraw(sender);
+	}
+
+}

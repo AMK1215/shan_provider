@@ -1,0 +1,41 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "PUSOY",
+            "game_name": "Pusoy",
+            "game_type": "P2P",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/P2P/PUSOY.png",
+            "product_id": 1249,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "PUSOY_DOS",
+            "game_name": "Pusoy Dos",
+            "game_type": "P2P",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/P2P/PUSOY_DOS.png",
+            "product_id": 1249,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "TONGITS",
+            "game_name": "Tongits",
+            "game_type": "P2P",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1148/P2P/TONGITS.png",
+            "product_id": 1249,
+            "product_code": 1148,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "3"
+    }
+}

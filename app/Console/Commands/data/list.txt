@@ -1,0 +1,106 @@
+WBet - no game lists
+awc_LIVE_CASINO - no game list
+BigGaming - has no game list
+DIGITAIN - has no game list 
+
+Providers in product_list.json:
+SBO
+Yee Bet
+GMAG
+Joker
+SA Gaming
+SpadeGaming
+Live22
+WMCasino
+Habanero
+WBet
+AWC
+IBC
+PG Soft
+PragmaticPlay
+Dream Gaming
+BigGaming
+EVOPLAY
+JDB
+PlayStar
+CT855
+CQ9
+Jili
+MrSlotty
+PlayAce
+BoomingGames
+Spribe
+WOW GAMING
+AI Live Casino
+HACKSAW
+BIGPOT
+IMoon
+PASCAL GAMING
+EPICWIN
+Fachai
+N2
+DIGITAIN
+Aviatrix
+SmartSoft
+WorldEntertainment
+FB Sports
+Rich88
+CT855(K0)
+AmigoGaming
+FBGames
+astar
+Providers in prod_provider_list.json:
+SBO
+Yee Bet
+GMAG
+Joker
+SA Gaming
+SpadeGaming
+Live22
+WMCasino
+Habanero
+WBet
+AWC
+IBC
+PG Soft
+PragmaticPlay
+Dream Gaming
+BigGaming
+EVOPLAY
+AdvantPlay
+JDB
+PlayStar
+CT855
+CQ9
+Jili
+MrSlotty
+PlayAce
+BoomingGames
+Spribe
+WOW GAMING
+AI Live Casino
+HACKSAW
+BIGPOT
+IMoon
+PASCAL GAMING
+EPICWIN
+Fachai
+N2
+DIGITAIN
+Aviatrix
+SmartSoft
+WorldEntertainment
+FB Sports
+Rich88
+CT855(K0)
+AmigoGaming
+FBGames
+PrettyGaming
+astar
+After comparing both lists, I can see that:
+Missing in product_list.json but present in prod_provider_list.json:
+AdvantPlay
+PrettyGaming
+Present in both files:
+All other providers are the same
+So to answer your question: No, the providers are not exactly the same. There are 2 providers (AdvantPlay and PrettyGaming) that are in prod_provider_list.json but not in product_list.json. All other providers are the same in both files.

@@ -1,0 +1,111 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "180",
+            "game_name": "Virtual Soccer",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/180.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "186",
+            "game_name": "Virtual Tennis",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/186.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "190",
+            "game_name": "Virtual Soccer League",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/190.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "191",
+            "game_name": "Virtual Soccer Nation",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/191.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "192",
+            "game_name": "Virtual Soccer World Cup",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/192.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "193",
+            "game_name": "Virtual Basketball",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/193.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "194",
+            "game_name": "Virtual Soccer Asian Cup",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/194.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "195",
+            "game_name": "Virtual Soccer English Premier",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/195.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "196",
+            "game_name": "Virtual Soccer Champions Cup",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/196.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "197",
+            "game_name": "Virtual Soccer Euro Cup",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/VIRTUAL_SPORT/197.png",
+            "product_id": 1226,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "10"
+    }
+}

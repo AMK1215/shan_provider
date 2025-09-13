@@ -1,0 +1,721 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "10101",
+            "game_name": "Baccarat D01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10102",
+            "game_name": "Baccarat\tD02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10103",
+            "game_name": "Baccarat\tD03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10104",
+            "game_name": "Baccarat\tD05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10104.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10105",
+            "game_name": "Baccarat\tD06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10106",
+            "game_name": "Baccarat\tD07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10106.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10107",
+            "game_name": "Baccarat\tD08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10107.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10108",
+            "game_name": "Baccarat\tD09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10108.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10109",
+            "game_name": "Baccarat\tD10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10109.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10201",
+            "game_name": "InBaccarat D13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10201.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10202",
+            "game_name": "InBaccarat D15",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10202.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10301",
+            "game_name": "DragonTiger D16",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10301.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10302",
+            "game_name": "DragonTiger D17",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10302.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10401",
+            "game_name": "Roulette D21",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10501",
+            "game_name": "Sicbo D22",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10501.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10701",
+            "game_name": "Bull",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10701.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10802",
+            "game_name": "Bid Baccarat D11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10802.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "10803",
+            "game_name": "Bid Baccarat\tD12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/10803.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "11101",
+            "game_name": "ThreeCard",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/11101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "11601",
+            "game_name": "Three Face",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/11601.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20101",
+            "game_name": "Baccarat\tA01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20102",
+            "game_name": "Baccarat\tA02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20103",
+            "game_name": "Baccarat\tA03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20105",
+            "game_name": "Baccarat\tA05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20201",
+            "game_name": "InBaccarat A08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20201.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20301",
+            "game_name": "DragonTiger A09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20301.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20401",
+            "game_name": "Roulette\tA11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20501",
+            "game_name": "Sicbo A12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/20501.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21401",
+            "game_name": "Sedie",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/21401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "22001",
+            "game_name": "AndarBahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/22001.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30101",
+            "game_name": "Site Baccarat C01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30102",
+            "game_name": "Site Baccarat\tC02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30103",
+            "game_name": "Site Baccarat\tC03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30105",
+            "game_name": "Site Baccarat\tC05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30106",
+            "game_name": "Site Baccarat\tC06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30106.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30301",
+            "game_name": "Site DragonTiger C07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30301.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30401",
+            "game_name": "Site Roulette C08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "30601",
+            "game_name": "FanTan",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/30601.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "50101",
+            "game_name": "Baccarat\tS01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/50101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "50102",
+            "game_name": "Baccarat\tS02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/50102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "50103",
+            "game_name": "Baccarat\tS03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/50103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "50104",
+            "game_name": "Baccarat\tS05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/50104.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "50105",
+            "game_name": "Baccarat\tS06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/50105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84101",
+            "game_name": "Blockchain Baccarat QD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84102",
+            "game_name": "Blockchain Baccarat QD02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84103",
+            "game_name": "Blockchain Baccarat QD03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84104",
+            "game_name": "Blockchain Baccarat QD05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84104.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84105",
+            "game_name": "Blockchain Baccarat QD06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84106",
+            "game_name": "Blockchain Baccarat QD07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84106.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84201",
+            "game_name": "Blockchain DragonTiger QD08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84201.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84202",
+            "game_name": "Blockchain DragonTiger\tQD09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84202.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84301",
+            "game_name": "Blockchain Three Cards QD10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84301.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84401",
+            "game_name": "Blockchain Bull Bull QD11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84501",
+            "game_name": "Blockchain ThreeFace QD12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84501.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84601",
+            "game_name": "Blockchain AndarBahar\tQD13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84601.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84701",
+            "game_name": "Blockchain Roulette QD15",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84701.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "84801",
+            "game_name": "Blockchain Sicbo QD16",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/84801.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94101",
+            "game_name": "Blockchain Baccarat QC01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94101.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94102",
+            "game_name": "Blockchain Baccarat QC02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94102.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94103",
+            "game_name": "Blockchain Baccarat QC03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94103.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94104",
+            "game_name": "Blockchain Baccarat QC05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94104.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94105",
+            "game_name": "Blockchain Baccarat QC06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94105.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94106",
+            "game_name": "Blockchain Baccarat QC07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94106.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94201",
+            "game_name": "Blockchain DragonTiger\tQC08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94201.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94202",
+            "game_name": "Blockchain DragonTiger\tQC09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94202.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94301",
+            "game_name": "Blockchain Three Cards\tQC10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94301.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94401",
+            "game_name": "Blockchain Bull Bull QC11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94401.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94501",
+            "game_name": "Blockchain ThreeFace QC12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94501.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94601",
+            "game_name": "Blockchain AndarBahar QC13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94601.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94701",
+            "game_name": "Blockchain Roulette QC15",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94701.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94801",
+            "game_name": "Blockchain Sicbo\tQC16",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1052/LIVE_CASINO/94801.png",
+            "product_id": 51,
+            "product_code": 1052,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "71"
+    }
+}

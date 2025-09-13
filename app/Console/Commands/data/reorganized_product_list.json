@@ -1,0 +1,1048 @@
+{
+    "ProviderGames": [
+        // SLOT games
+        {
+            "provider": "GMAG",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 4,
+            "product_id": 1147,
+            "product_code": 1011,
+            "product_name": "play_tech",
+            "game_type": "SLOT",
+            "product_title": "PlayTech"
+        },
+        {
+            "provider": "Joker",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 5,
+            "product_id": 1343,
+            "product_code": 1225,
+            "product_name": "joker",
+            "game_type": "SLOT",
+            "product_title": "Joker"
+        },
+        {
+            "provider": "SpadeGaming",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 10,
+            "product_id": 1327,
+            "product_code": 1221,
+            "product_name": "spadegaming",
+            "game_type": "SLOT",
+            "product_title": "SpadeGaming"
+        },
+        {
+            "provider": "Live22",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 11,
+            "product_id": 1237,
+            "product_code": 1018,
+            "product_name": "live_22",
+            "game_type": "SLOT",
+            "product_title": "Live22"
+        },
+        {
+            "provider": "Habanero",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 18,
+            "product_id": 1303,
+            "product_code": 1197,
+            "product_name": "habanero",
+            "game_type": "SLOT",
+            "product_title": "Habanero"
+        },
+        {
+            "provider": "AWC",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 23,
+            "product_id": 1171,
+            "product_code": 1139,
+            "product_name": "fastspin",
+            "game_type": "SLOT",
+            "product_title": "FASTSPIN"
+        },
+        {
+            "provider": "PG Soft",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 31,
+            "product_id": 1141,
+            "product_code": 1007,
+            "product_name": "pg_soft",
+            "game_type": "SLOT",
+            "product_title": "PGSoft"
+        },
+        {
+            "provider": "PragmaticPlay",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 32,
+            "product_id": 1185,
+            "product_code": 1006,
+            "product_name": "pragmatic_play",
+            "game_type": "SLOT",
+            "product_title": "PragmaticPlay"
+        },
+        {
+            "provider": "EVOPLAY",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 38,
+            "product_id": 1228,
+            "product_code": 1049,
+            "product_name": "evoplay",
+            "game_type": "SLOT",
+            "product_title": "EvoPlay"
+        },
+        {
+            "provider": "AdvantPlay",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 39,
+            "product_id": 1326,
+            "product_code": 1204,
+            "product_name": "advantplay",
+            "game_type": "SLOT",
+            "product_title": "Advantplay"
+        },
+        {
+            "provider": "JDB",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 41,
+            "product_id": 1194,
+            "product_code": 1085,
+            "product_name": "jdb",
+            "game_type": "SLOT",
+            "product_title": "JDB"
+        },
+        {
+            "provider": "PlayStar",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 42,
+            "product_id": 1174,
+            "product_code": 1050,
+            "product_name": "playstar",
+            "game_type": "SLOT",
+            "product_title": "PlayStar"
+        },
+        {
+            "provider": "CQ9",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 47,
+            "product_id": 1186,
+            "product_code": 1009,
+            "product_name": "cq9",
+            "game_type": "SLOT",
+            "product_title": "CQ9"
+        },
+        {
+            "provider": "Jili",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 48,
+            "product_id": 1144,
+            "product_code": 1091,
+            "product_name": "jili_tcg",
+            "game_type": "SLOT",
+            "product_title": "JiLi"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1143,
+            "product_code": 1058,
+            "product_name": "bgaming",
+            "game_type": "SLOT",
+            "product_title": "BGaming"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1150,
+            "product_code": 1070,
+            "product_name": "booongo",
+            "game_type": "SLOT",
+            "product_title": "Booongo"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1158,
+            "product_code": 1062,
+            "product_name": "fazi",
+            "game_type": "SLOT",
+            "product_title": "Fazi"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1153,
+            "product_code": 1098,
+            "product_name": "felix",
+            "game_type": "SLOT",
+            "product_title": "Felix"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1151,
+            "product_code": 1097,
+            "product_name": "funtagaming",
+            "game_type": "SLOT",
+            "product_title": "Funta"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1152,
+            "product_code": 1111,
+            "product_name": "gamingworld",
+            "game_type": "SLOT",
+            "product_title": "GamingWorld"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1145,
+            "product_code": 1102,
+            "product_name": "kagaming",
+            "game_type": "SLOT",
+            "product_title": "KAGaming"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1154,
+            "product_code": 1065,
+            "product_name": "kiron",
+            "game_type": "SLOT",
+            "product_title": "Kiron"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1155,
+            "product_code": 1055,
+            "product_name": "mrslotty",
+            "game_type": "SLOT",
+            "product_title": "MrSlotty"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1156,
+            "product_code": 1064,
+            "product_name": "netgame",
+            "game_type": "SLOT",
+            "product_title": "NetGame"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1157,
+            "product_code": 1067,
+            "product_name": "redrake",
+            "game_type": "SLOT",
+            "product_title": "RedRake"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1163,
+            "product_code": 1060,
+            "product_name": "volt_entertainment",
+            "game_type": "SLOT",
+            "product_title": "Volt Entertainment"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1160,
+            "product_code": 1101,
+            "product_name": "zeusplay",
+            "game_type": "SLOT",
+            "product_title": "ZeusPlay"
+        },
+        {
+            "provider": "PlayAce",
+            "currency": "MMK3",
+            "status": "ACTIVATED",
+            "provider_id": 50,
+            "product_id": 1311,
+            "product_code": 1203,
+            "product_name": "playace",
+            "game_type": "SLOT",
+            "product_title": "PlayAce"
+        },
+        {
+            "provider": "BoomingGames",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 68,
+            "product_id": 1280,
+            "product_code": 1115,
+            "product_name": "booming_games",
+            "game_type": "SLOT",
+            "product_title": "Booming Games"
+        },
+        {
+            "provider": "WOW GAMING",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 101,
+            "product_id": 1177,
+            "product_code": 1148,
+            "product_name": "wow_gaming",
+            "game_type": "SLOT",
+            "product_title": "WOW Gaming"
+        },
+        {
+            "provider": "HACKSAW",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 105,
+            "product_id": 1230,
+            "product_code": 1153,
+            "product_name": "hacksaw",
+            "game_type": "SLOT",
+            "product_title": "Hacksaw"
+        },
+        {
+            "provider": "BIGPOT",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 106,
+            "product_id": 1235,
+            "product_code": 1154,
+            "product_name": "bigpot",
+            "game_type": "SLOT",
+            "product_title": "BIGPOT"
+        },
+        {
+            "provider": "PASCAL GAMING",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 110,
+            "product_id": 1242,
+            "product_code": 1158,
+            "product_name": "pascal_gaming",
+            "game_type": "SLOT",
+            "product_title": "Pascal Gaming"
+        },
+        {
+            "provider": "EPICWIN",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 112,
+            "product_id": 1240,
+            "product_code": 1160,
+            "product_name": "epicwin",
+            "game_type": "SLOT",
+            "product_title": "EpicWin"
+        },
+        {
+            "provider": "Fachai",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 113,
+            "product_id": 1245,
+            "product_code": 1079,
+            "product_name": "fachai",
+            "game_type": "SLOT",
+            "product_title": "FaChai"
+        },
+        {
+            "provider": "N2",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 115,
+            "product_id": 1248,
+            "product_code": 1163,
+            "product_name": "novomatic",
+            "game_type": "SLOT",
+            "product_title": "NOVOMatic"
+        },
+        {
+            "provider": "N2",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 115,
+            "product_id": 1247,
+            "product_code": 1162,
+            "product_name": "octoplay",
+            "game_type": "SLOT",
+            "product_title": "OCTOPlay"
+        },
+        {
+            "provider": "SmartSoft",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 118,
+            "product_id": 1256,
+            "product_code": 1170,
+            "product_name": "smartsoft",
+            "game_type": "SLOT",
+            "product_title": "SmartSoft"
+        },
+        {
+            "provider": "WorldEntertainment",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 120,
+            "product_id": 1261,
+            "product_code": 1172,
+            "product_name": "world_entertainment",
+            "game_type": "SLOT",
+            "product_title": "World Entertainment"
+        },
+        {
+            "provider": "Rich88",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 124,
+            "product_id": 1277,
+            "product_code": 1184,
+            "product_name": "rich88",
+            "game_type": "SLOT",
+            "product_title": "RiCH88"
+        },
+        {
+            "provider": "AmigoGaming",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 127,
+            "product_id": 1298,
+            "product_code": 1192,
+            "product_name": "amigogaming",
+            "game_type": "SLOT",
+            "product_title": "AmigoGaming"
+        },
+
+        // LIVE_CASINO games
+        {
+            "provider": "Yee Bet",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 3,
+            "product_id": 1146,
+            "product_code": 1016,
+            "product_name": "yee_bet",
+            "game_type": "LIVE_CASINO",
+            "product_title": "YeeBet"
+        },
+        {
+            "provider": "GMAG",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 4,
+            "product_id": 1148,
+            "product_code": 1011,
+            "product_name": "play_tech",
+            "game_type": "LIVE_CASINO",
+            "product_title": "PlayTech"
+        },
+        {
+            "provider": "SA Gaming",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 8,
+            "product_id": 1279,
+            "product_code": 1185,
+            "product_name": "sa_gaming",
+            "game_type": "LIVE_CASINO",
+            "product_title": "SA Gaming"
+        },
+        {
+            "provider": "WMCasino",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 17,
+            "product_id": 1142,
+            "product_code": 1020,
+            "product_name": "wm_casino",
+            "game_type": "LIVE_CASINO",
+            "product_title": "WMCasino"
+        },
+        {
+            "provider": "AWC",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 23,
+            "product_id": 1166,
+            "product_code": 1022,
+            "product_name": "sexy_gaming",
+            "game_type": "LIVE_CASINO",
+            "product_title": "SexyGaming"
+        },
+        {
+            "provider": "PragmaticPlay",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 32,
+            "product_id": 1184,
+            "product_code": 1006,
+            "product_name": "pragmatic_play",
+            "game_type": "LIVE_CASINO",
+            "product_title": "PragmaticPlay"
+        },
+        {
+            "provider": "Dream Gaming",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 33,
+            "product_id": 1188,
+            "product_code": 1052,
+            "product_name": "dream_gaming",
+            "game_type": "LIVE_CASINO",
+            "product_title": "Dream Gaming"
+        },
+        {
+            "provider": "BigGaming",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 34,
+            "product_id": 1233,
+            "product_code": 1004,
+            "product_name": "big_gaming",
+            "game_type": "LIVE_CASINO",
+            "product_title": "BigGaming"
+        },
+        {
+            "provider": "Jili",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 48,
+            "product_id": 1273,
+            "product_code": 1091,
+            "product_name": "jili_tcg",
+            "game_type": "LIVE_CASINO",
+            "product_title": "JiLi"
+        },
+        {
+            "provider": "PlayAce",
+            "currency": "MMK3",
+            "status": "ACTIVATED",
+            "provider_id": 50,
+            "product_id": 1312,
+            "product_code": 1203,
+            "product_name": "playace",
+            "game_type": "LIVE_CASINO",
+            "product_title": "PlayAce"
+        },
+        {
+            "provider": "AI Live Casino",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 102,
+            "product_id": 1178,
+            "product_code": 1149,
+            "product_name": "ai_live_casino",
+            "game_type": "LIVE_CASINO",
+            "product_title": "AI Live Casino"
+        },
+        {
+            "provider": "WorldEntertainment",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 120,
+            "product_id": 1259,
+            "product_code": 1172,
+            "product_name": "world_entertainment",
+            "game_type": "LIVE_CASINO",
+            "product_title": "World Entertainment"
+        },
+        {
+            "provider": "FBGames",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 128,
+            "product_id": 1299,
+            "product_code": 1193,
+            "product_name": "fbgames",
+            "game_type": "LIVE_CASINO",
+            "product_title": "FBGames"
+        },
+        {
+            "provider": "PrettyGaming",
+            "currency": "MMK3",
+            "status": "ACTIVATED",
+            "provider_id": 129,
+            "product_id": 1310,
+            "product_code": 1194,
+            "product_name": "prettygaming",
+            "game_type": "LIVE_CASINO",
+            "product_title": "PrettyGaming"
+        },
+        {
+            "provider": "astar",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 137,
+            "product_id": 1336,
+            "product_code": 1220,
+            "product_name": "astar",
+            "game_type": "LIVE_CASINO",
+            "product_title": "Astar"
+        },
+        {
+            "provider": "SBO",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 2,
+            "product_id": 1192,
+            "product_code": 1012,
+            "product_name": "sbo",
+            "game_type": "LIVE_CASINO",
+            "product_title": "SBO"
+        },
+
+        // SPORT_BOOK games
+        {
+            "provider": "WBet",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 19,
+            "product_id": 1229,
+            "product_code": 1040,
+            "product_name": "wbet",
+            "game_type": "SPORT_BOOK",
+            "product_title": "WBet"
+        },
+        {
+            "provider": "IBC",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 30,
+            "product_id": 1181,
+            "product_code": 1046,
+            "product_name": "saba",
+            "game_type": "SPORT_BOOK",
+            "product_title": "Saba"
+        },
+        {
+            "provider": "DIGITAIN",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 116,
+            "product_id": 1258,
+            "product_code": 1164,
+            "product_name": "digitain",
+            "game_type": "SPORT_BOOK",
+            "product_title": "Digitain"
+        },
+        {
+            "provider": "WorldEntertainment",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 120,
+            "product_id": 1276,
+            "product_code": 1172,
+            "product_name": "world_entertainment",
+            "game_type": "SPORT_BOOK",
+            "product_title": "World Entertainment"
+        },
+        {
+            "provider": "FB Sports",
+            "currency": "MMK",
+            "status": "MAINTAINED",
+            "provider_id": 123,
+            "product_id": 1275,
+            "product_code": 1183,
+            "product_name": "fb_sports",
+            "game_type": "SPORT_BOOK",
+            "product_title": "FB Sports"
+        },
+        {
+            "provider": "SBO",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 2,
+            "product_id": 1189,
+            "product_code": 1012,
+            "product_name": "sbo",
+            "game_type": "SPORT_BOOK",
+            "product_title": "SBO"
+        },
+
+        // FISHING games
+        {
+            "provider": "Joker",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 5,
+            "product_id": 1345,
+            "product_code": 1225,
+            "product_name": "joker",
+            "game_type": "FISHING",
+            "product_title": "Joker"
+        },
+        {
+            "provider": "SpadeGaming",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 10,
+            "product_id": 1328,
+            "product_code": 1221,
+            "product_name": "spadegaming",
+            "game_type": "FISHING",
+            "product_title": "SpadeGaming"
+        },
+        {
+            "provider": "AWC",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 23,
+            "product_id": 1172,
+            "product_code": 1139,
+            "product_name": "fastspin",
+            "game_type": "FISHING",
+            "product_title": "FASTSPIN"
+        },
+        {
+            "provider": "BigGaming",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 34,
+            "product_id": 1234,
+            "product_code": 1004,
+            "product_name": "big_gaming",
+            "game_type": "FISHING",
+            "product_title": "BigGaming"
+        },
+        {
+            "provider": "JDB",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 41,
+            "product_id": 1195,
+            "product_code": 1085,
+            "product_name": "jdb",
+            "game_type": "FISHING",
+            "product_title": "JDB"
+        },
+        {
+            "provider": "CQ9",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 47,
+            "product_id": 1187,
+            "product_code": 1009,
+            "product_name": "cq9",
+            "game_type": "FISHING",
+            "product_title": "CQ9"
+        },
+        {
+            "provider": "Jili",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 48,
+            "product_id": 1165,
+            "product_code": 1091,
+            "product_name": "jili_tcg",
+            "game_type": "FISHING",
+            "product_title": "JiLi"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1285,
+            "product_code": 1097,
+            "product_name": "funtagaming",
+            "game_type": "FISHING",
+            "product_title": "Funta"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1284,
+            "product_code": 1102,
+            "product_name": "kagaming",
+            "game_type": "FISHING",
+            "product_title": "KAGaming"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1292,
+            "product_code": 1064,
+            "product_name": "netgame",
+            "game_type": "FISHING",
+            "product_title": "NetGame"
+        },
+        {
+            "provider": "Fachai",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 113,
+            "product_id": 1246,
+            "product_code": 1079,
+            "product_name": "fachai",
+            "game_type": "FISHING",
+            "product_title": "FaChai"
+        },
+
+        // POKER games
+        {
+            "provider": "SBO",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 2,
+            "product_id": 1190,
+            "product_code": 1012,
+            "product_name": "sbo",
+            "game_type": "POKER",
+            "product_title": "SBO"
+        },
+        {
+            "provider": "Jili",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 48,
+            "product_id": 1278,
+            "product_code": 1091,
+            "product_name": "jili_tcg",
+            "game_type": "POKER",
+            "product_title": "JiLi"
+        },
+        {
+            "provider": "WOW GAMING",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 101,
+            "product_id": 1176,
+            "product_code": 1148,
+            "product_name": "wow_gaming",
+            "game_type": "POKER",
+            "product_title": "WOW Gaming"
+        },
+        {
+            "provider": "astar",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 137,
+            "product_id": 1338,
+            "product_code": 1220,
+            "product_name": "astar",
+            "game_type": "POKER",
+            "product_title": "Astar"
+        },
+
+        // VIRTUAL_SPORT games
+        {
+            "provider": "SBO",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 2,
+            "product_id": 1191,
+            "product_code": 1012,
+            "product_name": "sbo",
+            "game_type": "VIRTUAL_SPORT",
+            "product_title": "SBO"
+        },
+        {
+            "provider": "IBC",
+            "currency": "MMK2",
+            "status": "ACTIVATED",
+            "provider_id": 30,
+            "product_id": 1226,
+            "product_code": 1046,
+            "product_name": "saba",
+            "game_type": "VIRTUAL_SPORT",
+            "product_title": "Saba"
+        },
+        {
+            "provider": "PragmaticPlay",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 32,
+            "product_id": 1255,
+            "product_code": 1006,
+            "product_name": "pragmatic_play",
+            "game_type": "VIRTUAL_SPORT",
+            "product_title": "PragmaticPlay"
+        },
+        {
+            "provider": "WorldEntertainment",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 120,
+            "product_id": 1260,
+            "product_code": 1172,
+            "product_name": "world_entertainment",
+            "game_type": "VIRTUAL_SPORT",
+            "product_title": "World Entertainment"
+        },
+
+        // OTHER games
+        {
+            "provider": "Joker",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 5,
+            "product_id": 1344,
+            "product_code": 1225,
+            "product_name": "joker",
+            "game_type": "OTHER",
+            "product_title": "Joker"
+        },
+        {
+            "provider": "JDB",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 41,
+            "product_id": 1296,
+            "product_code": 1085,
+            "product_name": "jdb",
+            "game_type": "OTHER",
+            "product_title": "JDB"
+        },
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1294,
+            "product_code": 1058,
+            "product_name": "bgaming",
+            "game_type": "OTHER",
+            "product_title": "BGaming"
+        },
+        {
+            "provider": "Spribe",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 92,
+            "product_id": 1,
+            "product_code": 1138,
+            "product_name": "spribe",
+            "game_type": "OTHER",
+            "product_title": "Spribe"
+        },
+        {
+            "provider": "IMoon",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 109,
+            "product_id": 1239,
+            "product_code": 1157,
+            "product_name": "imoon",
+            "game_type": "OTHER",
+            "product_title": "IMoon"
+        },
+        {
+            "provider": "Aviatrix",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 117,
+            "product_id": 1254,
+            "product_code": 1165,
+            "product_name": "aviatrix",
+            "game_type": "OTHER",
+            "product_title": "Aviatrix"
+        },
+        {
+            "provider": "astar",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 137,
+            "product_id": 1337,
+            "product_code": 1220,
+            "product_name": "astar",
+            "game_type": "OTHER",
+            "product_title": "Astar"
+        },
+
+        // COCK_FIGHTING games
+        {
+            "provider": "AWC",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 23,
+            "product_id": 1170,
+            "product_code": 1033,
+            "product_name": "sv388cockfighting",
+            "game_type": "COCK_FIGHTING",
+            "product_title": "SV388"
+        },
+
+        // LIVE_CASINO_PREMIUM games
+        {
+            "provider": "PragmaticPlay",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 32,
+            "product_id": 1300,
+            "product_code": 1006,
+            "product_name": "pragmatic_play",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "product_title": "PragmaticPlay"
+        },
+
+        // LOTTERY games
+        {
+            "provider": "MrSlotty",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 49,
+            "product_id": 1295,
+            "product_code": 1058,
+            "product_name": "bgaming",
+            "game_type": "LOTTERY",
+            "product_title": "BGaming"
+        },
+
+        // P2P games
+        {
+            "provider": "WOW GAMING",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 101,
+            "product_id": 1249,
+            "product_code": 1148,
+            "product_name": "wow_gaming",
+            "game_type": "P2P",
+            "product_title": "WOW Gaming"
+        }
+    ]
+} 

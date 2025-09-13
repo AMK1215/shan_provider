@@ -1,0 +1,51 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "105",
+            "game_name": "BG FISHING MASTER",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1004/FISHING/105.png",
+            "product_id": 69,
+            "product_code": 1004,
+            "support_currency": "IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "411",
+            "game_name": "BG XIYOUFISHING",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1004/FISHING/411.png",
+            "product_id": 69,
+            "product_code": 1004,
+            "support_currency": "IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "484",
+            "game_name": "BG DAISEN",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1004/FISHING/484.png",
+            "product_id": 69,
+            "product_code": 1004,
+            "support_currency": "IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "514",
+            "game_name": "BG GALAXY TREASURE",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1004/FISHING/514.png",
+            "product_id": 69,
+            "product_code": 1004,
+            "support_currency": "IDR2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "4"
+    }
+}

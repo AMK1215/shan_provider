@@ -1,0 +1,17 @@
+{
+    "ProviderGames": [
+      
+        {
+            "provider": "GMAG",
+            "currency": "MMK",
+            "status": "ACTIVATED",
+            "provider_id": 4,
+            "product_id": 1147,
+            "product_code": 1011,
+            "product_name": "play_tech",
+            "game_type": "SLOT",
+            "product_title": "PlayTech"
+        }
+       
+    ]
+} 

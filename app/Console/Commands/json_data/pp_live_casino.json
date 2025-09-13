@@ -1,0 +1,2841 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1001",
+            "game_name": "Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1001.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101",
+            "game_name": "Live Casino Lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/101.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102",
+            "game_name": "Roulette Lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/102.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1024",
+            "game_name": "Andar Bahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1024.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "103",
+            "game_name": "Blackjack Lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/103.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR,PHP",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "104",
+            "game_name": "Baccarat Lobby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/104.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "105",
+            "game_name": "Gameshows",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/105.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "107",
+            "game_name": "Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/107.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "108",
+            "game_name": "Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/108.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "109",
+            "game_name": "Sic Bo & Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/109.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "110",
+            "game_name": "D&W",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/110.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1101",
+            "game_name": "Sweet Bonanza CandyLand",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1101.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "111",
+            "game_name": "Other Promos",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/111.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "114",
+            "game_name": "Asian Games",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/114.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1301",
+            "game_name": "Spaceman",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1301.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1320",
+            "game_name": "Big Bass Crash",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1320.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1401",
+            "game_name": "Boom City",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1401.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1501",
+            "game_name": "Vegas Ball Bonanza",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1501.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1601",
+            "game_name": "Snake & Ladders Live",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1601.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1701",
+            "game_name": "Treasure Island",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/1701.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "201",
+            "game_name": "Roulette 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/201.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "203",
+            "game_name": "Speed Roulette 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/203.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "204",
+            "game_name": "Mega Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/204.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "205",
+            "game_name": "Speed Roulette 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/205.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "206",
+            "game_name": "Roulette Macao",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/206.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "208",
+            "game_name": "Turkish Mega Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/208.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "210",
+            "game_name": "Auto Mega Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/210.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2101",
+            "game_name": "Mega Sic Bac",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/2101.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "211",
+            "game_name": "Lucky 6 Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/211.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "213",
+            "game_name": "Korean Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/213.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2201",
+            "game_name": "High Flyer",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/2201.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "221",
+            "game_name": "Russian Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/221.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "222",
+            "game_name": "German Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/222.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "223",
+            "game_name": "Italian Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/223.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "224",
+            "game_name": "Turkish Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/224.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "225",
+            "game_name": "Auto Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/225.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "226",
+            "game_name": "Speed Auto Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/226.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "227",
+            "game_name": "Roulette Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/227.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "229",
+            "game_name": "Roulette Indian",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/229.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "230",
+            "game_name": "Roulette 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/230.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "230a20",
+            "game_name": "Roulette 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/230a20.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "233",
+            "game_name": "Romanian Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/233.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "234",
+            "game_name": "Spanish Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/234.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "237",
+            "game_name": "Brazilian Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/237.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "240",
+            "game_name": "PowerUP Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/240.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "262",
+            "game_name": "Vietnamese Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/262.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "266",
+            "game_name": "Auto Roulette VIP",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/266.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "270",
+            "game_name": "Fortune Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/270.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3001",
+            "game_name": "BlackjackX 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3001.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3002",
+            "game_name": "Blackjack X 2 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3002.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3003",
+            "game_name": "Blackjack X 3 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3003.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3004",
+            "game_name": "Blackjack X 4 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3004.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3005",
+            "game_name": "Blackjack X 5 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3005.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3006",
+            "game_name": "Blackjack X 6 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3006.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3007",
+            "game_name": "Blackjack X 7 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3007.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3008",
+            "game_name": "Blackjack X 8 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3008.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3009",
+            "game_name": "Blackjack X 9 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3009.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "301",
+            "game_name": "Blackjack 11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/301.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3010",
+            "game_name": "Blackjack X 10 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3010.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3015",
+            "game_name": "Blackjack X 15 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3015.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3016",
+            "game_name": "Blackjack X 16 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3016.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3017",
+            "game_name": "Blackjack X 17 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3017.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3018",
+            "game_name": "Blackjack X 18 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3018.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3019",
+            "game_name": "Blackjack X 19 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3019.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "302",
+            "game_name": "Blackjack 12 ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/302.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3020",
+            "game_name": "Blackjack X 20 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3020.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3021",
+            "game_name": "BlackjackX 21 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3021.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3024",
+            "game_name": "BlackjackX 24 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3024.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3025",
+            "game_name": "BlackjackX 25 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3025.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "303",
+            "game_name": "Blackjack 14",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/303.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR,PHP",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "304",
+            "game_name": "Blackjack 15",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/304.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3046",
+            "game_name": "BlackjackX 11 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3046.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3047",
+            "game_name": "BlackjackX 12 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/3047.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "305",
+            "game_name": "Blackjack 16",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/305.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "369",
+            "game_name": "Blackjack 86 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/369.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "370",
+            "game_name": "Speed Blackjack 38 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/370.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "371",
+            "game_name": "Speed Blackjack 39 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/371.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "401",
+            "game_name": "Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/401.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "402",
+            "game_name": "Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/402.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "403",
+            "game_name": "Speed Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/403.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "404",
+            "game_name": "Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/404.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "405",
+            "game_name": "Speed Baccarat 14",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/405.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "411",
+            "game_name": "Baccarat 5",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/411.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "412",
+            "game_name": "Speed Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/412.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "413",
+            "game_name": "Baccarat 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/413.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "414",
+            "game_name": "Speed Baccarat 5",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/414.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "415",
+            "game_name": "Speed Baccarat 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/415.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "421f",
+            "game_name": "Speed Baccarat 12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/421f.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "422f ",
+            "game_name": "Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/422f .png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "424f",
+            "game_name": "Speed Baccarat 11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/424f.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "425",
+            "game_name": "Baccarat 7",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/425.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "426b",
+            "game_name": "Baccarat 8",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/426b.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "427b",
+            "game_name": "Speed Baccarat 15",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/427b.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "428",
+            "game_name": "Speed Baccarat 10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/428.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "430",
+            "game_name": "Speed Baccarat 9",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/430.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "431",
+            "game_name": "Speed Baccarat 7",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/431.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "432",
+            "game_name": "Speed Baccarat 8",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/432.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "433",
+            "game_name": "Super 8 Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/433.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "434",
+            "game_name": "Fortune 6 Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/434.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "435",
+            "game_name": "Speed Baccarat 16",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/435.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "436",
+            "game_name": "Baccarat 9",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/436.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "438f",
+            "game_name": "Speed Baccarat 13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/438f.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "439",
+            "game_name": "Speed Baccarat 17",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/439.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "441",
+            "game_name": "Korean Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/441.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "442",
+            "game_name": "Mega Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/442.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "449",
+            "game_name": "Korean Speed Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/449.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "450",
+            "game_name": "Bahasa Indonesia Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/450.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "451",
+            "game_name": "Thai Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/451.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "454",
+            "game_name": "Privé Lounge Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/454.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "455",
+            "game_name": "Privé Lounge Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/455.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "456",
+            "game_name": "Privé Lounge Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/456.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "457",
+            "game_name": "Privé Lounge Baccarat 4",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/457.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "458",
+            "game_name": "Privé Lounge Baccarat 5",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/458.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "459",
+            "game_name": "Korean Speed Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/459.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "460",
+            "game_name": "Korean Speed Baccarat 4",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/460.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "466",
+            "game_name": "Privé Lounge Baccarat 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/466.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "467",
+            "game_name": "Privé Lounge Baccarat 7",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/467.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "468",
+            "game_name": "Privé Lounge Baccarat 8",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/468.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "476",
+            "game_name": "Korean Speed Baccarat 5",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/476.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "477",
+            "game_name": "Korean Speed Baccarat 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/477.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "479",
+            "game_name": "Vietnamese Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/479.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "481",
+            "game_name": "Chinese Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/481.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "482",
+            "game_name": "Chinese Speed Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/482.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "483",
+            "game_name": "Chinese Speed Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/483.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "488",
+            "game_name": "Japanese Speed Baccarat 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/488.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "489",
+            "game_name": "Japanese Speed Baccarat 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/489.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "490",
+            "game_name": "Japanese Speed Baccarat 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/490.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "491",
+            "game_name": "Punto Banco Italia Tricolore",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/491.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "511",
+            "game_name": "Blackjack 3 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/511.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "512",
+            "game_name": "Blackjack 6 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/512.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "513",
+            "game_name": "Blackjack 7 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/513.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "514",
+            "game_name": "Blackjack 4 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/514.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "515",
+            "game_name": "Blackjack 1 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/515.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "516",
+            "game_name": "Blackjack 9 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/516.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "517",
+            "game_name": "Blackjack 10 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/517.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "518",
+            "game_name": "Blackjack 5 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/518.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "519",
+            "game_name": "Blackjack 2 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/519.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "520",
+            "game_name": "Blackjack 8 - Azure ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/520.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "521",
+            "game_name": "Blackjack 17 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/521.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "522",
+            "game_name": "Blackjack 18 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/522.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "523",
+            "game_name": "Blackjack 19 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/523.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "524",
+            "game_name": "Blackjack 20 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/524.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "525",
+            "game_name": "Blackjack 21 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/525.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "526",
+            "game_name": "Blackjack 22 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/526.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "527",
+            "game_name": "Blackjack 23 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/527.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "528",
+            "game_name": "Blackjack 24 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/528.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "529",
+            "game_name": "Blackjack 25 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/529.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "530",
+            "game_name": "Blackjack 26 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/530.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "535",
+            "game_name": "Blackjack 31 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/535.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "536",
+            "game_name": "Blackjack 30 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/536.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "537",
+            "game_name": "Blackjack 29 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/537.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "538",
+            "game_name": "Blackjack 28 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/538.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "539",
+            "game_name": "Blackjack 27 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/539.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "540",
+            "game_name": "Blackjack 32 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/540.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "541",
+            "game_name": "Blackjack 33 - The Club",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/541.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "542",
+            "game_name": "Blackjack 34 - The Club ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/542.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "543",
+            "game_name": "Blackjack 35 - The Club",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/543.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "544",
+            "game_name": "Blackjack 36 - The Club ",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/544.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "545",
+            "game_name": "VIP Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/545.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "546",
+            "game_name": "VIP Blackjack 1 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/546.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "547",
+            "game_name": "VIP Blackjack 2 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/547.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "548",
+            "game_name": "VIP Blackjack 3 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/548.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "549",
+            "game_name": "VIP Blackjack 4 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/549.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "550",
+            "game_name": "VIP Blackjack 5 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/550.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "551",
+            "game_name": "Blackjack 48 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/551.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "552",
+            "game_name": "Blackjack 49 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/552.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "553",
+            "game_name": "Blackjack 50 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/553.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "554",
+            "game_name": "Blackjack 51 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/554.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "555",
+            "game_name": "Blackjack 41 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/555.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "556",
+            "game_name": "Blackjack 42 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/556.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "557",
+            "game_name": "Blackjack 43 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/557.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "558",
+            "game_name": "Blackjack 44 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/558.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "559",
+            "game_name": "Blackjack 45 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/559.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "560",
+            "game_name": "Blackjack 46 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/560.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "561",
+            "game_name": "Blackjack 47 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/561.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "562",
+            "game_name": "Blackjack 37 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/562.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "563",
+            "game_name": "Blackjack 38 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/563.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "564",
+            "game_name": "Blackjack 39 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/564.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "565",
+            "game_name": "Blackjack 40 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/565.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "566",
+            "game_name": "Speed Blackjack 1 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/566.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "567",
+            "game_name": "Speed Blackjack 2 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/567.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "568",
+            "game_name": "Speed Blackjack 3 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/568.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "569",
+            "game_name": "Blackjack 77 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/569.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "570",
+            "game_name": "Blackjack 78 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/570.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "590",
+            "game_name": "Blackjack 63 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/590.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "591",
+            "game_name": "Speed Blackjack 6 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/591.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "592",
+            "game_name": "Speed Blackjack 7 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/592.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "593",
+            "game_name": "Blackjack 56 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/593.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "594",
+            "game_name": "Blackjack 52 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/594.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "595",
+            "game_name": "Blackjack 53 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/595.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "596",
+            "game_name": "Blackjack 54 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/596.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "597",
+            "game_name": "Blackjack 55 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/597.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "598",
+            "game_name": "Blackjack 57 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/598.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "599",
+            "game_name": "Blackjack 58 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/599.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "600",
+            "game_name": "Blackjack 59 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/600.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "601",
+            "game_name": "Blackjack 60 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/601.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "602",
+            "game_name": "Blackjack 61 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/602.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "603",
+            "game_name": "Blackjack 62 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/603.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "604",
+            "game_name": "Speed Blackjack 8 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/604.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "605",
+            "game_name": "Speed Blackjack 9 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/605.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "606",
+            "game_name": "Speed Blackjack 10 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/606.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "607",
+            "game_name": "Speed Blackjack 11 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/607.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "608",
+            "game_name": "Speed Blackjack 12 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/608.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "609",
+            "game_name": "Speed Blackjack 14 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/609.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "612",
+            "game_name": "Speed Blackjack 15 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/612.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "613",
+            "game_name": "Speed Blackjack 16 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/613.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "614",
+            "game_name": "Speed Blackjack 17 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/614.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "615",
+            "game_name": "Speed Blackjack 18 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/615.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "616",
+            "game_name": "Blackjack 71 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/616.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "617",
+            "game_name": "Blackjack 72 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/617.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "618",
+            "game_name": "Blackjack 73 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/618.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "619",
+            "game_name": "Blackjack 74 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/619.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "620",
+            "game_name": "Blackjack 64 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/620.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "621",
+            "game_name": "Blackjack 65 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/621.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "622",
+            "game_name": "VIP Blackjack 9 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/622.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "623",
+            "game_name": "VIP Blackjack 10 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/623.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "624",
+            "game_name": "VIP Blackjack 11 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/624.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "625",
+            "game_name": "VIP Blackjack 12 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/625.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "626",
+            "game_name": "Blackjack 70 - Ruby",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/626.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "641",
+            "game_name": "Speed Blackjack 24 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/641.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "642",
+            "game_name": "Speed Blackjack 25 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/642.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "643",
+            "game_name": "Speed Blackjack 26 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/643.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "644",
+            "game_name": "Speed Blackjack 27 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/644.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "645",
+            "game_name": "Speed Blackjack 28 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/645.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "646",
+            "game_name": "Speed Blackjack 29 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/646.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "647",
+            "game_name": "Speed Blackjack 30 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/647.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "658",
+            "game_name": "Speed Blackjack 19 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/658.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "659",
+            "game_name": "Speed Blackjack 20 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/659.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "660",
+            "game_name": "Speed Blackjack 21 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/660.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "661",
+            "game_name": "Speed Blackjack 22 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/661.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "662",
+            "game_name": "VIP Blackjack 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/662.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "663",
+            "game_name": "VIP Blackjack 7",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/663.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "664",
+            "game_name": "VIP Blackjack 8",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/664.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "671",
+            "game_name": "VIP Blackjack 13 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/671.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "672",
+            "game_name": "VIP Blackjack 14 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/672.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "673",
+            "game_name": "Blackjack 82 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/673.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "674",
+            "game_name": "Blackjack 83 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/674.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "675",
+            "game_name": "Blackjack 84 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/675.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "676",
+            "game_name": "Blackjack 79 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/676.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "677",
+            "game_name": "Blackjack 80 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/677.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "678",
+            "game_name": "Blackjack 81 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/678.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "681",
+            "game_name": "Speed Blackjack 31 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/681.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "682",
+            "game_name": "Speed Blackjack 32 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/682.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "683",
+            "game_name": "Blackjack 85 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/683.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "684",
+            "game_name": "Speed Blackjack 36 - The Club",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/684.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "685",
+            "game_name": "Speed Blackjack 37 - The Club",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/685.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "686",
+            "game_name": "Speed Blackjack 35 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/686.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "687",
+            "game_name": "Speed Blackjack 33 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/687.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "688",
+            "game_name": "Speed Blackjack 34 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/688.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "701",
+            "game_name": "Mega Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/701.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "711",
+            "game_name": "Sicbo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/711.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "711a",
+            "game_name": "Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/711a.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "721",
+            "game_name": "Privé Lounge Blackjack 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/721.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "722",
+            "game_name": "Privé Lounge Blackjack 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/722.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "723",
+            "game_name": "Privé Lounge Blackjack 3",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/723.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "724",
+            "game_name": "Privé Lounge Blackjack 4",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/724.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "725",
+            "game_name": "Privé Lounge Blackjack 5",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/725.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "730",
+            "game_name": "Blackjack 75 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/730.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "731",
+            "game_name": "Blackjack 76 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/731.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "747",
+            "game_name": "Privé Lounge Blackjack 6",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/747.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "748",
+            "game_name": "Privé Lounge Blackjack 7",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/748.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "749",
+            "game_name": "Privé Lounge Blackjack 8",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/749.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "750",
+            "game_name": "Privé Lounge Blackjack 9",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/750.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "751",
+            "game_name": "Privé Lounge Blackjack 10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/751.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "767",
+            "game_name": "Blackjack 90 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/767.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "768",
+            "game_name": "Blackjack 91 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/768.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "769",
+            "game_name": "Blackjack 92 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/769.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "770",
+            "game_name": "Speed Blackjack 43 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/770.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "771",
+            "game_name": "Blackjack 93 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/771.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "772",
+            "game_name": "Speed Blackjack 44 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/772.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "773",
+            "game_name": "Speed Blackjack 45 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/773.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "774",
+            "game_name": "Speed Blackjack 46 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/774.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "775",
+            "game_name": "Speed Blackjack 47 - Azure",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/775.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "776",
+            "game_name": "Blackjack 87 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/776.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "777",
+            "game_name": "Blackjack 88 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/777.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "778",
+            "game_name": "Blackjack 89 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/778.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "779",
+            "game_name": "Speed Blackjack 40 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/779.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "780",
+            "game_name": "Speed Blackjack 41 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/780.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "781",
+            "game_name": "Speed Blackjack 42 - Emerald",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/781.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "801",
+            "game_name": "Mega Wheel",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/801.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "901",
+            "game_name": "ONE Blackjack 1",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/901.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR,PHP",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "902a9",
+            "game_name": "ONE Blackjack 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/902a9.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR,PHP",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "904",
+            "game_name": "Turkish ONE Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO/904.png",
+            "product_id": 49,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "294"
+    }
+}

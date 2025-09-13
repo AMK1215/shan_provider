@@ -1,0 +1,402 @@
+{
+  "info": {
+    "name": "Shankomee Provider API",
+    "description": "Complete API collection for Shankomee Game Provider integration",
+    "version": "2.0.3",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{token}}",
+        "type": "string"
+      }
+    ]
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://your-provider-domain.com/api",
+      "type": "string"
+    },
+    {
+      "key": "token",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "agent_code",
+      "value": "SCT931",
+      "type": "string"
+    },
+    {
+      "key": "member_account",
+      "value": "PLAYER001",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Authentication",
+      "item": [
+        {
+          "name": "Login",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"user_name\": \"agent001\",\n  \"password\": \"password123\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/login",
+              "host": ["{{base_url}}"],
+              "path": ["login"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Register",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"user_name\": \"newagent\",\n  \"name\": \"New Agent\",\n  \"phone\": \"1234567890\",\n  \"password\": \"password123\",\n  \"password_confirmation\": \"password123\",\n  \"shan_agent_code\": \"NEW001\",\n  \"shan_agent_name\": \"New Agent Name\",\n  \"shan_secret_key\": \"secret123\",\n  \"shan_callback_url\": \"https://client-site.com\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/register",
+              "host": ["{{base_url}}"],
+              "path": ["register"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Game Launch",
+      "item": [
+        {
+          "name": "Client Launch Game (No Auth)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_code\": \"{{agent_code}}\",\n  \"product_code\": 15,\n  \"game_type\": \"shan_komee\",\n  \"member_account\": \"{{member_account}}\",\n  \"balance\": 1000.00,\n  \"nickname\": \"Test Player\",\n  \"callback_url\": \"https://client-site.com/callback\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/client/launch-game",
+              "host": ["{{base_url}}"],
+              "path": ["client", "launch-game"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Authenticated Launch Game",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_code\": 15,\n  \"game_type\": \"shan_komee\",\n  \"member_account\": \"{{member_account}}\",\n  \"balance\": 1000.00,\n  \"nickname\": \"Test Player\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/seamless/launch-game",
+              "host": ["{{base_url}}"],
+              "path": ["seamless", "launch-game"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Balance Management",
+      "item": [
+        {
+          "name": "Get Balance",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"batch_requests\": [\n    {\n      \"member_account\": \"{{member_account}}\",\n      \"product_code\": 15\n    }\n  ],\n  \"operator_code\": \"OP001\",\n  \"currency\": \"MMK\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/shan/getbalance",
+              "host": ["{{base_url}}"],
+              "path": ["shan", "getbalance"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Transactions",
+      "item": [
+        {
+          "name": "Create Transaction",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              },
+              {
+                "key": "X-Transaction-Key",
+                "value": "yYpfrVcWmkwxWx7um0TErYHj4YcHOOWr"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"banker\": {\n    \"player_id\": \"SKP0101\"\n  },\n  \"players\": [\n    {\n      \"player_id\": \"{{member_account}}\",\n      \"bet_amount\": 100.00,\n      \"win_lose_status\": 1,\n      \"amount_changed\": 150.00\n    }\n  ]\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/transactions",
+              "host": ["{{base_url}}"],
+              "path": ["transactions"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Reports",
+      "item": [
+        {
+          "name": "Report Transactions (Grouped)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_code\": \"{{agent_code}}\",\n  \"date_from\": \"2025-01-01\",\n  \"date_to\": \"2025-01-31\",\n  \"member_account\": \"{{member_account}}\",\n  \"group_by\": \"both\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/provider/shan/report-transactions",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "report-transactions"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Member Transactions",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_code\": \"{{agent_code}}\",\n  \"member_account\": \"{{member_account}}\",\n  \"date_from\": \"2025-01-01\",\n  \"date_to\": \"2025-01-31\",\n  \"limit\": 50\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/provider/shan/member-transactions",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "member-transactions"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Today's Transactions",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_code\": \"{{agent_code}}\",\n  \"member_account\": \"{{member_account}}\",\n  \"limit\": 50\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/provider/shan/today-transactions",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "today-transactions"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Agent Management",
+      "item": [
+        {
+          "name": "Get Users by Agent",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_id\": 1\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/provider/shan/users-by-agent",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "users-by-agent"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get All Agents",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/provider/shan/agents",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "agents"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Agent Details",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"agent_id\": 1\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/provider/shan/agent-details",
+              "host": ["{{base_url}}"],
+              "path": ["provider", "shan", "agent-details"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Webhook Callbacks",
+      "item": [
+        {
+          "name": "Balance Update Callback (Example)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"wager_code\": \"abc123def456\",\n  \"game_type_id\": 15,\n  \"players\": [\n    {\n      \"player_id\": \"{{member_account}}\",\n      \"balance\": 1150.00\n    },\n    {\n      \"player_id\": \"SKP0101\",\n      \"balance\": 9850.00\n    }\n  ],\n  \"banker_balance\": 9850.00,\n  \"agent_balance\": 9850.00,\n  \"timestamp\": \"2025-01-15T10:30:00Z\",\n  \"total_player_net\": 100.00,\n  \"banker_amount_change\": -100.00,\n  \"signature\": \"abc123def456...\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/shan/client/balance-update",
+              "host": ["{{base_url}}"],
+              "path": ["shan", "client", "balance-update"]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Auto-set timestamp for requests that need it",
+          "if (pm.request.body && pm.request.body.raw) {",
+          "    const body = JSON.parse(pm.request.body.raw);",
+          "    if (body.timestamp === undefined) {",
+          "        body.timestamp = new Date().toISOString();",
+          "        pm.request.body.raw = JSON.stringify(body, null, 2);",
+          "    }",
+          "}"
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Auto-extract token from login response",
+          "if (pm.response.json() && pm.response.json().data && pm.response.json().data.token) {",
+          "    pm.environment.set('token', pm.response.json().data.token);",
+          "    console.log('Token saved to environment');",
+          "}",
+          "",
+          "// Log response for debugging",
+          "console.log('Response:', pm.response.json());"
+        ]
+      }
+    }
+  ]
+}

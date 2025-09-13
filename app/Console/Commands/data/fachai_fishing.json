@@ -1,0 +1,71 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "21003",
+            "game_name": "MONKEY KING FISHING",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21003.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,THB,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21004",
+            "game_name": "BAO CHUAN FISHING",
+            "game_type": "FISHIGH",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHIGH/21004.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,THB,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21006",
+            "game_name": "FIERCE FISHING",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21006.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,THB,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21007",
+            "game_name": "FA CHAI FISHING",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21007.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21008",
+            "game_name": "STAR HUNTER",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21008.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,THB,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "21009",
+            "game_name": "GODS GRANT FORTUNE",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21009.png",
+            "product_id": 1246,
+            "product_code": 1079,
+            "support_currency": "CAD,GBP,USDT,VND,IDR,AUD,MXN,JPY,HKD,HUF,SEK,PKR,LKR,IDR,USD,VND,PEN,NGN,CZK,BRL,CNY,MYR,EUR,NOK,NZD,THB,MMK,COP,SGD,CHF,ZAR,PHP,INR,RUB,KRW,BDT,KES,KHR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "6"
+    }
+}

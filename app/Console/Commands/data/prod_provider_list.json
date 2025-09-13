@@ -1,0 +1,482 @@
+[
+    {
+        "provider": "SBO",
+        "product_code": 1012,
+        "game_type": "POKER"
+    },
+    {
+        "provider": "SBO",
+        "product_code": 1012,
+        "game_type": "VIRTUAL_SPORT"
+    },
+    {
+        "provider": "SBO",
+        "product_code": 1012,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "SBO",
+        "product_code": 1012,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "Yee Bet",
+        "product_code": 1016,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "GMAG",
+        "product_code": 1011,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "GMAG",
+        "product_code": 1011,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "Joker",
+        "product_code": 1225,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "Joker",
+        "product_code": 1225,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "Joker",
+        "product_code": 1225,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "SA Gaming",
+        "product_code": 1185,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "SpadeGaming",
+        "product_code": 1221,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "SpadeGaming",
+        "product_code": 1221,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "Live22",
+        "product_code": 1018,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "WMCasino",
+        "product_code": 1020,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "Habanero",
+        "product_code": 1197,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "WBet",
+        "product_code": 1040,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "AWC",
+        "product_code": 1139,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "AWC",
+        "product_code": 1139,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "AWC",
+        "product_code": 1022,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "AWC",
+        "product_code": 1033,
+        "game_type": "COCK_FIGHTING"
+    },
+    {
+        "provider": "IBC",
+        "product_code": 1046,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "IBC",
+        "product_code": 1046,
+        "game_type": "VIRTUAL_SPORT"
+    },
+    {
+        "provider": "IBC",
+        "product_code": 1046,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "PG Soft",
+        "product_code": 1007,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "PragmaticPlay",
+        "product_code": 1006,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "PragmaticPlay",
+        "product_code": 1006,
+        "game_type": "LIVE_CASINO_PREMIUM"
+    },
+    {
+        "provider": "PragmaticPlay",
+        "product_code": 1006,
+        "game_type": "VIRTUAL_SPORT"
+    },
+    {
+        "provider": "PragmaticPlay",
+        "product_code": 1006,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "Dream Gaming",
+        "product_code": 1052,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "BigGaming",
+        "product_code": 1004,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "BigGaming",
+        "product_code": 1004,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "EVOPLAY",
+        "product_code": 1049,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "AdvantPlay",
+        "product_code": 1204,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "JDB",
+        "product_code": 1085,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "JDB",
+        "product_code": 1085,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "JDB",
+        "product_code": 1085,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "PlayStar",
+        "product_code": 1050,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "CT855",
+        "product_code": 1038,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "CQ9",
+        "product_code": 1009,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "CQ9",
+        "product_code": 1009,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "Jili",
+        "product_code": 1091,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "Jili",
+        "product_code": 1091,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "Jili",
+        "product_code": 1091,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "Jili",
+        "product_code": 1091,
+        "game_type": "POKER"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1058,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1058,
+        "game_type": "LOTTERY"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1058,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1070,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1062,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1098,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1097,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1097,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1111,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1102,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1102,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1065,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1055,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1064,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1064,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1067,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1060,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "MrSlotty",
+        "product_code": 1101,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "PlayAce",
+        "product_code": 1203,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "PlayAce",
+        "product_code": 1203,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "BoomingGames",
+        "product_code": 1115,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "Spribe",
+        "product_code": 1138,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "WOW GAMING",
+        "product_code": 1148,
+        "game_type": "POKER"
+    },
+    {
+        "provider": "WOW GAMING",
+        "product_code": 1148,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "WOW GAMING",
+        "product_code": 1148,
+        "game_type": "P2P"
+    },
+    {
+        "provider": "AI Live Casino",
+        "product_code": 1149,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "HACKSAW",
+        "product_code": 1153,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "BIGPOT",
+        "product_code": 1154,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "IMoon",
+        "product_code": 1157,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "PASCAL GAMING",
+        "product_code": 1158,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "EPICWIN",
+        "product_code": 1160,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "Fachai",
+        "product_code": 1079,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "Fachai",
+        "product_code": 1079,
+        "game_type": "FISHING"
+    },
+    {
+        "provider": "N2",
+        "product_code": 1163,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "N2",
+        "product_code": 1162,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "DIGITAIN",
+        "product_code": 1164,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "Aviatrix",
+        "product_code": 1165,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "SmartSoft",
+        "product_code": 1170,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "WorldEntertainment",
+        "product_code": 1172,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "WorldEntertainment",
+        "product_code": 1172,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "WorldEntertainment",
+        "product_code": 1172,
+        "game_type": "VIRTUAL_SPORT"
+    },
+    {
+        "provider": "WorldEntertainment",
+        "product_code": 1172,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "FB Sports",
+        "product_code": 1183,
+        "game_type": "SPORT_BOOK"
+    },
+    {
+        "provider": "Rich88",
+        "product_code": 1184,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "CT855(K0)",
+        "product_code": 1191,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "AmigoGaming",
+        "product_code": 1192,
+        "game_type": "SLOT"
+    },
+    {
+        "provider": "FBGames",
+        "product_code": 1193,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "PrettyGaming",
+        "product_code": 1194,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "astar",
+        "product_code": 1220,
+        "game_type": "LIVE_CASINO"
+    },
+    {
+        "provider": "astar",
+        "product_code": 1220,
+        "game_type": "OTHER"
+    },
+    {
+        "provider": "astar",
+        "product_code": 1220,
+        "game_type": "POKER"
+    }
+]

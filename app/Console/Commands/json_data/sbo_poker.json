@@ -1,0 +1,151 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "602801",
+            "game_name": "Royal Baccarat",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602801.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "602802",
+            "game_name": "Royal Roulettle",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602802.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "602803",
+            "game_name": "Royal Sic Bo",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602803.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "602804",
+            "game_name": "Royal Blackjack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602804.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "602805",
+            "game_name": "Royal 5 Box Blackjack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602805.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "602811",
+            "game_name": "Dragon Bonus",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/602811.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "604501",
+            "game_name": "Money Roll",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/604501.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "610001",
+            "game_name": "Live Bingo!",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/610001.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6101",
+            "game_name": "Royal Baccarat",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6101.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6102",
+            "game_name": "Royal Roulettle",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6102.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6103",
+            "game_name": "Royal Sic Bo",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6103.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6104",
+            "game_name": "Royal Blackjack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6104.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6105",
+            "game_name": "Royal 5 Box Blackjack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6105.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "6106",
+            "game_name": "Dragon Bonus",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1012/POKER/6106.png",
+            "product_id": 1190,
+            "product_code": 1012,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "14"
+    }
+}

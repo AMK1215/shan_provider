@@ -1,0 +1,91 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "7001",
+            "game_name": "Dragon Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7001.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7002",
+            "game_name": "Dragon Fishing II",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7002.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7003",
+            "game_name": "Cai Shen Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7003.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7004",
+            "game_name": "Shade Dragons Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7004.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7005",
+            "game_name": "Fishing YiLuFa",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7005.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7006",
+            "game_name": "Dragon Master",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7006.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7007",
+            "game_name": "Fishing Disco",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7007.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "7009",
+            "game_name": "FISHING LEGEND",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1085/FISHING/7009.png",
+            "product_id": 58,
+            "product_code": 1085,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "8"
+    }
+}

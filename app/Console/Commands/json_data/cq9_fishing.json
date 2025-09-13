@@ -1,0 +1,71 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "AB3",
+            "game_name": "Paradise",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/AB3.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "CNY,KHR,MYR,USD,MXN,KRW,JPY,PHP,THB,VND2,EUR,MMK,IDR2,AUD,SGD,GBP,INR,VND,IDR,HKD,RUB,PLN,SEK,NOK,CAD,USDT,BRL,KES,BDT,CLP,NPR,LAK,AED,VES,NGN,AMD,PKR,DZD,MAD,FRF,UAH",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "AT01",
+            "game_name": "Oneshot Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/AT01.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "AT05",
+            "game_name": "LuckyFishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/AT05.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "CNY,KHR,MYR,USD,MXN,KRW,JPY,PHP,THB,VND2,EUR,MMK,IDR2,AUD,SGD,GBP,INR,VND,IDR,HKD,RUB,PLN,SEK,NOK,CAD,USDT,BRL,KES,BDT,CLP,NPR,TND,LAK,AED,VES,ARS,NGN,AMD,PKR,DZD,MAD,FRF,UAH",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "CC1001",
+            "game_name": "Happy Insect",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/CC1001.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "CNY",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "GO02",
+            "game_name": "Hero Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/GO02.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "GO05",
+            "game_name": "Onestick Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1009/FISHING/GO05.png",
+            "product_id": 48,
+            "product_code": 1009,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "6"
+    }
+}

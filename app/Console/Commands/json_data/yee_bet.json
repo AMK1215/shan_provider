@@ -1,0 +1,961 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "12",
+            "game_name": "Neon Speed Bac SV02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/12.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2419",
+            "game_name": "Hanguk Live Bac BB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2419.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2420",
+            "game_name": "Emperor Baccarat BB06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2420.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2424",
+            "game_name": "Vogue Baccarat BB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2424.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2425",
+            "game_name": "Lumière Speed Bac BB07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2425.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2426",
+            "game_name": "Aurora Speed Bac BB08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2426.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2427",
+            "game_name": "ChokDee Dragon Tiger BD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2427.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2430",
+            "game_name": "Vogue Roulette BR08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2430.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2432",
+            "game_name": "Reed Speed Roulette BR09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2432.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2433",
+            "game_name": "Mistletoe Roulette BR04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2433.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2434",
+            "game_name": "Cypress Roulette BR07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2434.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2436",
+            "game_name": "Continental Roulette BR03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2436.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2437",
+            "game_name": "Blackthorn Roulette BR06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2437.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2438",
+            "game_name": "Blackthorn Roulette BR01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2438.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2439",
+            "game_name": "Oakwood Roulette BR02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2439.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2440",
+            "game_name": "Cypress Roulette BR05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2440.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2443",
+            "game_name": "Aurum Sicbo BS01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2443.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "2474",
+            "game_name": "Lotus Sicbo EU01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2474.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2692",
+            "game_name": "Black Roulette ROU02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2692.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2781",
+            "game_name": "Bright Roulette ROU 05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2781.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2925",
+            "game_name": "Neon Speed Bac SV03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2925.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2940",
+            "game_name": "Neon Baccarat SV05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2940.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2945",
+            "game_name": "Black Roulette ROU02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2945.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2991",
+            "game_name": "Classic Baccarat EU01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2991.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2992",
+            "game_name": "Classic Baccarat EU02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2992.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "2993",
+            "game_name": "Galaxy Roulette EU01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2993.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2994",
+            "game_name": "Black Roulette ROU01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2994.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2999",
+            "game_name": "Widow Roulette AR01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/2999.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3000",
+            "game_name": "Fortune Sicbo AS01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3000.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3002",
+            "game_name": "Dragon Tiger AD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3002.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3003",
+            "game_name": "Violet Baccarat AB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3003.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3004",
+            "game_name": "Violet Baccarat AB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3004.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3005",
+            "game_name": "Violet Baccarat AB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3005.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3006",
+            "game_name": "Violet Baccarat AB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3006.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3007",
+            "game_name": "Violet Baccarat AB06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3007.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3008",
+            "game_name": "Violet Baccarat AB07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3008.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3009",
+            "game_name": "Violet Speed Bac AB08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3009.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3010",
+            "game_name": "Violet Speed Bac AB09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3010.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3017",
+            "game_name": "Bronco Baccarat XB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3017.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3018",
+            "game_name": "Bronco Baccarat XB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3018.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3019",
+            "game_name": "Bronco Baccarat XB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3019.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3020",
+            "game_name": "Lab Baccarat XB06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3020.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3021",
+            "game_name": "Lab Speed Bac XB07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3021.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3022",
+            "game_name": "Bronco Baccarat XB08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3022.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3023",
+            "game_name": "Lab Speed Bac XB09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3023.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3024",
+            "game_name": "Bronco Baccarat XB10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3024.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3025",
+            "game_name": "Bronco Baccarat XB11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3025.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3026",
+            "game_name": "Bronco Baccarat XB12",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3026.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3027",
+            "game_name": "Bronco Baccarat XB13",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3027.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3028",
+            "game_name": "Dragon Tiger XD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3028.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3029",
+            "game_name": "Classic Roulette XR01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3029.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3037",
+            "game_name": "Turkish Roulette MR01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3037.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3054",
+            "game_name": "Bac WB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3054.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3055",
+            "game_name": "Bac WB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3055.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3056",
+            "game_name": "Bac WB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3056.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3057",
+            "game_name": "Majestic Bac WB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3057.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3058",
+            "game_name": "Super DT 301",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3058.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3061",
+            "game_name": "W Roueltte 301",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3061.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3083",
+            "game_name": "Super MB 307",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3083.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3084",
+            "game_name": "Glambot Bac MB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3084.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3085",
+            "game_name": "Dragon Tiger MD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3085.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3086",
+            "game_name": "Turkish Roulette MR01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3086.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3104",
+            "game_name": "Immortal Roulette ROU 06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3104.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3108",
+            "game_name": "ChokLap Baccarat BB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3108.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "3113",
+            "game_name": "Melody Wheel FW01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3113.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3114",
+            "game_name": "MW Live Baccarat BB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3114.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "3115",
+            "game_name": "Speed Baccarat N",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3115.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3169",
+            "game_name": "Super MB 09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3169.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3196",
+            "game_name": "Galaxia Speed Bac EU03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3196.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3197",
+            "game_name": "Super Speed Bac MB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3197.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3198",
+            "game_name": "Lushy Speed Bac OB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3198.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3199",
+            "game_name": "Magnectic Speed Bac OB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3199.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3200",
+            "game_name": "Sizzle Speed Bac OB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3200.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3201",
+            "game_name": "Foxy Speed Bac OB04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3201.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3202",
+            "game_name": "Zesty Speed Bac OB06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3202.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3203",
+            "game_name": "Diva Speed Bac OB07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3203.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3204",
+            "game_name": "Spicy Speed Bac OB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3204.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3205",
+            "game_name": "Flare Speed Bac OB08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3205.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3206",
+            "game_name": "Blaze Speed Bac OB09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3206.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3207",
+            "game_name": "Hush Speed Bac OB10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3207.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3214",
+            "game_name": "Ruay Speed Bac BB09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3214.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "MAINTAINED"
+        },
+        {
+            "game_code": "3243",
+            "game_name": "Dasher Bac PB07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3243.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3244",
+            "game_name": "Dancer Bac PB08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3244.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3245",
+            "game_name": "Prancer Bac PB09",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3245.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3246",
+            "game_name": "Vixen Bac PB10",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3246.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3247",
+            "game_name": "Comet Bac PB11",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3247.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3249",
+            "game_name": "Whisper Dragon Tiger PD01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3249.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3250",
+            "game_name": "Midnight Bikini Bac PB01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3250.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3251",
+            "game_name": "Sultry Bikini Bac PB02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3251.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3252",
+            "game_name": "Sexy Bikini Bac PB03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3252.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3253",
+            "game_name": "Alluring Bikini Bac PB04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3253.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3254",
+            "game_name": "Tempting Bikini Bac PB05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3254.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3255",
+            "game_name": "Wild Bikini Bac PB06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/3255.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "8",
+            "game_name": "Neon Speed Bac SV01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/8.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "9",
+            "game_name": "AKN EYE Roulette ROU08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1016/LIVE_CASINO/9.png",
+            "product_id": 9,
+            "product_code": 1016,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "96"
+    }
+}

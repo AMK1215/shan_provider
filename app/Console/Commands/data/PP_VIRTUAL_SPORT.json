@@ -1,0 +1,381 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "123",
+            "game_name": "Power Ball",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/123.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "1320",
+            "game_name": "Big Bass Crash",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/1320.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3014",
+            "game_name": "Blackjack X 14 - Ruby",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3014.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3091",
+            "game_name": "Kirmizi Turkish BlackjackX 1",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3091.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3092",
+            "game_name": "Kirmizi Turkish BlackjackX 2",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3092.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3093",
+            "game_name": "Kirmizi Turkish BlackjackX 3",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3093.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3094",
+            "game_name": "Kirmizi Turkish BlackjackX 4",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3094.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "3095",
+            "game_name": "Kirmizi Turkish BlackjackX 5",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/3095.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "321",
+            "game_name": "Speed Blackjack 23 - Turkish",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/321.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "322",
+            "game_name": "Blackjack 75 - Turkish",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/322.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "323",
+            "game_name": "VIP Blackjack 14 - Turkish",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/323.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "421",
+            "game_name": "Speed Baccarat 12",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/421.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "422",
+            "game_name": "Baccarat 3",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/422.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "422f",
+            "game_name": "Baccarat 3",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/422f.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "424",
+            "game_name": "Speed Baccarat 11",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/424.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "426",
+            "game_name": "Baccarat 8",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/426.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "427",
+            "game_name": "Speed Baccarat 15",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/427.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "438",
+            "game_name": "Speed Baccarat 13",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/438.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "902",
+            "game_name": "ONE Blackjack 2 - Ruby",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/902.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vpdr7",
+            "game_name": "Greyhound Racing",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vpdr7.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vpdt11",
+            "game_name": "Darts",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vpdt11.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vpfh3",
+            "game_name": "Flat Horse Racing",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vpfh3.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vplfl6",
+            "game_name": "Fantastic League Football",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vplfl6.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,AOA,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vplobby",
+            "game_name": "Virtual Sports Lobby",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vplobby.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vpmr9",
+            "game_name": "Force 1 Racing",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vpmr9.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vppso4",
+            "game_name": "Penalty Shootout",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vppso4.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vpsc10",
+            "game_name": "Steeplechase",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vpsc10.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "PHP,VND,MMK,MXN,COP,KES,TND,ETB,LBP,BDT,BRL,THB,USD,CAD,CHF,MYR,NGN,JPY,KRW,IDR,INR,EUR,IRR,CZK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "vs10coffee",
+            "game_name": "Coffee Wild",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs10coffee.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs10hottb7fs",
+            "game_name": "Hot to Burn 7 Deadly Free Spins",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs10hottb7fs.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs20bblitz",
+            "game_name": "Money Stacks",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs20bblitz.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs20bnnzdice",
+            "game_name": "Sweet Bonanza Dice",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs20bnnzdice.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs20bonzgold",
+            "game_name": "Bonanza Gold",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs20bonzgold.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs20candvil",
+            "game_name": "Candy Village",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs20candvil.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs20supermania",
+            "game_name": "Supermania",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs20supermania.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs25bullfiesta",
+            "game_name": "Bull Fiesta",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs25bullfiesta.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vs40samurai3",
+            "game_name": "Rise of Samurai 3",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vs40samurai3.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "vswayscashconv",
+            "game_name": "Running Sushi",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/VIRTUAL_SPORT/vswayscashconv.png",
+            "product_id": 1255,
+            "product_code": 1006,
+            "support_currency": "KES",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "37"
+    }
+}

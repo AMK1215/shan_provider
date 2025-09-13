@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Launch Game - Provider Integration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            display: none;
+        }
+        .success {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+        .game-url {
+            word-break: break-all;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            border: 1px solid #dee2e6;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .code-example {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            cursor: pointer;
+            margin-right: 5px;
+        }
+        .tab.active {
+            background-color: #007bff;
+            color: white;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Client Launch Game - Provider Integration</h1>
+        <p>This demo shows how client sites can call the provider launch game API.</p>
+        
+        <div class="tabs">
+            <div class="tab active" onclick="showTab('demo')">Demo</div>
+            <div class="tab" onclick="showTab('code')">Code Examples</div>
+            <div class="tab" onclick="showTab('integration')">Integration Guide</div>
+        </div>
+        
+        <div id="demo" class="tab-content active">
+            <h2>Test Provider Launch Game API</h2>
+            <form id="launchForm">
+                <div class="form-group">
+                    <label for="agent_code">Agent Code:</label>
+                    <input type="text" id="agent_code" name="agent_code" value="A3H4" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="product_code">Product Code:</label>
+                    <select id="product_code" name="product_code" required>
+                        <option value="">Select Product Code</option>
+                        <option value="1007">1007 (PG Soft)</option>
+                        <option value="1221">1221</option>
+                        <option value="1040">1040</option>
+                        <option value="1046">1046</option>
+                        <option value="1004">1004</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="game_type">Game Type:</label>
+                    <select id="game_type" name="game_type" required>
+                        <option value="">Select Game Type</option>
+                        <option value="slot">Slot</option>
+                        <option value="live">Live Casino</option>
+                        <option value="table">Table Game</option>
+                        <option value="fishing">Fishing</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="member_account">Member Account:</label>
+                    <input type="text" id="member_account" name="member_account" value="AG10726478" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="balance">Balance:</label>
+                    <input type="number" id="balance" name="balance" value="8000" min="0" step="0.01" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="nickname">Nickname (Optional):</label>
+                    <input type="text" id="nickname" name="nickname" value="TestShanAgent">
+                </div>
+                
+                <button type="submit">Launch Game</button>
+            </form>
+            
+            <div class="loading" id="loading">
+                <p>Launching game...</p>
+            </div>
+            
+            <div class="result" id="result"></div>
+        </div>
+        
+        <div id="code" class="tab-content">
+            <h2>Code Examples</h2>
+            
+            <h3>JavaScript Example</h3>
+            <div class="code-example">
+<pre>
+// Client-side JavaScript to call provider launch game API
+async function launchGame(gameData) {
+    const response = await fetch('/api/client/launch-game', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+        },
+        body: JSON.stringify(gameData)
+    });
+
+    const result = await response.json();
+    
+    if (result.code === 200) {
+        // Open game in new window
+        window.open(result.url, '_blank');
+        return result;
+    } else {
+        throw new Error(result.message);
+    }
+}
+
+// Usage
+launchGame({
+    agent_code: 'your_agent_code',
+    product_code: 1007,
+    game_type: 'slot',
+    member_account: 'player123',
+    nickname: 'Player 123'
+});
+</pre>
+            </div>
+            
+            <h3>PHP Example</h3>
+            <div class="code-example">
+<pre>
+// PHP client to call provider launch game API
+$data = [
+    'agent_code' => 'your_agent_code',
+    'product_code' => 1007,
+    'game_type' => 'slot',
+    'member_account' => 'player123',
+    'nickname' => 'Player 123'
+];
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, 'https://luckymillion.pro//api/client/launch-game');
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, [
+    'Content-Type: application/json',
+    'Accept: application/json'
+]);
+
+$response = curl_exec($ch);
+$result = json_decode($response, true);
+
+if ($result['code'] === 200) {
+    // Redirect to game URL
+    header('Location: ' . $result['url']);
+    exit;
+}
+</pre>
+            </div>
+            
+            <h3>cURL Example</h3>
+            <div class="code-example">
+<pre>
+curl -X POST https://your-provider-domain.com/api/client/launch-game \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json" \
+  -d '{
+    "agent_code": "your_agent_code",
+    "product_code": 1007,
+    "game_type": "slot",
+    "member_account": "player123",
+    "nickname": "Player 123"
+  }'
+</pre>
+            </div>
+        </div>
+        
+        <div id="integration" class="tab-content">
+            <h2>Integration Guide</h2>
+            
+            <h3>Step 1: Get Your Agent Code</h3>
+            <p>Contact the provider to get your agent code for API access.</p>
+            
+            <h3>Step 2: Choose Your Integration Method</h3>
+            <ul>
+                <li><strong>JavaScript (Frontend):</strong> Use fetch API to call the provider endpoint</li>
+                <li><strong>PHP (Backend):</strong> Use cURL to make server-side requests</li>
+                <li><strong>Other Languages:</strong> Use HTTP POST with JSON payload</li>
+            </ul>
+            
+            <h3>Step 3: Handle the Response</h3>
+            <ul>
+                <li><strong>Success (200):</strong> Open the returned URL in new window/tab</li>
+                <li><strong>Error (422/500):</strong> Show error message to user</li>
+            </ul>
+            
+            <h3>Step 4: Implement Error Handling</h3>
+            <ul>
+                <li>Network errors</li>
+                <li>Validation errors</li>
+                <li>Server errors</li>
+            </ul>
+            
+            <h3>Step 5: Add Security Measures</h3>
+            <ul>
+                <li>Validate user input</li>
+                <li>Implement rate limiting</li>
+                <li>Log API calls for monitoring</li>
+            </ul>
+            <h3>Step 6: System Wallet To Avoid Transaction Error</h3>
+            <ul>
+                <li>System Wallet To Avoid Transaction Error</li>
+                <li>Please Create System Wallet Display Name: System Wallet (users table 'name' column</li>
+                <li>Please Create System Wallet User Name: SYS001 (users table 'user_name' column. user_name column is unique)</li>
+                <li>Please Create System Wallet Balance: 10000</li>
+            </ul>
+
+            <div>
+                <pre>
+                    # Provider Launch Game API Documentation
+
+This document explains how to use the provider launch game API to integrate game launching functionality into your client site.
+
+## Overview
+
+The provider launch game API allows external client sites to launch games without requiring authentication. This is a provider site endpoint that receives requests and responds with launch game URLs. This is useful for integrating game functionality into partner sites or white-label solutions.
+
+## API Endpoint
+
+```
+POST /api/client/launch-game
+```
+
+This endpoint receives launch game requests and responds with a launch game URL.
+
+## Request Parameters
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| `agent_code` | string | Yes | Your agent code |
+| `product_code` | integer | Yes | Product code for the game provider |
+| `game_type` | string | Yes | Type of game (e.g., 'slot', 'live', 'table') |
+| `member_account` | string | Yes | User's member account/username |
+| `nickname` | string | No | Optional nickname for the user |
+| `balance` | decimal | Yes |
+
+### Product Codes
+
+| Product Code | Provider | Currency |
+|--------------|----------|----------|
+| 100200 | Shankomee | MMK |
+
+
+## Response Format
+
+### Success Response
+
+```json
+{
+    "code": 200,
+    "message": "Game launched successfully",
+    "url": "https://goldendragon7.pro/?user_name=player123&balance=1000&product_code=1007&game_type=slot"
+}
+```
+
+The API builds and returns a launch game URL with user information and game parameters.
+
+### Error Response
+
+```json
+{
+    "code": 422,
+    "message": "Validation failed",
+    "errors": {
+        "agent_code": ["The agent code field is required."]
+    }
+}
+```
+
+```json
+{
+    "code": 500,
+    "message": "Launch failed"
+}
+```
+
+## Usage Examples
+
+### JavaScript Example
+
+```javascript
+async function launchGame(gameData) {
+    const response = await fetch('/api/client/launch-game', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+        },
+        body: JSON.stringify(gameData)
+    });
+
+    const result = await response.json();
+    
+    if (result.code === 200) {
+        // Open game in new window
+        window.open(result.url, '_blank');
+        return result;
+    } else {
+        throw new Error(result.message);
+    }
+}
+
+// Launch a slot game
+launchGame({
+    agent_code: 'your_agent_code',
+    product_code: 1007,
+    game_type: 'slot',
+    member_account: 'player123',
+    nickname: 'Player 123'
+});
+```
+
+### PHP Example
+
+```php
+$data = [
+    'agent_code' => 'your_agent_code',
+    'product_code' => 1007,
+    'game_type' => 'slot',
+    'member_account' => 'player123',
+    'nickname' => 'Player 123'
+];
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, 'https://your-domain.com/api/client/launch-game');
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, [
+    'Content-Type: application/json',
+    'Accept: application/json'
+]);
+
+$response = curl_exec($ch);
+$result = json_decode($response, true);
+
+if ($result['code'] === 200) {
+    // Redirect to game URL
+    header('Location: ' . $result['url']);
+    exit;
+}
+```
+
+### cURL Example
+
+```bash
+curl -X POST https://your-domain.com/api/client/launch-game \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json" \
+  -d '{
+    "agent_code": "your_agent_code",
+    "product_code": 1007,
+    "game_type": "slot",
+    "member_account": "player123",
+    "nickname": "Player 123"
+  }'
+```
+
+## Error Codes
+
+| Code | Description |
+|------|-------------|
+| 200 | Success |
+| 422 | Validation failed |
+| 500 | Server error or provider API error |
+
+## Security Considerations
+
+1. **Provider Site**: This is a provider site endpoint that receives requests and responds with launch game URLs
+2. **User Creation**: Automatically creates users in the database if they don't exist
+3. **Input Validation**: All input parameters are validated
+4. **Logging**: All requests are logged for monitoring and debugging
+5. **Rate Limiting**: Consider implementing rate limiting for production use
+
+## Integration Steps
+
+1. **Get Your Agent Code**: Contact the system administrator to get your agent code
+2. **Test the API**: Use the demo page at `/client-demo.html` to test the API
+3. **Implement in Your Site**: Use the provided examples to integrate the API into your site
+4. **Handle Errors**: Implement proper error handling for failed requests
+5. **Monitor Usage**: Monitor API usage and implement appropriate rate limiting
+
+## Demo Page
+
+A demo page is available at `/client-demo.html` that allows you to test the API with different parameters.
+
+## Support
+
+For technical support or questions about the API, please contact the system administrator.
+
+## Changelog
+
+- **v1.0**: Initial release with basic game launch functionality
+- Support for multiple product codes and game types
+- MMK2 currency support for specific providers 
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabName) {
+            // Hide all tab contents
+            const tabContents = document.querySelectorAll('.tab-content');
+            tabContents.forEach(content => content.classList.remove('active'));
+            
+            // Remove active class from all tabs
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => tab.classList.remove('active'));
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to clicked tab
+            event.target.classList.add('active');
+        }
+
+        document.getElementById('launchForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const data = Object.fromEntries(formData.entries());
+            
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('result').style.display = 'none';
+            
+            try {
+                const response = await fetch('https://luckymillion.pro/api/client/launch-game', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                    },
+                    body: JSON.stringify(data)
+                });
+                
+                const result = await response.json();
+                
+                const resultDiv = document.getElementById('result');
+                resultDiv.style.display = 'block';
+                
+                if (response.ok && result.code === 200) {
+                    resultDiv.className = 'result success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Game Launched Successfully!</h3>
+                        <p><strong>Message:</strong> ${result.message}</p>
+                        <p><strong>Game URL:</strong></p>
+                        <div class="game-url">${result.url}</div>
+                        <p><a href="${result.url}" target="_blank" style="color: #007bff;">Open Game in New Tab</a></p>
+                        <p><strong>URL Parameters:</strong></p>
+                        <ul>
+                            <li>user_name: ${new URL(result.url).searchParams.get('user_name')}</li>
+                            <li>balance: ${new URL(result.url).searchParams.get('balance')}</li>
+                            <li>product_code: ${new URL(result.url).searchParams.get('product_code')}</li>
+                            <li>game_type: ${new URL(result.url).searchParams.get('game_type')}</li>
+                        </ul>
+                    `;
+                } else {
+                    resultDiv.className = 'result error';
+                    resultDiv.innerHTML = `
+                        <h3>❌ Launch Failed</h3>
+                        <p><strong>Error Code:</strong> ${result.code}</p>
+                        <p><strong>Message:</strong> ${result.message}</p>
+                        ${result.errors ? `<p><strong>Validation Errors:</strong> ${JSON.stringify(result.errors)}</p>` : ''}
+                    `;
+                }
+            } catch (error) {
+                const resultDiv = document.getElementById('result');
+                resultDiv.style.display = 'block';
+                resultDiv.className = 'result error';
+                resultDiv.innerHTML = `
+                    <h3>❌ Network Error</h3>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                `;
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html> 

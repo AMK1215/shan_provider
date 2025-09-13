@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1",
+            "game_name": "568 Sports Book",
+            "game_type": "SPORT_BOOK",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1012/SPORT_BOOK/1.png",
+            "product_id": 52,
+            "product_code": 1012,
+            "support_currency": "IDR2",
+            "status": "ACTIVATED",
+            "provider": "SBO"
+
+        }
+    ],
+    "pagination": {
+        "size": 10,
+        "offset": 0,
+        "total": "1"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "101",
+            "game_name": "Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/101.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102",
+            "game_name": "Dragon and Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/102.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "103",
+            "game_name": "Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/103.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "104",
+            "game_name": "sic bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/104.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "105",
+            "game_name": "niuniu",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/105.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "107",
+            "game_name": "fantan",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/107.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "108",
+            "game_name": "sedie",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/108.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "110",
+            "game_name": "fishshrimpcrab",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/110.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "128",
+            "game_name": "AndarBahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1020/LIVE_CASINO/128.png",
+            "product_id": 7,
+            "product_code": 1020,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "9"
+    }
+}

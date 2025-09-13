@@ -1,0 +1,436 @@
+sudo nano /etc/postgresql/16/main/postgresql.conf
+sudo nano /etc/postgresql/16/main/pg_hba.conf # Replace 14 with your version
+sudo systemctl restart postgresql
+sudo systemctl enable postgresql # Ensure it starts on boot
+sudo systemctl status postgresql # Check if it's running
+sudo apt install php8.3-pgsql
+sudo systemctl restart php8.3-fpm # Replace 8.1 with your PHP version
+sudo systemctl restart nginx
+
+php -r "file_put_contents('/var/www/shan_provider_amk/storage/logs/laravel.log', '');"
+* * * * * cd /var/www/gsc_plus && php artisan schedule:run >> /dev/null 2>&1
+tail -f /var/log/mysql/error.log
+
+tail -f /var/www/shan_provider_amk/storage/logs/laravel.log
+
+sudo chown -R www-data:www-data /var/www/gsc_plus/storage
+sudo chown -R www-data:www-data /var/www/gsc_plus/bootstrap/cache
+sudo chmod -R 775 /var/www/gsc_plus/storage
+sudo chmod -R 775 /var/www/gsc_plus/bootstrap/cache
+
+php artisan analytics:loss-summary --group=member_account
+php artisan analytics:loss-summary --group=player_id
+
+
+// create user and db 
+sudo -i -u postgres
+psql
+\q
+
+sudo -u postgres psql
+sudo systemctl stop mysql
+sudo systemctl disable mysql
+sudo -u postgres psql -c "\l gsc_plus_one"
+-- Create the user if it doesn't exist (replace with a strong password)
+CREATE USER postgres WITH PASSWORD 'gscplus@#$2025one';
+
+-- Grant all privileges on the database to this new user
+GRANT ALL PRIVILEGES ON DATABASE gsc_plus_one TO postgres;
+
+-- Grant create permission on the public schema (crucial for migrations)
+GRANT CREATE ON SCHEMA public TO gsc_plus_user;
+
+psql -h 127.0.0.1 -U amk -d gsc_plus_one
+
+sudo chown -R www-data:www-data /var/www/gsc_plus/storage
+sudo chown -R www-data:www-data /var/www/gsc_plus/bootstrap/cache
+sudo chmod -R 775 /var/www/gsc_plus/storage
+sudo chmod -R 775 /var/www/gsc_plus/bootstrap/cache
+
+ALTER ROLE amk SET client_encoding TO 'utf8';
+ALTER ROLE amk SET default_transaction_isolation TO 'read committed';
+ALTER ROLE amk SET timezone TO 'UTC';
+GRANT ALL PRIVILEGES ON DATABASE gsc_plus_one TO amk;
+
+sudo -u postgres psql -c "\l gsc_plus_one"
+sudo -u postgres psql -c "\dn+ public"
+
+-- Grant all privileges on the public schema
+GRANT ALL PRIVILEGES ON SCHEMA public TO amk;
+
+-- Grant all privileges on all tables (current and future)
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON TABLES TO amk;
+
+-- Grant privileges on sequences
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO amk;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON SEQUENCES TO amk;
+
+-- Grant privileges on functions
+GRANT ALL PRIVILEGES ON ALL FUNCTIONS IN SCHEMA public TO amk;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON FUNCTIONS TO amk;
+
+-- Exit
+\q
+
+-------------
+-- Grant all privileges on the public schema
+GRANT ALL PRIVILEGES ON SCHEMA public TO amk;
+
+-- Grant all privileges on all tables (current and future)
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON TABLES TO amk;
+
+-- Grant privileges on sequences
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO amk;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON SEQUENCES TO amk;
+
+-- Grant privileges on functions
+GRANT ALL PRIVILEGES ON ALL FUNCTIONS IN SCHEMA public TO amk;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON FUNCTIONS TO amk;
+
+-- Exit
+\q
+
+php -r "file_put_contents('/var/www/gsc_plus/storage/logs/laravel.log', '');"
+// created dev branch for kzt
+
+php artisan migrate:rollback --path=database/migrations/2024_03_10_135549_create_reports_table.php
+// tail log
+
+tail -f /var/www/gsc_plus/storage/logs/laravel.log
+mv app/Http/Controllers/Api/V1/gplus/Webhook/SeamlessWalletController.php app/Http/Controllers/Api/V1/gplus/Webhook/GetBalanceController.php
+GET /api/operators/provider-games?product_code=...&operator_code=...&offset=...&size=...&game_type=...
+
+
+api/operators/wagers?operator_code=E004&sign=xxxxxx&request_time=1
+ 69155100?start=169155100000&end=169155100000
+
+ public function show(Request $request, $member_account)
+    {
+        $user = Auth::user();
+        $query = PlaceBet::query()->where('member_account', $member_account);
+
+        // Get the player user record
+        $player = User::where('user_name', $member_account)->first();
+        if (!$player) {
+            abort(404, 'Player not found');
+        }
+
+        if ($user->user_type === UserType::Owner->value) {
+            // Owner: see all
+        } elseif ($user->user_type === UserType::Master->value) {
+            // Master: see bets for players under their agents
+            $agentIds = User::where('agent_id', $user->id)->pluck('id');
+            $subAgentIds = User::whereIn('agent_id', $agentIds)->pluck('id');
+            $playerIds = User::whereIn('agent_id', $subAgentIds)->pluck('id');
+            
+            if (!$playerIds->contains($player->id)) {
+                abort(403, 'Unauthorized access to player data');
+            }
+        } elseif ($user->user_type === UserType::Agent->value) {
+            // Agent: see bets for players under their sub-agents
+            $subAgentIds = User::where('agent_id', $user->id)->pluck('id');
+            $playerIds = User::whereIn('agent_id', $subAgentIds)->pluck('id');
+            
+            if (!$playerIds->contains($player->id)) {
+                abort(403, 'Unauthorized access to player data');
+            }
+        } elseif ($user->user_type === UserType::SubAgent->value) {
+            // SubAgent: see bets only for their direct players
+            $playerIds = User::where('agent_id', $user->id)->pluck('id');
+            
+            if (!$playerIds->contains($player->id)) {
+                abort(403, 'Unauthorized access to player data');
+            }
+        } elseif ($user->user_type === UserType::Player->value) {
+            // Player: see only their own bets
+            if ($user->id !== $player->id) {
+                abort(403, 'Unauthorized access to player data');
+            }
+        } else {
+            abort(403, 'Unauthorized access');
+        }
+
+        $bets = $query->orderByDesc('created_at')->paginate(50);
+
+        return view('admin.report.show', compact('bets', 'member_account'));
+    }
+
+    composer require irazasyed/telegram-bot-sdk
+
+    composer require westacks/telebot-laravel
+    https://luckymillion.pro/telegram/webhook/set
+
+       https://luckymillion.pro/sendMessage?chat_id=YOUR_TELEGRAM_CHAT_ID
+
+       php artisan tinker
+>>> config('telegram_welcome.en')
+
+curl -X POST https://luckymillion.pro/telegram-message-webhook \
+  -H "Content-Type: application/json" \
+  -d '{"message":{"chat":{"id":123456},"text":"hello"}}'
+
+
+PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1310720 bytes) in C:\xampp\htdocs\gsc_slot\gsc_plus\vendor\laravel\framework\src\Illuminate\Database\Connection.php on line 581
+
+   Symfony\Component\ErrorHandler\Error\FatalError
+
+  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1310720 bytes)
+
+sudo nano /etc/php/8.1/fpm/php.ini
+memory_limit = 1024M
+sudo systemctl restart php8.1-fpm
+sudo systemctl restart nginx
+php artisan make:migration add_note_to_deposit_requests_table --create=deposit_requests
+
+/// 
+player list 
+public function index()
+    {
+        abort_if(
+            Gate::denies('player_index'),
+            Response::HTTP_FORBIDDEN,
+            '403 Forbidden |You cannot  Access this page because you do not have permission'
+        );
+        
+
+        $players = User::with(['roles', 'placeBets'])->whereHas('roles', fn ($query) => $query->where('role_id', self::PLAYER_ROLE))
+            ->select('id', 'name', 'user_name', 'phone', 'status', 'referral_code')
+            ->where('agent_id', auth()->id())
+            ->orderBy('created_at', 'desc')
+            ->get();
+
+        $reportData = DB::table('users as p')
+            ->join('place_bets', 'place_bets.member_account', '=', 'p.user_name')
+            ->groupBy('p.id')
+            ->selectRaw('p.id as player_id,SUM(place_bets.bet_amount) as total_bet_amount,SUM(place_bets.prize_amount) as total_payout_amount')
+            ->get()
+            ->keyBy('player_id');
+
+        $users = $players->map(function ($player) use ($reportData) {
+            $report = $reportData->get($player->id);
+            $poneWineTotalAmt = $player->children->flatMap->placeBets->sum('win_lose_amt');
+
+            return (object) [
+                'id' => $player->id,
+                'name' => $player->name,
+                'user_name' => $player->user_name,
+                'phone' => $player->phone,
+                'balanceFloat' => $player->balanceFloat,
+                'status' => $player->status,
+                'win_lose' => (($report->total_payout_amount ?? 0) - ($report->total_bet_amount ?? 0)) + $poneWineTotalAmt,
+            ];
+        });
+
+        return view('admin.player.index', compact('users'));
+    }
+    --------------------
+
+    public function index(Request $request): View
+    {
+        $user = Auth::user();
+        $relatedIds = $this->getDirectlyRelatedUserIds($user);
+
+        $query = TransferLog::with(['fromUser', 'toUser'])
+            ->where(function ($q) use ($user, $relatedIds) {
+                $q->where(function ($q2) use ($user, $relatedIds) {
+                    $q2->where('from_user_id', $user->id)
+                        ->whereIn('to_user_id', $relatedIds);
+                })
+                    ->orWhere(function ($q2) use ($user, $relatedIds) {
+                        $q2->where('to_user_id', $user->id)
+                            ->whereIn('from_user_id', $relatedIds);
+                    });
+            });
+
+        // Apply filters if provided
+        if ($request->has('type')) {
+            $query->where('type', $request->type);
+        }
+        if ($request->has('date_from') && $request->has('date_to')) {
+            $query->whereBetween('created_at', [$request->date_from, $request->date_to]);
+        }
+
+        $transferLogs = $query->latest()->paginate(20);
+
+        return view('admin.transfer_logs.index', compact('transferLogs'));
+    }
+
+    /**
+     * Get only directly related user IDs according to the hierarchy:
+     * Owner → Agent → SubAgent, Agent→Player, SubAgent→Player
+     */
+    private function getDirectlyRelatedUserIds(User $user): array
+    {
+        $relatedIds = [];
+        if ($user->hasRole('Owner')) {
+            // Owner: direct agents
+            $relatedIds = $user->children()->whereHas('roles', function ($q) {
+                $q->where('title', 'Agent');
+            })->pluck('id')->toArray();
+        } elseif ($user->hasRole('Agent')) {
+            // Agent: direct players, direct subagents, parent owner
+            $playerIds = $user->children()->whereHas('roles', function ($q) {
+                $q->where('title', 'Player');
+            })->pluck('id')->toArray();
+            $subAgentIds = $user->children()->whereHas('roles', function ($q) {
+                $q->where('title', 'SubAgent');
+            })->pluck('id')->toArray();
+            $parentOwnerId = $user->agent_id ? [$user->agent_id] : [];
+            $relatedIds = array_merge($playerIds, $subAgentIds, $parentOwnerId);
+        } elseif ($user->hasRole('SubAgent')) {
+            // SubAgent: direct players, parent agent
+            $playerIds = $user->children()->whereHas('roles', function ($q) {
+                $q->where('title', 'Player');
+            })->pluck('id')->toArray();
+            $parentAgentId = $user->agent_id ? [$user->agent_id] : [];
+            $relatedIds = array_merge($playerIds, $parentAgentId);
+        }
+
+        return array_unique($relatedIds);
+    }
+
+    ----------- player Controllers index -----------
+    public function index()
+    {
+        abort_if(
+            Gate::denies('player_index'),
+            Response::HTTP_FORBIDDEN,
+            '403 Forbidden |You cannot  Access this page because you do not have permission'
+        );
+
+        $players = User::with(['roles', 'placeBets'])->whereHas('roles', fn ($query) => $query->where('role_id', self::PLAYER_ROLE))
+            ->select('id', 'name', 'user_name', 'phone', 'status', 'referral_code')
+            ->where('agent_id', auth()->id())
+            ->orderBy('created_at', 'desc')
+            ->get();
+
+        $reportData = DB::table('users as p')
+            ->join('place_bets', 'place_bets.member_account', '=', 'p.user_name')
+            ->groupBy('p.id')
+            ->selectRaw('p.id as player_id,SUM(place_bets.bet_amount) as total_bet_amount,SUM(place_bets.prize_amount) as total_payout_amount')
+            ->get()
+            ->keyBy('player_id');
+
+        $users = $players->map(function ($player) use ($reportData) {
+            $report = $reportData->get($player->id);
+            $poneWineTotalAmt = $player->children->flatMap->placeBets->sum('win_lose_amt');
+
+            return (object) [
+                'id' => $player->id,
+                'name' => $player->name,
+                'user_name' => $player->user_name,
+                'phone' => $player->phone,
+                'balanceFloat' => $player->balanceFloat,
+                'status' => $player->status,
+                'win_lose' => (($report->total_payout_amount ?? 0) - ($report->total_bet_amount ?? 0)) + $poneWineTotalAmt,
+            ];
+        });
+
+        return view('admin.player.index', compact('users'));
+    }
+                                                    <!-- <td class="{{$user->win_lose >= 0 ? 'text-success text-bold' : 'text-danger text-bold'}}">{{ number_format($user->win_lose)}}</td> -->
+    ---------------- 
+
+     /* Default styles (desktop view) */
+        /* .login-page {
+            background-image: url(assets/img/logo/default-logo.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+             Full viewport height 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        } */
+
+public function gameLists($type, $provider, Request $request)
+    {
+        $gameLists = GameList::with('product')
+            ->where('product_id', $provider)
+            ->where('game_type_id', $type)
+            ->where('is_active', 1)
+            ->OrderBy('order', 'asc')
+            ->where('game_name', 'like', '%'.$request->game_name.'%')
+            ->get();
+
+        return $this->success(GameListResource::collection($gameLists));
+    }, 
+
+
+    public function launchGameForClient(Request $request)
+    {
+        Log::info('Provider Launch Game Request', ['request' => $request->all()]);
+
+        try {
+            $validatedData = $request->validate([
+                'agent_code' => 'required|string',
+                'product_code' => 'required|integer',
+                'game_type' => 'required|string',
+                'member_account' => 'required|string',
+                'nickname' => 'nullable|string',
+            ]);
+
+            // Use MMK currency for all products
+            $apiCurrency = 'MMK';
+        } catch (\Illuminate\Validation\ValidationException $e) {
+            Log::warning('Provider Launch Game Validation Failed', ['errors' => $e->errors()]);
+
+            return response()->json([
+                'code' => 422,
+                'message' => 'Validation failed',
+                'errors' => $e->errors()
+            ], 422);
+        }
+
+        // Get or create user from member_account
+        $memberAccount = $request->member_account;
+        $clientUser = User::where('user_name', $memberAccount)->first();
+        
+        // If no client user in our db users table, create automatically
+        if (!$clientUser) {
+            $clientUser = User::create([
+                'user_name' => $memberAccount,
+                'name' => $memberAccount,
+                'password' => Hash::make($memberAccount),
+                'type' => UserType::Player->value,
+                'status' => 1,
+                'is_changed_password' => 1,
+            ]);
+            Log::info('Created new user for provider launch game', ['member_account' => $memberAccount]);
+        }
+
+        // Get user balance
+       // $balance = $clientUser->balanceFloat ?? 0;
+       $balance = $request->balance;
+
+        // Build launch game URL with Shan provider configuration
+        // $launchGameUrl = sprintf(
+        //     'https://ponewine20x.xyz/?user_name=%s&balance=%s&product_code=%s&game_type=%s&agent_code=%s',
+        //     urlencode($memberAccount),
+        //     $balance,
+        //     $validatedData['product_code'],
+        //     $validatedData['game_type'],
+        //     $validatedData['agent_code']
+        // );
+
+        $launchGameUrl = sprintf(
+            'https://goldendragon7.pro/?user_name=%s&balance=%s',
+            urlencode($memberAccount),
+            $balance
+        );
+
+        Log::info('Provider Launch Game URL generated', [
+            'member_account' => $memberAccount,
+            'balance' => $balance,
+            'product_code' => $validatedData['product_code'],
+            'game_type' => $validatedData['game_type'],
+            'launch_game_url' => $launchGameUrl
+        ]);
+
+        // Return the launch game URL to client site
+        return response()->json([
+            'code' => 200,
+            'message' => 'Game launched successfully',
+            'url' => $launchGameUrl,
+        ]);
+    }

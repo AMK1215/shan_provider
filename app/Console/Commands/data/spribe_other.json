@@ -1,0 +1,121 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "aviator",
+            "game_name": "Aviator",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/aviator.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "balloon",
+            "game_name": "Balloon",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/balloon.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "dice",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/dice.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "goal",
+            "game_name": "Goal",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/goal.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hi-lo",
+            "game_name": "Hi Lo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/hi-lo.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "hotline",
+            "game_name": "Hotline",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/hotline.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "keno",
+            "game_name": "Keno",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/keno.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "mines",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/mines.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "mini-roulette",
+            "game_name": "Mini Roulette",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/mini-roulette.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "multikeno",
+            "game_name": "Keno 80",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/multikeno.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "plinko",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1138/OTHER/plinko.png",
+            "product_id": 1,
+            "product_code": 1138,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "12"
+    }
+}

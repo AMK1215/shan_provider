@@ -1,0 +1,381 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "531",
+            "game_name": "M Xoc Dia",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/531.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "532",
+            "game_name": "M Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/532.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "533",
+            "game_name": "M Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/533.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "534",
+            "game_name": "M Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/534.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "535",
+            "game_name": "M Pok Deng",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/535.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "536",
+            "game_name": "M Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/536.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "537",
+            "game_name": "M Andar Bahar",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/537.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "538",
+            "game_name": "M Teen Patti 20-20",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/538.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "539",
+            "game_name": "M Thai HiLo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/539.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "540",
+            "game_name": "M Fish Prawn Crab",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/540.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "541",
+            "game_name": "M Ultra Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/541.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "861",
+            "game_name": "C Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/861.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "862",
+            "game_name": "C Ultra Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/862.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "871",
+            "game_name": "Baccarat C01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/871.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "872",
+            "game_name": "Baccarat C02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/872.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "873",
+            "game_name": "Baccarat C03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/873.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "874",
+            "game_name": "Baccarat C04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/874.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "875",
+            "game_name": "Baccarat C05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/875.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "876",
+            "game_name": "Baccarat C06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/876.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "877",
+            "game_name": "Baccarat C07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/877.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "878",
+            "game_name": "Speed Bacc C08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/878.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "901",
+            "game_name": "Baccarat D01",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/901.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "902",
+            "game_name": "Baccarat D02",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/902.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "903",
+            "game_name": "Baccarat D03",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/903.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "904",
+            "game_name": "Baccarat D04",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/904.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "905",
+            "game_name": "Baccarat D05",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/905.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "906",
+            "game_name": "Baccarat D06",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/906.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "907",
+            "game_name": "Baccarat D07",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/907.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "908",
+            "game_name": "Speed Bacc D08",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/908.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "921",
+            "game_name": "D Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/921.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "922",
+            "game_name": "D Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/922.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "923",
+            "game_name": "D Pok Deng",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/923.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "924",
+            "game_name": "D Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/924.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "925",
+            "game_name": "D Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/925.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "926",
+            "game_name": "D Thai HiLo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/926.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "927",
+            "game_name": "D Xoc Dia",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/927.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "928",
+            "game_name": "D Ultra Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1185/LIVE_CASINO/928.png",
+            "product_id": 116,
+            "product_code": 1185,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "46"
+    }
+}

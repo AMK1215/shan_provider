@@ -1,0 +1,211 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "127",
+            "game_name": "CallBreak",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/127.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "132",
+            "game_name": "Pool Rummy",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/132.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "159",
+            "game_name": "TeenPatti Joker",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/159.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "160",
+            "game_name": "CallbreakQuick",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/160.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "161",
+            "game_name": "Teenpatti 20-20",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/161.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "163",
+            "game_name": "Ludo Quick",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/163.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "199",
+            "game_name": "Tongits Go",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/199.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "210",
+            "game_name": "Poker Lobby",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/210.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "IDR2,USD,MMK,THB,VND2,BDT,CNY,INR,MYR,IDR,HKD,KRW,PHP,SGD,KHR2,VND",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "211",
+            "game_name": "Pusoy Go",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/211.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "219",
+            "game_name": "Blackjack",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/219.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "220",
+            "game_name": "Blackjack Lucky Ladies",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/220.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "221",
+            "game_name": "MINI FLUSH",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/221.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "231",
+            "game_name": "Caribbean Stud Poker",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/231.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "253",
+            "game_name": "Video Poker",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/253.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "327",
+            "game_name": "Domino Go",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/327.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "404",
+            "game_name": "Ultimate Texas Holdem",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/404.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "72",
+            "game_name": "TeenPatti",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/72.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "75",
+            "game_name": "AK47",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/75.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "79",
+            "game_name": "Andar Bahar",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/79.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "94",
+            "game_name": "Rummy",
+            "game_type": "POKER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/POKER/94.png",
+            "product_id": 1278,
+            "product_code": 1091,
+            "support_currency": "VND2,NPR,LKR,PKR,IDR,KHR2,KRW,VND,JPY,USD,HKD,PHP,THB,IDR2,BDT,USDT,SGD,CNY,INR,MMK,MYR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "20"
+    }
+}

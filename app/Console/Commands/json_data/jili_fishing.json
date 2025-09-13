@@ -1,0 +1,131 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "1",
+            "game_name": "Royal Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/1.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "119",
+            "game_name": "All-star Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/119.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "20",
+            "game_name": "Bombing Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/20.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "212",
+            "game_name": "Dinosaur Tycoon II",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/212.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "289",
+            "game_name": "Ocean King Jackpot",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/289.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "32",
+            "game_name": "Jack Pot Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/32.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "42",
+            "game_name": "Dinosaur Tycoon",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/42.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "464",
+            "game_name": "Fortune King Jackpot",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/464.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "60",
+            "game_name": "Dragon Fortune",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/60.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "71",
+            "game_name": "Boom Legend",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/71.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "74",
+            "game_name": "Mega Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/74.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "82",
+            "game_name": "Happy Fishing",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1091/FISHING/82.png",
+            "product_id": 28,
+            "product_code": 1091,
+            "support_currency": "IDR,IDR2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "12"
+    }
+}

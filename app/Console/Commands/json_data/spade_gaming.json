@@ -1,0 +1,1051 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "S-AL02",
+            "game_name": "Alchemy Quest Level Up",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-AL02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-BA01",
+            "game_name": "888",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-BA01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-BC01",
+            "game_name": "Baby Cai Shen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-BC01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-BK01",
+            "game_name": "Brothers Kingdom 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-BK01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-BM01",
+            "game_name": "Book of Myth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-BM01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CB01",
+            "game_name": "Crazy Bomber",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CB01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CB02",
+            "game_name": "Sugar Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CB02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CG01",
+            "game_name": "Captain Golds Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CG01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CG02",
+            "game_name": "Clash of the Giants",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CG02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CH01",
+            "game_name": "Mr Chu Tycoon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CH01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CM02",
+            "game_name": "Christmas Miracles",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CM02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CP01",
+            "game_name": "Candy Pop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CP01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CP02",
+            "game_name": "Candy Candy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CP02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CP03",
+            "game_name": "Candy Pop 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CP03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CS01",
+            "game_name": "Cai Shen 888",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CS01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CS02",
+            "game_name": "Caishen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CS02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-CS03",
+            "game_name": "Caishen Deluxe Maxways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-CS03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DF01",
+            "game_name": "Double Fortunes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DF01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DF02",
+            "game_name": "Dancing Fever",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DF02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DF03",
+            "game_name": "Double Flame",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DF03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DG04",
+            "game_name": "Dragon Gold SA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DG04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DW01",
+            "game_name": "Dragon Wish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DW01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-DX01",
+            "game_name": "Da Fu Xiao Fu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-DX01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FC03",
+            "game_name": "Big Prosperity SA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FC03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FD01",
+            "game_name": "5 Fortune Dragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FD01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FF01",
+            "game_name": "Farmland Frenzy Maxways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FF01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FH01",
+            "game_name": "Fiery Sevens Hot 5",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FH01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FH02",
+            "game_name": "Fiery Sevens Hot 20",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FH02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FH03",
+            "game_name": "Fiery Sevens Hot 50",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FH03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FH04",
+            "game_name": "Fiery Sevens Hot 100",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FH04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FL02",
+            "game_name": "First Love",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FL02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FM02",
+            "game_name": "Golden Monkey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FM02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FM03",
+            "game_name": "Fruits Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FM03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FM04",
+            "game_name": "Fury Max Lucky Road",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FM04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FN01",
+            "game_name": "Fruit Ninja Fury",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FN01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FS01",
+            "game_name": "Fiery Sevens",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FS01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-FS02",
+            "game_name": "Fiery Sevens Exclusive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-FS02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GC03",
+            "game_name": "Golden Chicken",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GC03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GG02",
+            "game_name": "Galaxy Guardian",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GG02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GK01",
+            "game_name": "Brothers Kingdom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GK01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GL02",
+            "game_name": "Golden Lotus SE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GL02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GP01",
+            "game_name": "Gold Panther",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GP01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GP03",
+            "game_name": "Gold Panther Maxways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GP03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GP04",
+            "game_name": "Golden Pixiu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GP04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GR01",
+            "game_name": "Gold Rush Cowboys",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GR01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GR02",
+            "game_name": "Gemstone Rush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GR02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GS04",
+            "game_name": "Great Stars SA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GS04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GW01",
+            "game_name": "Golden Whale",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GW01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-GW03",
+            "game_name": "Gold West",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-GW03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HE01",
+            "game_name": "Heroes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HE01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HF01",
+            "game_name": "Highway Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HF01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HN01",
+            "game_name": "Happy Neko",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HN01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HQ01",
+            "game_name": "Hugon Quest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HQ01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HT02",
+            "game_name": "Hammer of Thunder",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HT02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HV01",
+            "game_name": "Halloween Vacation",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HV01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-HY01",
+            "game_name": "Ho Yeah Monkey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-HY01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-IL03",
+            "game_name": "Iceland SA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-IL03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-JT02",
+            "game_name": "Jokers Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-JT02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-JT03",
+            "game_name": "Jokers Treasure Exclusive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-JT03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-JW01",
+            "game_name": "Journey to the Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-JW01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LF01",
+            "game_name": "Lucky Feng Shui",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LF01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LI03",
+            "game_name": "Love Idol",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LI03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LK01",
+            "game_name": "Lucky Koi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LK01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LK02",
+            "game_name": "Lucky Koi Exclusive",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LK02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LK03",
+            "game_name": "Legacy Of Kong Maxways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LK03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LM01",
+            "game_name": "Lucky Meow",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LM01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LS02",
+            "game_name": "Three Lucky Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LS02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LS03",
+            "game_name": "Lucky Snake Wheel",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LS03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LT01",
+            "game_name": "Lucky Twin Sea",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LT01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LY01",
+            "game_name": "FaFaFa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LY01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-LY02",
+            "game_name": "FaFaFa2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-LY02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MG01",
+            "game_name": "Mega 7",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MG01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MG02",
+            "game_name": "Mayan Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MG02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MK01",
+            "game_name": "Magic Kitty",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MK01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-ML01",
+            "game_name": "Magical Lamp",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-ML01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MM01",
+            "game_name": "Money Mouse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MM01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MM03",
+            "game_name": "Moji Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MM03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MR02",
+            "game_name": "Mahjong Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MR02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-MT01",
+            "game_name": "Muay Thai Fighter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-MT01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-PG01",
+            "game_name": "Prosperity Gods",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-PG01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-PH02",
+            "game_name": "King Pharaoh",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-PH02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-PW02",
+            "game_name": "Princess Wang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-PW02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-PW03",
+            "game_name": "Poker Ways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-PW03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RC01",
+            "game_name": "Rich Cai Shen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RC01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RH02",
+            "game_name": "Royale House",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RH02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RK02",
+            "game_name": "Royal Katt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RK02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RM01",
+            "game_name": "Roma",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RM01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RR01",
+            "game_name": "Rabbit Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RR01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RV01",
+            "game_name": "Royale Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RV01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-RW01",
+            "game_name": "Rise of Werewolves",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-RW01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-SA03",
+            "game_name": "Secrets of Anubis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-SA03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-SB01",
+            "game_name": "Sweet Bakery",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-SB01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-SC01",
+            "game_name": "Space Conquest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-SC01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-SP04",
+            "game_name": "Sugar Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-SP04.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-SW02",
+            "game_name": "Santa Wild Drop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-SW02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-TD01",
+            "game_name": "Tiger Dance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-TD01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-TP02",
+            "game_name": "Triple Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-TP02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-TW01",
+            "game_name": "Tiger Warrior",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-TW01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-TZ01",
+            "game_name": "Jungle King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-TZ01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-VB01",
+            "game_name": "Sexy Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-VB01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-WM03",
+            "game_name": "5 Fortune SA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-WM03.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-WP02",
+            "game_name": "Wow Prosperity",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-WP02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-WW02",
+            "game_name": "Wild Wet Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-WW02.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "S-ZE01",
+            "game_name": "ZEUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1221/SLOT/S-ZE01.png",
+            "product_id": 178,
+            "product_code": 1221,
+            "support_currency": "CNY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "104"
+    }
+}

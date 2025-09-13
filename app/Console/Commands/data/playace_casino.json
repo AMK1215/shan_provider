@@ -1,0 +1,131 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "BAC",
+            "game_name": "Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/BAC.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BJ",
+            "game_name": "Blackjack",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/BJ.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "DT",
+            "game_name": "Dragon Tiger",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/DT.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "LBAC",
+            "game_name": "MiCard Baccarat",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/LBAC.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "LINK",
+            "game_name": "Link Bet",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/LINK.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "NN",
+            "game_name": "Bull Bull",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/NN.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ROU",
+            "game_name": "Roulette",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/ROU.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SBAC",
+            "game_name": "INS Bac",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SBAC.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SG",
+            "game_name": "Three Face",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SG.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SHB",
+            "game_name": "Sicbo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SHB.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "VDG",
+            "game_name": "Xoc Dia",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/VDG.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ZJH",
+            "game_name": "Win Three Cards",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/ZJH.png",
+            "product_id": 1312,
+            "product_code": 1203,
+            "support_currency": "INR,MYR,GBP,MMK,IDR,THB,USD,EUR,VND,KRW,AUD,CAD,BRL,CNY,JPY",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "12"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "103",
+            "game_name": "Blackjack Lobby",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/103.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "3001",
+            "game_name": "BlackjackX 1",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/3001.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "303",
+            "game_name": "Blackjack 14",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/303.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "901",
+            "game_name": "ONE Blackjack 1",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/901.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "902a9",
+            "game_name": "ONE Blackjack 2",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/902a9.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "912",
+            "game_name": "Bet Behind Pro Blackjack",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1006/LIVE_CASINO_PREMIUM/912.png",
+            "product_id": 136,
+            "product_code": 1006,
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "6"
+    }
+}

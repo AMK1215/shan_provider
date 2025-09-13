@@ -1,0 +1,321 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "Balloon",
+            "game_name": "Balloon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/Balloon.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BlazingHot",
+            "game_name": "BlazingHot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/BlazingHot.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BlazingHot10",
+            "game_name": "BlazingHot10",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/BlazingHot10.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "BlazingHot40",
+            "game_name": "BlazingHot40",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/BlazingHot40.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "Cappadocia",
+            "game_name": "Cappadocia",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/Cappadocia.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "ClassicKeno",
+            "game_name": "ClassicKeno",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/ClassicKeno.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "CrazyHuntX",
+            "game_name": "CrazyHuntX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/CrazyHuntX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "CricketX",
+            "game_name": "CricketX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/CricketX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FootballX",
+            "game_name": "FootballX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/FootballX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FoxyHot20",
+            "game_name": "FoxyHot20",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/FoxyHot20.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "GeniesBonanza",
+            "game_name": "GeniesBonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/GeniesBonanza.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "HelicopterX",
+            "game_name": "HelicopterX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/HelicopterX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "HunterX",
+            "game_name": "HunterX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/HunterX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "JetX",
+            "game_name": "JetX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/JetX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "JetX3",
+            "game_name": "JetX3",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/JetX3.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "JokerBuyBonus",
+            "game_name": "JokerBuyBonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/JokerBuyBonus.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "Jungles",
+            "game_name": "Jungles",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/Jungles.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MineIsland",
+            "game_name": "MineIsland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/MineIsland.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MultiHot5",
+            "game_name": "MultiHot5",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/MultiHot5.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "MultiHotWays",
+            "game_name": "MultiHotWays",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/MultiHotWays.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "PlinkoX",
+            "game_name": "PlinkoX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/PlinkoX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "RussianKeno",
+            "game_name": "RussianKeno",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/RussianKeno.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "Samurai",
+            "game_name": "Samurai",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/Samurai.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SlicerX",
+            "game_name": "SlicerX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/SlicerX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SmashX",
+            "game_name": "SmashX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/SmashX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SpinX",
+            "game_name": "SpinX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/SpinX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "TowerX",
+            "game_name": "TowerX",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/TowerX.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "Vampires",
+            "game_name": "Vampires",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/Vampires.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "VipKeno",
+            "game_name": "VipKeno",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/VipKeno.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "VirtualRoulette",
+            "game_name": "VirtualRoulette",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/VirtualRoulette.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "WildsAndGods",
+            "game_name": "WildsAndGods",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/staging/images/games/1170/SLOT/WildsAndGods.png",
+            "product_id": 92,
+            "product_code": 1170,
+            "support_currency": "IDR",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "51"
+    }
+}

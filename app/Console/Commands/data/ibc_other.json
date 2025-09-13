@@ -1,0 +1,41 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "161",
+            "game_name": "Number Game",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/OTHER/161.png",
+            "product_id": 1227,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "164",
+            "game_name": "Happy 5",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/OTHER/164.png",
+            "product_id": 1227,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "168",
+            "game_name": "Happy 5 Linked Games",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1046/OTHER/168.png",
+            "product_id": 1227,
+            "product_code": 1046,
+            "support_currency": "MMK2",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "3"
+    }
+}

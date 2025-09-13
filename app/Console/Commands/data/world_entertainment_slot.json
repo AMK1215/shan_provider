@@ -1,0 +1,3741 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "SLOT-WEA_SLOT-Acrobats",
+            "game_name": "Acrobats",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Acrobats.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-AgentAngels",
+            "game_name": "AgentAngels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-AgentAngels.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-AliceInMegaLand",
+            "game_name": "AliceInMegaLand",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-AliceInMegaLand.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-AnimalDojo",
+            "game_name": "AnimalDojo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-AnimalDojo.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-AnimalLand",
+            "game_name": "AnimalLand",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-AnimalLand.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ApolloAndArtemis",
+            "game_name": "ApolloandArtemis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ApolloAndArtemis.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Atlantide",
+            "game_name": "Atlantide",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Atlantide.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BeautifulLady",
+            "game_name": "BeautifulLady",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BeautifulLady.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BeautyTrap",
+            "game_name": "BeautyTrap",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BeautyTrap.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BigfootYeti",
+            "game_name": "BigfootYeti",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BigfootYeti.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BionicHuman",
+            "game_name": "BionicHuman",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BionicHuman.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BlackRider",
+            "game_name": "BlackRider",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BlackRider.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BonusMania",
+            "game_name": "BonusMania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BonusMania.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BonusManiaDeluxe",
+            "game_name": "BonusManiaDeluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BonusManiaDeluxe.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BookOfMoon",
+            "game_name": "BookofMoonFusionReels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BookOfMoon.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BountyHunter",
+            "game_name": "BountyHunter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BountyHunter.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BoxingRoo",
+            "game_name": "BoxingRoo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BoxingRoo.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-BunnyGirl",
+            "game_name": "BunnyGirl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-BunnyGirl.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CantoneseFriedNoodles",
+            "game_name": "CantoneseFriedNoodles",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CantoneseFriedNoodles.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CatAndMouse",
+            "game_name": "CatAndMouse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CatAndMouse.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CatMuseum",
+            "game_name": "CatMuseum",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CatMuseum.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChaiGong",
+            "game_name": "ChaiGong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChaiGong.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChainOfWild",
+            "game_name": "ChainofWild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChainOfWild.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CheerleadingTeam",
+            "game_name": "CheerleadingTeam",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CheerleadingTeam.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CheerUp",
+            "game_name": "CheerUp",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CheerUp.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChineseFeast",
+            "game_name": "ChineseFeast",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChineseFeast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChinesePastry",
+            "game_name": "ChinesePastry",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChinesePastry.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChineseQuyi",
+            "game_name": "ChineseQuyi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChineseQuyi.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ChivalrousGirl",
+            "game_name": "ChivalrousGirl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ChivalrousGirl.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Cocorico",
+            "game_name": "Cocorico",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Cocorico.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CoffeeWild",
+            "game_name": "CoffeeWild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CoffeeWild.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CountySeat",
+            "game_name": "CountySeat",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CountySeat.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CrazyGym",
+            "game_name": "CrazyGym",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CrazyGym.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CrazyWomensJail",
+            "game_name": "CrazyWomen'sJail",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CrazyWomensJail.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CreatorRa",
+            "game_name": "CreatorRa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CreatorRa.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CricketWinner",
+            "game_name": "CricketWinner",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CricketWinner.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-CthulhuSecret",
+            "game_name": "CthulhuSecret",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-CthulhuSecret.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DarkFamily",
+            "game_name": "DarkFamily",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DarkFamily.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DemonFox",
+            "game_name": "DemonFox",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DemonFox.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DetectiveDee",
+            "game_name": "DetectiveDee",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DetectiveDee.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DoubleHappiness",
+            "game_name": "DoubleHappiness",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DoubleHappiness.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DragonBoat2",
+            "game_name": "DragonBoat2Lock2Spin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DragonBoat2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DragonInn",
+            "game_name": "DragonInn",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DragonInn.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DragonTurtle",
+            "game_name": "DragonTurtle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DragonTurtle.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DrGeek",
+            "game_name": "DrGeek",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DrGeek.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-DwarfMiner",
+            "game_name": "DwarfMiner",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-DwarfMiner.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-EasterEggParty",
+            "game_name": "EasterEggParty",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-EasterEggParty.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-EliteGames",
+            "game_name": "EliteGames",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-EliteGames.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-EmptyCity",
+            "game_name": "EmptyCity",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-EmptyCity.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-EvilPumpkin",
+            "game_name": "EvilPumpkin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-EvilPumpkin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FaCaiDestiny",
+            "game_name": "FaCaiDestiny",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FaCaiDestiny.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FantasyDragons",
+            "game_name": "FantasyDragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FantasyDragons.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FashionBones",
+            "game_name": "FashionBones",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FashionBones.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Fastbreak",
+            "game_name": "Fastbreak",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Fastbreak.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FightingGirls",
+            "game_name": "FightingGirls",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FightingGirls.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Firefighters",
+            "game_name": "Firefighters",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Firefighters.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FireHit",
+            "game_name": "FireHit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FireHit.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FiveFortuneGods",
+            "game_name": "FiveFortuneGods",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FiveFortuneGods.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FiveHeroes",
+            "game_name": "FiveHeroes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FiveHeroes.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FiveSoundFortune",
+            "game_name": "FiveSoundFortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FiveSoundFortune.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FootballMania",
+            "game_name": "FootballMania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FootballMania.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Fortuna",
+            "game_name": "Fortuna",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Fortuna.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FortuneFeast",
+            "game_name": "FortuneFeastFusionReels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FortuneFeast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FortuneGanesha",
+            "game_name": "FortuneGanesha",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FortuneGanesha.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FortuneRabbit",
+            "game_name": "FortuneRabbit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FortuneRabbit.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FortuneStar",
+            "game_name": "FortuneStar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FortuneStar.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FoxyMama",
+            "game_name": "FoxyMama",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FoxyMama.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-FuShenlong",
+            "game_name": "FuShenlong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-FuShenlong.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Gangster",
+            "game_name": "Gangster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Gangster.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Geisha",
+            "game_name": "Geisha",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Geisha.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GhostFestival",
+            "game_name": "GhostFestival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GhostFestival.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GhostsFortune",
+            "game_name": "GhostsFortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GhostsFortune.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GodOfGamblers",
+            "game_name": "GodOfGamblers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GodOfGamblers.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GoEscape",
+            "game_name": "GoEscape",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GoEscape.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Golden777",
+            "game_name": "Golden777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Golden777.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GoldenBall",
+            "game_name": "GoldenBall",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GoldenBall.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GoldenBull",
+            "game_name": "GoldenBull",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GoldenBull.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GreatCourtyard",
+            "game_name": "GreatCourtyard",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GreatCourtyard.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GreatDoctor",
+            "game_name": "GreatDoctor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GreatDoctor.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GreatLuck",
+            "game_name": "GreatLuck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GreatLuck.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GreedyNight",
+            "game_name": "GreedyNight",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GreedyNight.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GreenParty",
+            "game_name": "GreenParty",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GreenParty.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-GuanYunChang",
+            "game_name": "GuanYunChang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-GuanYunChang.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Hamlet",
+            "game_name": "Hamlet",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Hamlet.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Hanabi",
+            "game_name": "Hanabi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Hanabi.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HanselAndGretel",
+            "game_name": "HanselandGretel",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HanselAndGretel.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HareVSTortoise",
+            "game_name": "Harevs.Tortoise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HareVSTortoise.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HeroinesOfTheMarsh",
+            "game_name": "HeroinesoftheMarsh",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HeroinesOfTheMarsh.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HipHop",
+            "game_name": "HipHop",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HipHop.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HolidayCarol",
+            "game_name": "HolidayCarolLock2Spin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HolidayCarol.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HongKong60s",
+            "game_name": "HongKong60s",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HongKong60s.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HouYi",
+            "game_name": "HouYi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HouYi.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-HunterHelibu",
+            "game_name": "HunterHelibu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-HunterHelibu.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-IrishCoins",
+            "game_name": "IrishCoins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-IrishCoins.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-JamesBond",
+            "game_name": "JamesBond",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-JamesBond.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-JokerFruit",
+            "game_name": "JokerFruit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-JokerFruit.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-KaiFengFu",
+            "game_name": "KaiFengFu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-KaiFengFu.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-KingOfDragon",
+            "game_name": "KingOfDragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-KingOfDragon.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LadyKAKA",
+            "game_name": "LadyKAKA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LadyKAKA.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LadyRacer",
+            "game_name": "LadyRacer",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LadyRacer.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LandOfDwarfs",
+            "game_name": "LandOfDwarfs",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LandOfDwarfs.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LaTomatina",
+            "game_name": "LaTomatina",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LaTomatina.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LazyRich",
+            "game_name": "LazyRich",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LazyRich.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LegendOfAkihiro",
+            "game_name": "LegendofAkihiro",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LegendOfAkihiro.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LegendOfAthena",
+            "game_name": "LegendofAthena",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LegendOfAthena.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LegendOfLegends",
+            "game_name": "LegendOfLegends",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LegendOfLegends.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LightningGoddess",
+            "game_name": "LightningGoddess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LightningGoddess.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Lilith",
+            "game_name": "Lilith",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Lilith.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LionVSShark",
+            "game_name": "LionVSShark",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LionVSShark.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LittleMonk",
+            "game_name": "LittleMonk",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LittleMonk.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LoveAmongstWar",
+            "game_name": "LoveAmongstWar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LoveAmongstWar.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LoveGame",
+            "game_name": "LoveGame",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LoveGame.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Luck88",
+            "game_name": "Luck88",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Luck88.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyAilurus",
+            "game_name": "LuckyAilurus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyAilurus.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyGem",
+            "game_name": "LuckyGemFusionReels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyGem.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyGod",
+            "game_name": "LuckyGod",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyGod.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyInn",
+            "game_name": "LuckyInn",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyInn.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyStar",
+            "game_name": "LuckyStar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyStar.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-LuckyTumbler",
+            "game_name": "LuckyTumbler",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-LuckyTumbler.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MagicianHouse",
+            "game_name": "MagicianHouse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MagicianHouse.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MagicQueen",
+            "game_name": "MagicQueen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MagicQueen.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MasterOfWulin",
+            "game_name": "MasterOfWulin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MasterOfWulin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Mexicaliente",
+            "game_name": "Mexicaliente",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Mexicaliente.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MidasTouch",
+            "game_name": "MidasTouch",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MidasTouch.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MilkGirl",
+            "game_name": "MilkGirl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MilkGirl.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MirrorHouse",
+            "game_name": "MirrorHouse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MirrorHouse.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MissJoker",
+            "game_name": "MissJoker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MissJoker.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MonkeyManiac",
+            "game_name": "MonkeyManiac",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MonkeyManiac.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MonsterBuster",
+            "game_name": "MonsterBuster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MonsterBuster.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MonsterFile",
+            "game_name": "MonsterFile",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MonsterFile.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MoulinRouge",
+            "game_name": "MoulinRouge",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MoulinRouge.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-MysteryShoot",
+            "game_name": "MysteryShoot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-MysteryShoot.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-NieXiaoqian",
+            "game_name": "NieXiaoqian",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-NieXiaoqian.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-NightOnTheNile",
+            "game_name": "NightOnTheNile",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-NightOnTheNile.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Oktoberfest",
+            "game_name": "Oktoberfest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Oktoberfest.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-OrientalBeast",
+            "game_name": "OrientalBeast",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-OrientalBeast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-OrientalMonster",
+            "game_name": "OrientalMonster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-OrientalMonster.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-PenguinFamily",
+            "game_name": "PenguinFamily",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-PenguinFamily.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-PiedPiper",
+            "game_name": "PiedPiper",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-PiedPiper.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-PiggyBankMachine",
+            "game_name": "PiggyBankMachine",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-PiggyBankMachine.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-PlagueDoctor",
+            "game_name": "PlagueDoctor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-PlagueDoctor.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-PricelessMuseum",
+            "game_name": "PricelessMuseumFusionReels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-PricelessMuseum.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-QuadrupleDragons",
+            "game_name": "QuadrupleDragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-QuadrupleDragons.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-QuickPlayCandy",
+            "game_name": "QuickPlayCandy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-QuickPlayCandy.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-RedCliff",
+            "game_name": "RedCliff",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-RedCliff.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-RichDiwali",
+            "game_name": "RichDiwali",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-RichDiwali.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-RichFarm",
+            "game_name": "RichFarm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-RichFarm.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-RomanceInEngland",
+            "game_name": "RomanceInEngland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-RomanceInEngland.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ScaryClown",
+            "game_name": "ScaryClown",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ScaryClown.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Seagull",
+            "game_name": "Seagull",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Seagull.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SecretAgent",
+            "game_name": "SecretAgent",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SecretAgent.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Seediq",
+            "game_name": "Seediq",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Seediq.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SexyLips",
+            "game_name": "SexyLips",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SexyLips.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ShaolinLegend",
+            "game_name": "ShaolinLegend",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ShaolinLegend.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ShaolinSoccer",
+            "game_name": "ShaolinSoccer",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ShaolinSoccer.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Sharpshooter",
+            "game_name": "Sharpshooter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Sharpshooter.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Shennong",
+            "game_name": "ShenNong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Shennong.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Sinbad",
+            "game_name": "Sinbad",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Sinbad.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SkyForce",
+            "game_name": "SkyForce",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SkyForce.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SleepwalkingSheep",
+            "game_name": "SleepwalkingSheep",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SleepwalkingSheep.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SnowGoddess",
+            "game_name": "SnowGoddess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SnowGoddess.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SnowQueen",
+            "game_name": "SnowQueen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SnowQueen.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SolomonsTreasure",
+            "game_name": "Solomon'sTreasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SolomonsTreasure.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SoulGems",
+            "game_name": "SoulGems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SoulGems.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Speakeasy",
+            "game_name": "Speakeasy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Speakeasy.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SpiderGoblin",
+            "game_name": "SpiderGoblin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SpiderGoblin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SquidParty",
+            "game_name": "SquidPartyLock2Spin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SquidParty.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Steampunk",
+            "game_name": "Steampunk",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Steampunk.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SummerSamba",
+            "game_name": "SummerSamba",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SummerSamba.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Sumo",
+            "game_name": "Sumo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Sumo.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SuperBonusMania",
+            "game_name": "SuperBonusMania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SuperBonusMania.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SuperDragonTiger",
+            "game_name": "SuperDragonTiger",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SuperDragonTiger.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SuperEnergy",
+            "game_name": "SuperEnergy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SuperEnergy.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SuperShot",
+            "game_name": "SuperShot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SuperShot.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-SuperSlime",
+            "game_name": "SuperSlime",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-SuperSlime.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TaketoriMonogatari",
+            "game_name": "TaketoriMonogatari",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TaketoriMonogatari.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TheBoyWhoCriedWolf",
+            "game_name": "TheBoyWhoCriedWolf",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TheBoyWhoCriedWolf.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TheKingProducer",
+            "game_name": "TheKingProducer",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TheKingProducer.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TheLittlePrince",
+            "game_name": "TheLittlePrince",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TheLittlePrince.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ThePeonyPavilion",
+            "game_name": "ThePeonyPavilion",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ThePeonyPavilion.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ThreeMonkeys",
+            "game_name": "ThreeMonkeys",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ThreeMonkeys.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TigerGirl",
+            "game_name": "TigerGirl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TigerGirl.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-Treasurebowl",
+            "game_name": "Treasurebowl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-Treasurebowl.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TreasureCarp",
+            "game_name": "TreasureCarp",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TreasureCarp.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-TuanYuan",
+            "game_name": "TuanYuan",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-TuanYuan.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-UnicornParty",
+            "game_name": "UnicornParty",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-UnicornParty.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-UpHellyAa",
+            "game_name": "UpHellyAa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-UpHellyAa.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WalkingOz",
+            "game_name": "WalkingOz",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WalkingOz.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WarOfThrones",
+            "game_name": "WarofThrones",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WarOfThrones.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WealthToad",
+            "game_name": "WealthToad",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WealthToad.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WhaleWild",
+            "game_name": "WhaleWild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WhaleWild.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WhiteNoseCat",
+            "game_name": "WhiteNoseCat",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WhiteNoseCat.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WhoLetTheDogsOut",
+            "game_name": "WhoLettheDogsOut",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WhoLetTheDogsOut.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WildJungle",
+            "game_name": "WildJungle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WildJungle.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WildVick",
+            "game_name": "WildVick",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WildVick.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WildVick2",
+            "game_name": "WildVick2AdventureJourney",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WildVick2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-WongTaiSin",
+            "game_name": "WongTaiSin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-WongTaiSin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-YearOfTheRabbit",
+            "game_name": "YearOfTheRabbit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-YearOfTheRabbit.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ZhongYiAndDragon",
+            "game_name": "ZhongYiAndDragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ZhongYiAndDragon.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEA_SLOT-ZombieExpert",
+            "game_name": "ZombieExpertLock2Spin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEA_SLOT-ZombieExpert.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-blackwukongfunfast",
+            "game_name": "Black Wukong",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-blackwukongfunfast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-buffaloslots",
+            "game_name": "Wild Buffalo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-buffaloslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-candycrush",
+            "game_name": "super candy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-candycrush.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-diamondfever",
+            "game_name": "Dazzling Gem",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-diamondfever.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fastandfuriousslots",
+            "game_name": "Fast and Furious",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fastandfuriousslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-footballslots",
+            "game_name": "Soccer Club",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-footballslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fortunemouse",
+            "game_name": "Fortune Mouse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fortunemouse.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fortuneox",
+            "game_name": "Fortune Ox",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fortuneox.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fortunerabbit",
+            "game_name": "Lucky Rabbit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fortunerabbit.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fortunesnake",
+            "game_name": "Fortune Snake",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fortunesnake.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fortunetiger",
+            "game_name": "Prosperous Tiger",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fortunetiger.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-fruitslots",
+            "game_name": "Quick Fire Jackpot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-fruitslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-gememoji",
+            "game_name": "Gem Emoji",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-gememoji.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-gorillaslots",
+            "game_name": "Gorilla King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-gorillaslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-jungleslots",
+            "game_name": "King Of Beasts",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-jungleslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-lasvegasslots",
+            "game_name": "Vegas Cash",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-lasvegasslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-lavacashslots",
+            "game_name": "Lava Cash",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-lavacashslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-leopardslots",
+            "game_name": "Panthers Gone Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-leopardslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-luckyseven",
+            "game_name": "Bravo777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-luckyseven.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-mahjongways",
+            "game_name": "Mahjong Ways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-mahjongways.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-springfestivalslots",
+            "game_name": "New Year's Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-springfestivalslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-sweetbonanzafunfast",
+            "game_name": "Candy Carnival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-sweetbonanzafunfast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-zeusfunfast",
+            "game_name": "Power of Zeus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-zeusfunfast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-zeusfunfastchristmas",
+            "game_name": "Gates of Olympus X-Mas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-zeusfunfastchristmas.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEC_SLOT-zeuswrathslots",
+            "game_name": "Zeus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEC_SLOT-zeuswrathslots.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-almightyzeus",
+            "game_name": "Almighty Zeus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-almightyzeus.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-arcticking",
+            "game_name": "Arctic King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-arcticking.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-buffalo",
+            "game_name": "Buffalo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-buffalo.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-candyburst",
+            "game_name": "Candy Burst",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-candyburst.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-cracker",
+            "game_name": "Cracker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-cracker.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-crazypenguin",
+            "game_name": "Crazy Penguin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-crazypenguin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-dragontiles",
+            "game_name": "Dragon Tiles",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-dragontiles.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-eagleparade",
+            "game_name": "Eagle Parade",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-eagleparade.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-emperorqin",
+            "game_name": "Emperor Qin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-emperorqin.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fafafa",
+            "game_name": "FaFaFa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fafafa.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fishingtycoon",
+            "game_name": "Fishing Tycoon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fishingtycoon.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortuneboy",
+            "game_name": "Fortune Boy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortuneboy.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortunebull",
+            "game_name": "Fortune Bull",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortunebull.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortunecat",
+            "game_name": "Fortune Cat",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortunecat.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortunegate",
+            "game_name": "Fortune Gate",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortunegate.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortunekoi2",
+            "game_name": "Fortune Koi",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortunekoi2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortuneneko",
+            "game_name": "Fortune Neko",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortuneneko.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-fortunepanda",
+            "game_name": "Fortune Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-fortunepanda.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-foxyheist",
+            "game_name": "Foxy Heist",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-foxyheist.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-gemstoneprincess",
+            "game_name": "Gemstone Princess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-gemstoneprincess.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-goblingold",
+            "game_name": "Goblin's Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-goblingold.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-godoffortune",
+            "game_name": "God of Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-godoffortune.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-goldminer",
+            "game_name": "Gold Miner",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-goldminer.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-goldrush",
+            "game_name": "Gold Rush",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-goldrush.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-goldtoad",
+            "game_name": "Gold Toad",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-goldtoad.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-huangdilegend",
+            "game_name": "Huangdi Legend",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-huangdilegend.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-iceagemammoths",
+            "game_name": "Ice Age Mammoths",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-iceagemammoths.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-jadeemperor",
+            "game_name": "Jade Emperor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-jadeemperor.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-jalapeno",
+            "game_name": "Jalapeno",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-jalapeno.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-jalapeno2",
+            "game_name": "Jalapeno 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-jalapeno2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-kinggummybear",
+            "game_name": "King Gummy Bear",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-kinggummybear.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-kokushimusou",
+            "game_name": "Kokushimusou",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-kokushimusou.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-legendofaztec",
+            "game_name": "Legend of Aztec",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-legendofaztec.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-leprechaun",
+            "game_name": "Leprechaun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-leprechaun.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-lionlegend",
+            "game_name": "Lion Legend",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-lionlegend.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-luckywitch",
+            "game_name": "Lucky Witch",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-luckywitch.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-mahjonggold",
+            "game_name": "Mahjong Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-mahjonggold.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-mahjonggold2",
+            "game_name": "Mahjong Gold 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-mahjonggold2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-mahjonginfinity",
+            "game_name": "Mahjong Infinity",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-mahjonginfinity.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-mysteryshow",
+            "game_name": "Mystery Show",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-mysteryshow.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-pandawarrior",
+            "game_name": "Panda Warrior",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-pandawarrior.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-pharaohtreasures",
+            "game_name": "Pharaoh Treasures",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-pharaohtreasures.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-pirateattack",
+            "game_name": "Pirate Attack",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-pirateattack.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-piratetreasure",
+            "game_name": "Pirate Treasure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-piratetreasure.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-powerofthor",
+            "game_name": "Power of Thor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-powerofthor.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-prosperity168",
+            "game_name": "Prosperity 168",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-prosperity168.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-royaleexpedition",
+            "game_name": "Royale Expedition",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-royaleexpedition.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-shiningdiamond",
+            "game_name": "Shining Diamond",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-shiningdiamond.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-spookyhalloween",
+            "game_name": "Spooky Halloween",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-spookyhalloween.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-thanksgivingblast",
+            "game_name": "Thanksgiving Blast",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-thanksgivingblast.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-theheists",
+            "game_name": "Crazy Thieves",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-theheists.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-thekingofolympus",
+            "game_name": "The King Of Olympus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-thekingofolympus.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-theunsurpassedgrace",
+            "game_name": "The Unsurpassed Grace",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-theunsurpassedgrace.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-threekings",
+            "game_name": "Three Kings",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-threekings.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-tigermaster",
+            "game_name": "Tiger Master",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-tigermaster.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-toysoldiers",
+            "game_name": "Toy Soldiers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-toysoldiers.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-trainrobber",
+            "game_name": "Train Robber",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-trainrobber.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-treasuremine",
+            "game_name": "Treasure Mine",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-treasuremine.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-vikingage",
+            "game_name": "Viking Age",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-vikingage.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-xiangqiwarfare",
+            "game_name": "Xiangqi Warfare",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-xiangqiwarfare.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WED_SLOT-ht-zorro",
+            "game_name": "Zorro",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WED_SLOT-ht-zorro.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180105",
+            "game_name": "Cleopatra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180105.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180106",
+            "game_name": "Duo Bao",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180106.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180107",
+            "game_name": "Candy World",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180107.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180305",
+            "game_name": "XinChunFuGui",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180305.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180402",
+            "game_name": "Lucky Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180402.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180405",
+            "game_name": "Viking Legends",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180405.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180507",
+            "game_name": "Lucky Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180507.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180602",
+            "game_name": "Shuang Xi Linmen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180602.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-180704",
+            "game_name": "BuBuGaoSheng",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-180704.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-190212",
+            "game_name": "Disco Party",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-190212.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-190213",
+            "game_name": "Disco Party 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-190213.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200108",
+            "game_name": "Happy Tết",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200108.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200109",
+            "game_name": "Disco Fruits",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200109.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200110",
+            "game_name": "FaFaFa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200110.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200111",
+            "game_name": "ZhuLinJu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200111.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200202",
+            "game_name": "Fateful Jar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200202.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200203",
+            "game_name": "ShanShenShuiShen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200203.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200204",
+            "game_name": "Hoi An Lanterns",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200204.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200205",
+            "game_name": "Pan Gu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200205.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200702",
+            "game_name": "Jungle Adventure",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200702.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-200703",
+            "game_name": "Fruit Blast",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-200703.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEE_SLOT-210701",
+            "game_name": "Dufan",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEE_SLOT-210701.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-580dc69068712a00a9000018",
+            "game_name": "Classico",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-580dc69068712a00a9000018.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-58231b3d381e0c00c400000d",
+            "game_name": "Booming Seven Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-58231b3d381e0c00c400000d.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-59677eea7d5d7c002400001c",
+            "game_name": "Vegas Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-59677eea7d5d7c002400001c.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5a007c32ed1496001100000d",
+            "game_name": "Royal Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5a007c32ed1496001100000d.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5a032814ed1496000800000f",
+            "game_name": "Big Apple Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5a032814ed1496000800000f.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5a37d2355397390011000013",
+            "game_name": "Paris Nights",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5a37d2355397390011000013.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5a37d2585397390020000013",
+            "game_name": "Asia Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5a37d2585397390020000013.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5ac73df903726f000e000190",
+            "game_name": "Wild Diamond 7x",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5ac73df903726f000e000190.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5e732986ba03bd00171b05bb",
+            "game_name": "Burning Classics",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5e732986ba03bd00171b05bb.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5f3510b5737b43001a2e8ff2",
+            "game_name": "Cash Pig",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5f3510b5737b43001a2e8ff2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5f48c770f2a091001423728c",
+            "game_name": "Book of Tombs",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5f48c770f2a091001423728c.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5fbb633befcba9001c85f940",
+            "game_name": "Diamond Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5fbb633befcba9001c85f940.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-5fca4cf5efcba9001685f940",
+            "game_name": "Buffalo Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-5fca4cf5efcba9001685f940.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-602a6703efcba9001485f940",
+            "game_name": "Bang Bang",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-602a6703efcba9001485f940.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-604b38b89e1ee60016fdf21e",
+            "game_name": "Wild Wild Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-604b38b89e1ee60016fdf21e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-606d52719e1ee6001cfdf21e",
+            "game_name": "Greek Legends",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-606d52719e1ee6001cfdf21e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6093eb819e1ee60017fdf21e",
+            "game_name": "Howling Wolves Megaways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6093eb819e1ee60017fdf21e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-60c8728fdbc1440017518e05",
+            "game_name": "Mighty Gorilla",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-60c8728fdbc1440017518e05.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-60faa3b0589d2900175cb98e",
+            "game_name": "Rhino Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-60faa3b0589d2900175cb98e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-616168aabefa370018538081",
+            "game_name": "Fortune & Finery",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-616168aabefa370018538081.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-61787a29befa370016538076",
+            "game_name": "Flaming Chillies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-61787a29befa370016538076.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-61787b5dbefa370019538076",
+            "game_name": "Jesters Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-61787b5dbefa370019538076.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-61787b78befa370012538076",
+            "game_name": "Lucky Oasis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-61787b78befa370012538076.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-61787bffbefa370011538086",
+            "game_name": "Blockchain Megaways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-61787bffbefa370011538086.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6202363cbefa370016538086",
+            "game_name": "Gamblelicious Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6202363cbefa370016538086.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-62053097befa3700135380a1",
+            "game_name": "Treasure Vault",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-62053097befa3700135380a1.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-623dbc6a90e1870012b59236",
+            "game_name": "Legendary Diamonds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-623dbc6a90e1870012b59236.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6256ba20584e2d001065a312",
+            "game_name": "Burning Classics go Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6256ba20584e2d001065a312.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6261c2b227d185001376cc68",
+            "game_name": "Roll the Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6261c2b227d185001376cc68.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-62738aa3a81ac8000e974472",
+            "game_name": "Crack the Bank Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-62738aa3a81ac8000e974472.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-628215226698440014bd3bd9",
+            "game_name": "The Wild Wings of Phoenix",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-628215226698440014bd3bd9.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-62bde4e756dc080014ae001e",
+            "game_name": "Let it Spin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-62bde4e756dc080014ae001e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-62fe444a6db4f70014a6342d",
+            "game_name": "TNT Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-62fe444a6db4f70014a6342d.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-630dc4a95f550b000f4eeaf1",
+            "game_name": "The Mighty Toro",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-630dc4a95f550b000f4eeaf1.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63205f57313c900016e560dd",
+            "game_name": "Super Duper",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63205f57313c900016e560dd.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-633c437186f7f10001c8f847",
+            "game_name": "King Cobra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-633c437186f7f10001c8f847.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-634807c733c14000011d2f51",
+            "game_name": "Power of Olympus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-634807c733c14000011d2f51.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63566b0c26625500019175d7",
+            "game_name": "Gold Gold Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63566b0c26625500019175d7.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6357e1bf23ea5a000133a3fe",
+            "game_name": "Payday Pig",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6357e1bf23ea5a000133a3fe.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6358de4723ea5a000133a404",
+            "game_name": "Piñata Wildz",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6358de4723ea5a000133a404.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-637cf755a784e30001057f18",
+            "game_name": "Classic Fantastic",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-637cf755a784e30001057f18.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63b450475e59b8000118d58f",
+            "game_name": "Bamboo Wilds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63b450475e59b8000118d58f.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63e21a63f78c9900017af6d6",
+            "game_name": "Billy Bob Boom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63e21a63f78c9900017af6d6.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63f38e5fe2ef820001bcf29f",
+            "game_name": "Money Inc",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63f38e5fe2ef820001bcf29f.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-63fdd6b8428e5b0001dd7ca6",
+            "game_name": "Power of the Vikings",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-63fdd6b8428e5b0001dd7ca6.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6411815816f2ad00018e7426",
+            "game_name": "Mammoth Tundra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6411815816f2ad00018e7426.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-641b253ef3cb4b00016f5224",
+            "game_name": "Space Cows to the Moo'n",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-641b253ef3cb4b00016f5224.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6436be6c9268640001b42dd5",
+            "game_name": "Smoking Pistols",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6436be6c9268640001b42dd5.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6458c00b2e01ff00010a2090",
+            "game_name": "Holly Jolly Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6458c00b2e01ff00010a2090.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-645b98d8abe4c600013e1998",
+            "game_name": "Secret Book of Amun Ra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-645b98d8abe4c600013e1998.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-648c55128eec0c0001c688b2",
+            "game_name": "Stampede Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-648c55128eec0c0001c688b2.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-64a3e7c0afc503000168761e",
+            "game_name": "Power of Rome",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-64a3e7c0afc503000168761e.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-64abe7a9d5cc48000110f878",
+            "game_name": "Boogie Boom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-64abe7a9d5cc48000110f878.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-64ba7fc8ef3f980001fbab96",
+            "game_name": "The Chillies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-64ba7fc8ef3f980001fbab96.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-64dcc2f2a2e36a0001d2ee69",
+            "game_name": "Bang Bang Reloaded",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-64dcc2f2a2e36a0001d2ee69.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-64ec56ada2e36a0001d2ee75",
+            "game_name": "Fruit Heaven Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-64ec56ada2e36a0001d2ee75.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-652504bcf33db2000161cfd3",
+            "game_name": "Ultimate Hold 'N' Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-652504bcf33db2000161cfd3.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-6578466fc9215b0001208f66",
+            "game_name": "Jam Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-6578466fc9215b0001208f66.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SLOT-WEF_SLOT-657c5fe0a8abcd000146d9ab",
+            "game_name": "Ronaldinho Spins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/SLOT/SLOT-WEF_SLOT-657c5fe0a8abcd000146d9ab.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MXN,TWD,NGN,VND,JPY,KRW2,BRL,IDR,THB,MMK2,MMK,USD,KRW,KHR,EUR,BDT,CNY,VND,IDR,INR,MYR,HKD,SGD,COP,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_BASKETBALL",
+            "game_name": "E-Basketball",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_BASKETBALL.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_ICE_HOCKEY",
+            "game_name": "E-Ice Hockey",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_ICE_HOCKEY.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_SOCCER",
+            "game_name": "E-Soccer",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_SOCCER.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_SPORTS",
+            "game_name": "E-Sports",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_SPORTS.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_TENNIS",
+            "game_name": "E-Tennis",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_TENNIS.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "SPORT-WEB_E_VOLLEYBALL",
+            "game_name": "E-Volleyball",
+            "game_type": "VIRTUAL_SPORT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1172/VIRTUAL_SPORT/SPORT-WEB_E_VOLLEYBALL.png",
+            "product_id": 1261,
+            "product_code": 1172,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "373"
+    }
+}

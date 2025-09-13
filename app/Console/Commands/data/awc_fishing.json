@@ -1,0 +1,31 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "FastSpin-FISH-001",
+            "game_name": "Fishing Treasure",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/FISHING/FastSpin-FISH-001.png",
+            "product_id": 1172,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "FastSpin-FISH-002",
+            "game_name": "Ocean Carnival",
+            "game_type": "FISHING",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1139/FISHING/FastSpin-FISH-002.png",
+            "product_id": 1172,
+            "product_code": 1139,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "2"
+    }
+}
