@@ -254,7 +254,6 @@ class ProviderLaunchGameController extends Controller
         // Get the secret key for the agent
         $agentCode = $request->agent_code;
         $agent = User::where('shan_agent_code', $agentCode)->first();
-        
         if (!$agent) {
             Log::error('Agent not found for signature verification', ['agent_code' => $agentCode]);
             return '';
@@ -264,7 +263,9 @@ class ProviderLaunchGameController extends Controller
         // You might need to adjust this based on how you store secret keys for agents
         //$secretKey = config('shan_key.secret_key'); // or get from agent's config
 
-        $secretKey = $agent->shan_secret_key;
+        //$secretKey = $agent->shan_secret_key;
+        $secretKey = config('shan_key.secret_key');
+
 
         // Check if secret key is null or empty
         if (empty($secretKey)) {
