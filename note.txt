@@ -7,16 +7,16 @@ sudo apt install php8.3-pgsql
 sudo systemctl restart php8.3-fpm # Replace 8.1 with your PHP version
 sudo systemctl restart nginx
 
-php -r "file_put_contents('/var/www/shan_provider_amk/storage/logs/laravel.log', '');"
+php -r "file_put_contents('/var/www/shan_provider/storage/logs/laravel.log', '');"
 * * * * * cd /var/www/gsc_plus && php artisan schedule:run >> /dev/null 2>&1
 tail -f /var/log/mysql/error.log
 
 tail -f /var/www/shan_provider_amk/storage/logs/laravel.log
 
-sudo chown -R www-data:www-data /var/www/gsc_plus/storage
-sudo chown -R www-data:www-data /var/www/gsc_plus/bootstrap/cache
-sudo chmod -R 775 /var/www/gsc_plus/storage
-sudo chmod -R 775 /var/www/gsc_plus/bootstrap/cache
+sudo chown -R www-data:www-data /var/www/shan_provider/storage
+sudo chown -R www-data:www-data /var/www/shan_provider/bootstrap/cache
+sudo chmod -R 775 /var/www/shan_provider/storage
+sudo chmod -R 775 /var/www/shan_provider/bootstrap/cache
 
 php artisan analytics:loss-summary --group=member_account
 php artisan analytics:loss-summary --group=player_id
@@ -434,3 +434,10 @@ public function gameLists($type, $provider, Request $request)
             'url' => $launchGameUrl,
         ]);
     }
+
+
+
+// In tinker
+$agent = \App\Models\User::where('shan_agent_code', 'C902')->first();
+echo "Secret key: '" . $agent->shan_secret_key . "'\n";
+echo "Length: " . strlen($agent->shan_secret_key) . "\n";

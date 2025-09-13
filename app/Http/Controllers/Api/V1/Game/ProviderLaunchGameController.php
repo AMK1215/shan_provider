@@ -125,6 +125,7 @@ class ProviderLaunchGameController extends Controller
                 'status' => 1,
                 'is_changed_password' => 1,
                 'shan_agent_code' => $agentCode,
+                'shan_secret_key' => $agent->shan_secret_key,
                 'agent_id' => $agent->id, // Set the agent relationship
                 'client_agent_name' => $agent_name,
                 'client_agent_id' => $agent->id,
@@ -264,6 +265,8 @@ class ProviderLaunchGameController extends Controller
         //$secretKey = config('shan_key.secret_key'); // or get from agent's config
 
         $secretKey = $agent->shan_secret_key;
+
+        Log::info('Secret key', ['provider site agent secret_key' => $secretKey]);
         
         // Generate signature following the same pattern as client: md5(request_time + secret_key + 'launchgame' + agent_code)
         $signString = $request->request_time . $secretKey . 'launchgame' . $agentCode;
@@ -345,6 +348,7 @@ class ProviderLaunchGameController extends Controller
                     'status' => 1,
                     'is_changed_password' => 1,
                     'shan_agent_code' => $agentCode,
+                    'shan_secret_key' => $agent->shan_secret_key,
                     'agent_id' => $agent->id,
                     'client_agent_name' => $agent_name,
                     'client_agent_id' => $agent->id,
