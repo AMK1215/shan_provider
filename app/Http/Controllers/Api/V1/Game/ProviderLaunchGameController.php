@@ -266,6 +266,16 @@ class ProviderLaunchGameController extends Controller
 
         $secretKey = $agent->shan_secret_key;
 
+        // Check if secret key is null or empty
+        if (empty($secretKey)) {
+            Log::error('Agent secret key is null or empty', [
+                'agent_code' => $agentCode,
+                'agent_id' => $agent->id,
+                'agent_username' => $agent->user_name,
+            ]);
+            return '';
+        }
+
         Log::info('Secret key', ['provider site agent secret_key' => $secretKey]);
         
         // Generate signature following the same pattern as client: md5(request_time + secret_key + 'launchgame' + agent_code)
