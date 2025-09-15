@@ -438,6 +438,8 @@ public function gameLists($type, $provider, Request $request)
 
 
 // In tinker
-$agent = \App\Models\User::where('shan_agent_code', 'C902')->first();
+$agent = \App\Models\User::where('shan_agent_code', 'C931')->first();
 echo "Secret key: '" . $agent->shan_secret_key . "'\n";
 echo "Length: " . strlen($agent->shan_secret_key) . "\n";
+
+i3RLSno3pFDLxyo

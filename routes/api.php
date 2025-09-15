@@ -37,6 +37,8 @@ use App\Http\Controllers\Api\V1\Shan\BalanceUpdateCallbackController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\V1\Game\ProviderLaunchGameController;
+use App\Http\Controllers\Api\V1\PoneWine\PoneWineBetController;
+use App\Http\Controllers\Api\PoneWine\ProviderPoneWineLaunchGameController;
 
 /*
 |--------------------------------------------------------------------------
@@ -68,6 +70,8 @@ Route::prefix('v1/api/seamless')->group(function () {
 });
 
 Route::post('/transactions', [ShanTransactionController::class, 'ShanTransactionCreate'])->middleware('transaction');
+Route::post('ponewine/bet', [PoneWineBetController::class, 'index'])->middleware('transaction');
+Route::post('/client/ponewine/launch-game', [ProviderPoneWineLaunchGameController::class, 'PoneWinelaunchGameForClient']);
 
 // Client launch game endpoint (no authentication required)
 // Route::post('/client/launch-game', [LaunchGameController::class, 'launchGameForClient']);
@@ -128,7 +132,7 @@ Route::group(['prefix' => 'shan'], function () {
 // provider shan api
 Route::group(['prefix' => 'provider/shan'], function () {
     Route::post('ShanGetBalances', [ShankomeeGetBalanceController::class, 'shangetbalance']);
-    Route::post('ShanLaunchGame', [ShankomeeGetBalanceController::class, 'LaunchGame']);
+    // Route::post('ShanLaunchGame', [ShankomeeGetBalanceController::class, 'LaunchGame']);
 
     // Agent management routes
     Route::post('users-by-agent', [ShanAgentController::class, 'getUsersByAgent']);

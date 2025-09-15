@@ -45,4 +45,15 @@ enum TransactionName: string
     case GameWin = 'game_win';
     case BankerDeposit = 'banker_deposit';
     case BankerWithdraw = 'banker_withdraw';
+    case PoneWineBet = 'pone_wine_bet';
+    case PoneWineWin = 'pone_wine_win';
+    case PoneWineLoss = 'pone_wine_loss';
+    case PoneWineCancel = 'pone_wine_cancel';
+    case PoneWineRollback = 'pone_wine_rollback';
+    case PoneWineBuyIn = 'pone_wine_buy_in';
+    case PoneWineBuyOut = 'pone_wine_buy_out';
+    case PoneWineBetInfo = 'pone_wine_bet_info';
+    case PoneWinePlayerBet = 'pone_wine_player_bet';
+    case PoneWineSettled = 'pone_wine_settled';
+
 }
