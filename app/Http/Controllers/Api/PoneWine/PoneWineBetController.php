@@ -296,7 +296,7 @@ class PoneWineBetController extends Controller
         array $callbackPlayers,
         string $secretKey
     ): void {
-        $callbackUrl = $callbackUrlBase . '/pone-wine/client-report';
+        $callbackUrl = $callbackUrlBase . 'api/pone-wine/client-report';
 
         $callbackPayload = [
             'roomId' => $gameData['roomId'] ?? 0,
