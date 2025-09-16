@@ -37,7 +37,7 @@ use App\Http\Controllers\Api\V1\Shan\BalanceUpdateCallbackController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\V1\Game\ProviderLaunchGameController;
-use App\Http\Controllers\Api\V1\PoneWine\PoneWineBetController;
+use App\Http\Controllers\Api\PoneWine\PoneWineBetController;
 use App\Http\Controllers\Api\PoneWine\ProviderPoneWineLaunchGameController;
 use App\Http\Controllers\Api\PoneWine\PoneWineClientBalanceUpdateController;
 
