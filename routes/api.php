@@ -39,6 +39,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\V1\Game\ProviderLaunchGameController;
 use App\Http\Controllers\Api\V1\PoneWine\PoneWineBetController;
 use App\Http\Controllers\Api\PoneWine\ProviderPoneWineLaunchGameController;
+use App\Http\Controllers\Api\PoneWine\PoneWineClientBalanceUpdateController;
 
 /*
 |--------------------------------------------------------------------------
@@ -128,6 +129,9 @@ Route::group(['prefix' => 'shan'], function () {
     Route::post('getbalance', [ShanGetBalanceController::class, 'getBalance']);
     Route::post('/client/balance-update', [BalanceUpdateCallbackController::class, 'handleBalanceUpdate']); 
 });
+
+// Pone Wine client callback route
+Route::post('/pone-wine/client-report', [PoneWineClientBalanceUpdateController::class, 'PoneWineClientReport']);
 
 // provider shan api
 Route::group(['prefix' => 'provider/shan'], function () {
