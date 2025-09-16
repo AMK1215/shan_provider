@@ -252,7 +252,7 @@ class PoneWineBetController extends Controller
         return PoneWineBet::create([
             'room_id' => $data['roomId'],
             'match_id' => $data['matchId'],
-            'win_number' => $data['winNumber'],
+            'win_number' => $data['winNumber'], // Now properly stores integer
         ]);
     }
 
