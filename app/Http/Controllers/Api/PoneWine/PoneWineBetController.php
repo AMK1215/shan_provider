@@ -51,7 +51,12 @@ class PoneWineBetController extends Controller
             DB::beginTransaction();
             $results = [];
 
-            foreach ($validatedData as $data) {
+            // Handle both single object and array of objects
+            $dataArray = is_array($validatedData) && isset($validatedData[0]) && is_array($validatedData[0]) 
+                ? $validatedData 
+                : [$validatedData];
+
+            foreach ($dataArray as $data) {
                 $bet = $this->createBet($data);
                 $results = array_merge($results, $this->processPlayersWithAgentHandling($data, $bet));
             }

@@ -71,7 +71,9 @@ Route::prefix('v1/api/seamless')->group(function () {
 });
 
 Route::post('/transactions', [ShanTransactionController::class, 'ShanTransactionCreate'])->middleware('transaction');
+
 Route::post('ponewine/bet', [PoneWineBetController::class, 'index'])->middleware('transaction');
+
 Route::post('/client/ponewine/launch-game', [ProviderPoneWineLaunchGameController::class, 'PoneWinelaunchGameForClient']);
 
 // Client launch game endpoint (no authentication required)

@@ -21,16 +21,35 @@ class PoneWineBetRequest extends FormRequest
      */
     public function rules(): array
     {
-        return [
-            '*.roomId' => 'required',
-            '*.matchId' => 'required',
-            '*.winNumber' => 'required',
-            '*.players' => 'required|array',
-            '*.players.*.playerId' => 'required',
-            '*.players.*.betInfos' => 'required|array',
-            '*.players.*.winLoseAmount' => 'required',
-            '*.players.*.betInfos.*.betNumber' => 'required',
-            '*.players.*.betInfos.*.betAmount' => 'required',
-        ];
+        // Check if the request is an array of objects or a single object
+        $data = $this->all();
+        
+        if (is_array($data) && isset($data[0]) && is_array($data[0])) {
+            // Array of objects format
+            return [
+                '*.roomId' => 'required|integer',
+                '*.matchId' => 'required|string|max:255',
+                '*.winNumber' => 'required|integer',
+                '*.players' => 'required|array',
+                '*.players.*.playerId' => 'required|string|max:255',
+                '*.players.*.betInfos' => 'required|array',
+                '*.players.*.winLoseAmount' => 'required|numeric',
+                '*.players.*.betInfos.*.betNumber' => 'required|integer',
+                '*.players.*.betInfos.*.betAmount' => 'required|numeric|min:0',
+            ];
+        } else {
+            // Single object format
+            return [
+                'roomId' => 'required|integer',
+                'matchId' => 'required|string|max:255',
+                'winNumber' => 'required|integer',
+                'players' => 'required|array',
+                'players.*.playerId' => 'required|string|max:255',
+                'players.*.betInfos' => 'required|array',
+                'players.*.winLoseAmount' => 'required|numeric',
+                'players.*.betInfos.*.betNumber' => 'required|integer',
+                'players.*.betInfos.*.betAmount' => 'required|numeric|min:0',
+            ];
+        }
     }
 }
