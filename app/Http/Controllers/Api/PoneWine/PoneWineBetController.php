@@ -48,6 +48,11 @@ class PoneWineBetController extends Controller
         try {
             $validatedData = $request->validated();
 
+            // Extract data from 'req' wrapper if present
+            if (isset($validatedData['req'])) {
+                $validatedData = $validatedData['req'];
+            }
+
             DB::beginTransaction();
             $results = [];
 
