@@ -156,6 +156,7 @@ class PoneWineBetController extends Controller
 
         $secretKey = $agent?->shan_secret_key;
         $callbackUrlBase = $agent?->shan_callback_url;
+        
 
         Log::info('PoneWineTransaction: Agent information', [
             'agent_id' => $agent?->id,
@@ -166,9 +167,7 @@ class PoneWineBetController extends Controller
             'has_callback_url' => !empty($callbackUrlBase),
         ]);
 
-        // Step 4: Generate unique wager_code
-        $wagerCode = Str::random(12);
-        Log::info('PoneWineTransaction: Using wager_code', ['wager_code' => $wagerCode]);
+        // Step 4: Process players (no wager_code needed for Pone Wine)
 
         // Step 5: Process each player's transaction
         $results = [];
@@ -216,23 +215,20 @@ class PoneWineBetController extends Controller
         }
 
         // Step 6: Send callback to client site if agent and callback URL available
-        if ($agent && $callbackUrlBase && $secretKey) {
+        if ($agent && $callbackUrlBase) {
             $this->sendCallbackToClient(
                 $callbackUrlBase,
-                array_merge($data, ['wagerCode' => $wagerCode]),
-                $callbackPlayers,
-                $secretKey
+                $data,
+                $callbackPlayers
             );
         } else {
-            Log::warning('PoneWineTransaction: Skipping callback - missing agent, URL or secret key', [
+            Log::warning('PoneWineTransaction: Skipping callback - missing agent or URL', [
                 'has_agent' => !empty($agent),
                 'has_callback_url' => !empty($callbackUrlBase),
-                'has_secret_key' => !empty($secretKey),
             ]);
         }
 
         Log::info('PoneWineTransaction: Transaction completed successfully', [
-            'wager_code' => $wagerCode,
             'total_player_net' => $totalPlayerNet,
             'processed_players_count' => count($results),
         ]);
@@ -303,8 +299,7 @@ class PoneWineBetController extends Controller
     private function sendCallbackToClient(
         string $callbackUrlBase,
         array $gameData,
-        array $callbackPlayers,
-        string $secretKey
+        array $callbackPlayers
     ): void {
         $callbackUrl = $callbackUrlBase . 'api/pone-wine/client-report';
 
@@ -312,14 +307,8 @@ class PoneWineBetController extends Controller
             'roomId' => $gameData['roomId'] ?? 0,
             'matchId' => $gameData['matchId'] ?? 'UNKNOWN',
             'winNumber' => $gameData['winNumber'] ?? 0,
-            'wagerCode' => $gameData['wagerCode'] ?? 'UNKNOWN',
             'players' => $callbackPlayers,
         ];
-
-        // Generate signature for security
-        ksort($callbackPayload);
-        $signature = hash_hmac('md5', json_encode($callbackPayload), $secretKey);
-        $callbackPayload['signature'] = $signature;
 
         try {
             $client = new Client();
