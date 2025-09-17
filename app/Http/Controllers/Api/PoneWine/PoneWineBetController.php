@@ -101,39 +101,44 @@ class PoneWineBetController extends Controller
             throw new \RuntimeException("First player not found: {$firstPlayerId}");
         }
 
-        // Step 3: Get agent information (same logic as ShanTransactionController)
+        // Step 3: Get agent information - use player's direct agent relationship
         $agent = null;
         
-        // Find agent by player's shan_agent_code
-        if ($firstPlayer->shan_agent_code) {
+        // Primary: Find agent by player's agent_id (direct relationship)
+        if ($firstPlayer->client_agent_id) {
+            $agent = User::find($firstPlayer->client_agent_id);
+            
+            if ($agent && $agent->type == 20) {
+                Log::info('PoneWineTransaction: Found agent by agent_id', [
+                    'player_id' => $firstPlayer->id,
+                    'player_username' => $firstPlayer->user_name,
+                    'player_agent_id' => $firstPlayer->client_agent_id,
+                    'agent_id' => $agent->id,
+                    'agent_username' => $agent->user_name,
+                    'agent_shan_code' => $agent->shan_agent_code,
+                ]);
+            } else {
+                $agent = null; // Not a valid agent
+                Log::warning('PoneWineTransaction: Invalid agent found by agent_id', [
+                    'player_id' => $firstPlayer->id,
+                    'player_username' => $firstPlayer->user_name,
+                    'player_agent_id' => $firstPlayer->agent_id,
+                    'found_agent_type' => $agent?->type,
+                ]);
+            }
+        }
+
+        // Fallback: Find agent by player's shan_agent_code (legacy support)
+        if (!$agent && $firstPlayer->shan_agent_code) {
             $agent = User::where('shan_agent_code', $firstPlayer->shan_agent_code)
                         ->where('type', 20)
                         ->first();
             
             if ($agent) {
-                Log::info('PoneWineTransaction: Found agent by shan_agent_code', [
+                Log::info('PoneWineTransaction: Found agent by shan_agent_code (fallback)', [
                     'player_id' => $firstPlayer->id,
                     'player_username' => $firstPlayer->user_name,
                     'shan_agent_code' => $firstPlayer->shan_agent_code,
-                    'agent_id' => $agent->id,
-                    'agent_username' => $agent->user_name,
-                ]);
-            }
-        }
-        
-        // Fallback: Find agent by agent_id
-        if (!$agent && $firstPlayer->agent_id) {
-            $agent = User::find($firstPlayer->agent_id);
-            
-            if ($agent && $agent->type != 20) {
-                $agent = null; // Not a valid agent
-            }
-            
-            if ($agent) {
-                Log::info('PoneWineTransaction: Found agent by agent_id', [
-                    'player_id' => $firstPlayer->id,
-                    'player_username' => $firstPlayer->user_name,
-                    'player_agent_id' => $firstPlayer->agent_id,
                     'agent_id' => $agent->id,
                     'agent_username' => $agent->user_name,
                 ]);
@@ -159,10 +164,12 @@ class PoneWineBetController extends Controller
         
 
         Log::info('PoneWineTransaction: Agent information', [
-            'agent_id' => $agent?->id,
-            'agent_username' => $agent?->user_name,
+            'agent_id' => $agent?->client_agent_id,
+            'agent_username' => $agent?->client_agent_name,
             'agent_type' => $agent?->type,
             'agent_shan_code' => $agent?->shan_agent_code,
+            'agent_client_agent_id' => $agent?->client_agent_id,
+            'agent_client_agent_name' => $agent?->client_agent_name,
             'has_secret_key' => !empty($secretKey),
             'has_callback_url' => !empty($callbackUrlBase),
         ]);
@@ -205,6 +212,8 @@ class PoneWineBetController extends Controller
                 'balance' => $afterBalance, // Player's NEW balance from provider
                 'winLoseAmount' => $playerData['winLoseAmount'],
                 'betInfos' => $playerData['betInfos'],
+                'client_agent_name' => $player->client_agent_name,
+                'client_agent_id' => $player->client_agent_id,
             ];
 
             $results[] = [
