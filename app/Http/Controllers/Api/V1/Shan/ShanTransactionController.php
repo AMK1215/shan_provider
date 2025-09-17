@@ -105,8 +105,8 @@ class ShanTransactionController extends Controller
                         'player_id' => $firstPlayer->id,
                         'player_username' => $firstPlayer->user_name,
                         'shan_agent_code' => $firstPlayer->shan_agent_code,
-                        'agent_id' => $agent->id,
-                        'agent_username' => $agent->user_name,
+                        'agent_id' => $agent->client_agent_id,
+                        'agent_username' => $agent->client_agent_name,
                     ]);
                 }
             }
@@ -123,9 +123,9 @@ class ShanTransactionController extends Controller
                     Log::info('ShanTransaction: Found agent by agent_id', [
                         'player_id' => $firstPlayer->id,
                         'player_username' => $firstPlayer->user_name,
-                        'player_agent_id' => $firstPlayer->agent_id,
-                        'agent_id' => $agent->id,
-                        'agent_username' => $agent->user_name,
+                        'player_agent_id' => $firstPlayer->client_agent_id,
+                        'agent_id' => $agent->client_agent_id,
+                        'agent_username' => $agent->client_agent_name,
                     ]);
                 }
             }
@@ -139,8 +139,8 @@ class ShanTransactionController extends Controller
                         $agent = $bankerUser;
                         Log::info('ShanTransaction: Found agent from banker data', [
                             'banker_player_id' => $bankerPlayerId,
-                            'agent_id' => $agent->id,
-                            'agent_username' => $agent->user_name,
+                            'agent_id' => $agent->client_agent_id,
+                            'agent_username' => $agent->client_agent_name,
                             'agent_type' => $agent->type,
                         ]);
                     }
@@ -155,8 +155,8 @@ class ShanTransactionController extends Controller
                     Log::warning('ShanTransaction: Using fallback agent', [
                         'player_id' => $firstPlayer->id,
                         'player_username' => $firstPlayer->user_name,
-                        'fallback_agent_id' => $agent->id,
-                        'fallback_agent_username' => $agent->user_name,
+                        'fallback_agent_id' => $agent->client_agent_id,
+                        'fallback_agent_username' => $agent->client_agent_name,
                     ]);
                 }
             }
@@ -165,9 +165,11 @@ class ShanTransactionController extends Controller
             $callbackUrlBase = $agent?->shan_callback_url;
 
             Log::info('ShanTransaction: Agent information', [
-                'agent_id' => $agent?->id,
+                'agent_id' => $agent?->client_agent_id,
                 'agent_username' => $agent?->user_name,
                 'agent_type' => $agent?->type,
+                'agent_client_agent_id' => $agent?->client_agent_id,
+                'agent_client_agent_name' => $agent?->client_agent_name,
                 'agent_shan_code' => $agent?->shan_agent_code,
                 'has_secret_key' => !empty($secretKey),
                 'has_callback_url' => !empty($callbackUrlBase),
@@ -287,8 +289,8 @@ class ShanTransactionController extends Controller
                     Log::info('ShanTransaction: Processing player', [
                         'player_id' => $player->id,
                         'username' => $player->user_name,
-                        'agent_id' => $agent?->id,
-                        'agent_name' => $agent?->user_name,
+                        'agent_id' => $agent?->client_agent_id,
+                        'agent_name' => $agent?->client_agent_name,
                         'player_data' => $playerData,
                     ]);
 
@@ -342,7 +344,7 @@ class ShanTransactionController extends Controller
                     // Store transaction history
                     ReportTransaction::create([
                         'user_id' => $player->id,
-                        'agent_id' => $agent?->id,
+                        'agent_id' => $agent?->client_agent_id,
                         'agent_code' => $agent->shan_agent_code,
                         'member_account' => $player->user_name,
                         'transaction_amount' => $amountChanged,
@@ -445,7 +447,7 @@ class ShanTransactionController extends Controller
                 // Store banker transaction
                 ReportTransaction::create([
                     'user_id' => $banker->id,
-                    'agent_id' => $agent->id,
+                    'agent_id' => $agent->client_agent_id,
                     'agent_code' => $agent->shan_agent_code,
                     'member_account' => $banker->user_name,
                     'transaction_amount' => abs($bankerAmountChange),
