@@ -200,44 +200,20 @@ class PoneWineBetController extends Controller
             $playerData = $playerInfo['data'];
 
             $beforeBalance = $player->balanceFloat;
-            $transactionResult = $this->handlePlayerTransaction($data, $playerData, $player, $bet);
+            $this->handlePlayerTransaction($data, $playerData, $player, $bet);
             $player->refresh();
             $afterBalance = $player->balanceFloat;
             $amountChanged = $afterBalance - $beforeBalance;
             $totalPlayerNet += $amountChanged;
-
-            // Format bet infos for callback
-            $formattedBetInfos = [];
-            foreach ($transactionResult['betInfos'] as $betInfo) {
-                $formattedBetInfos[] = [
-                    'id' => $betInfo->id,
-                    'betNumber' => $betInfo->bet_no,
-                    'betAmount' => $betInfo->bet_amount,
-                    'pone_wine_player_bet_id' => $betInfo->pone_wine_player_bet_id,
-                    'created_at' => $betInfo->created_at,
-                    'updated_at' => $betInfo->updated_at,
-                ];
-            }
 
             // Add to callback players (format for Pone Wine client callback)
             $callbackPlayers[] = [
                 'player_id' => $player->user_name,
                 'balance' => $afterBalance, // Player's NEW balance from provider
                 'winLoseAmount' => $playerData['winLoseAmount'],
-                'betInfos' => $playerData['betInfos'], // Original bet infos from request
+                'betInfos' => $playerData['betInfos'],
                 'client_agent_name' => $player->client_agent_name,
                 'client_agent_id' => $player->client_agent_id,
-                // Database model information
-                'pone_wine_player_bet' => [
-                    'id' => $transactionResult['betPlayer']->id,
-                    'user_id' => $transactionResult['betPlayer']->user_id,
-                    'user_name' => $transactionResult['betPlayer']->user_name,
-                    'win_lose_amt' => $transactionResult['betPlayer']->win_lose_amt,
-                    'pone_wine_bet_id' => $transactionResult['betPlayer']->pone_wine_bet_id,
-                    'created_at' => $transactionResult['betPlayer']->created_at,
-                    'updated_at' => $transactionResult['betPlayer']->updated_at,
-                ],
-                'pone_wine_bet_infos' => $formattedBetInfos,
             ];
 
             $results[] = [
@@ -252,8 +228,7 @@ class PoneWineBetController extends Controller
             $this->sendCallbackToClient(
                 $callbackUrlBase,
                 $data,
-                $callbackPlayers,
-                $bet
+                $callbackPlayers
             );
         } else {
             Log::warning('PoneWineTransaction: Skipping callback - missing agent or URL', [
@@ -275,16 +250,11 @@ class PoneWineBetController extends Controller
         return User::where('user_name', $username)->first();
     }
 
-    private function handlePlayerTransaction(array $data, array $playerData, User $player, $bet): array
+    private function handlePlayerTransaction(array $data, array $playerData, User $player, $bet): void
     {
         $betPlayer = $this->createBetPlayer($bet, $player, $playerData['winLoseAmount']);
-        $betInfos = $this->createBetInfos($betPlayer, $playerData['betInfos']);
+        $this->createBetInfos($betPlayer, $playerData['betInfos']);
         $this->updatePlayerBalance($player, $playerData['winLoseAmount']);
-        
-        return [
-            'betPlayer' => $betPlayer,
-            'betInfos' => $betInfos
-        ];
     }
 
     private function createBet(array $data): PoneWineBet
@@ -306,18 +276,15 @@ class PoneWineBetController extends Controller
         ]);
     }
 
-    private function createBetInfos(PoneWinePlayerBet $betPlayer, array $betInfos): array
+    private function createBetInfos(PoneWinePlayerBet $betPlayer, array $betInfos): void
     {
-        $createdBetInfos = [];
         foreach ($betInfos as $info) {
-            $betInfo = PoneWineBetInfo::create([
+            PoneWineBetInfo::create([
                 'bet_no' => $info['betNumber'],
                 'bet_amount' => $info['betAmount'],
                 'pone_wine_player_bet_id' => $betPlayer->id,
             ]);
-            $createdBetInfos[] = $betInfo;
         }
-        return $createdBetInfos;
     }
 
     private function updatePlayerBalance(User $player, float $amountChanged): void
@@ -341,71 +308,15 @@ class PoneWineBetController extends Controller
     private function sendCallbackToClient(
         string $callbackUrlBase,
         array $gameData,
-        array $callbackPlayers,
-        PoneWineBet $bet
+        array $callbackPlayers
     ): void {
         $callbackUrl = $callbackUrlBase . '/api/pone-wine/client-report';
-
-        // Collect all player bets for this bet
-        $playerBets = PoneWinePlayerBet::where('pone_wine_bet_id', $bet->id)->get();
-        $playerBetsData = [];
-        $betInfosData = [];
-
-        foreach ($playerBets as $playerBet) {
-            // Collect bet infos for this player bet
-            $betInfos = PoneWineBetInfo::where('pone_wine_player_bet_id', $playerBet->id)->get();
-            $playerBetInfos = [];
-            
-            foreach ($betInfos as $betInfo) {
-                $playerBetInfos[] = [
-                    'id' => $betInfo->id,
-                    'bet_no' => $betInfo->bet_no,
-                    'bet_amount' => $betInfo->bet_amount,
-                    'pone_wine_player_bet_id' => $betInfo->pone_wine_player_bet_id,
-                    'created_at' => $betInfo->created_at,
-                    'updated_at' => $betInfo->updated_at,
-                ];
-                
-                // Also add to global bet infos array
-                $betInfosData[] = [
-                    'id' => $betInfo->id,
-                    'bet_no' => $betInfo->bet_no,
-                    'bet_amount' => $betInfo->bet_amount,
-                    'pone_wine_player_bet_id' => $betInfo->pone_wine_player_bet_id,
-                    'created_at' => $betInfo->created_at,
-                    'updated_at' => $betInfo->updated_at,
-                ];
-            }
-
-            $playerBetsData[] = [
-                'id' => $playerBet->id,
-                'pone_wine_bet_id' => $playerBet->pone_wine_bet_id,
-                'user_id' => $playerBet->user_id,
-                'user_name' => $playerBet->user_name,
-                'win_lose_amt' => $playerBet->win_lose_amt,
-                'created_at' => $playerBet->created_at,
-                'updated_at' => $playerBet->updated_at,
-                'bet_infos' => $playerBetInfos, // Nested bet infos for this player
-            ];
-        }
 
         $callbackPayload = [
             'roomId' => $gameData['roomId'] ?? 0,
             'matchId' => $gameData['matchId'] ?? 'UNKNOWN',
             'winNumber' => $gameData['winNumber'] ?? 0,
-            'players' => $callbackPlayers, // Original player data from request
-            // Complete database model information
-            'pone_wine_bet' => [
-                'id' => $bet->id,
-                'room_id' => $bet->room_id,
-                'match_id' => $bet->match_id,
-                'win_number' => $bet->win_number,
-                'status' => $bet->status,
-                'created_at' => $bet->created_at,
-                'updated_at' => $bet->updated_at,
-            ],
-            'pone_wine_player_bets' => $playerBetsData,
-            'pone_wine_bet_infos' => $betInfosData, // All bet infos in flat array
+            'players' => $callbackPlayers,
         ];
 
         try {
