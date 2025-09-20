@@ -212,8 +212,14 @@ class ProviderLaunchGameController extends Controller
         $balance = $clientUser->fresh()->balanceFloat;
 
         // Build launch game URL with Shan provider configuration
+        // $launchGameUrl = sprintf(
+        //     'https://use.shweshankoemee.site/?user_name=%s&balance=%s',
+        //     urlencode($memberAccount),
+        //     $balance
+        // );
+
         $launchGameUrl = sprintf(
-            'https://use.shweshankoemee.site/?user_name=%s&balance=%s',
+            'https://goldenmyanmar.pro/?user_name=%s&balance=%s',
             urlencode($memberAccount),
             $balance
         );
