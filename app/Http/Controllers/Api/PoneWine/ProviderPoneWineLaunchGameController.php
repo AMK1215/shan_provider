@@ -212,8 +212,14 @@ class ProviderPoneWineLaunchGameController extends Controller
         $balance = $clientUser->fresh()->balanceFloat;
 
         // Build launch game URL with Shan provider configuration
-        $launchGameUrl = sprintf(
-            'https://mm-ponewine.vercel.app/?user_name=%s&balance=%s',
+        // $launchGameUrl = sprintf(
+        //     'https://mm-ponewine.vercel.app/?user_name=%s&balance=%s',
+        //     urlencode($memberAccount),
+        //     $balance
+        // );
+
+         $launchGameUrl = sprintf(
+            'https://user.ponewine20x.xyz/?user_name=%s&balance=%s',
             urlencode($memberAccount),
             $balance
         );
